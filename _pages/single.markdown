@@ -1,11 +1,11 @@
 ---
 layout: default-full
-title:  "Atlante delle stragi nazifasciste"
-subtitle: "cronografia della guerra nazista in Italia"
+title:  "Non si molla… e che Dio ci benedica!"
+subtitle: "Le proteste degli agricoltori viste attraverso i dati"
 show_sidetoc: true
 header_type: hero #base, post, hero,image, splash
-header_img: assets/images/Atlante_cover.jpeg
-header_title: "Atlante delle stragi nazifasciste"
+header_img: assets/images/Immagine1.jpg
+header_title: "Non si molla… e che Dio ci benedica!"
 vega: true
 ---
 

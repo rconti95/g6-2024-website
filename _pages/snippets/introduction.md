@@ -1,10 +1,9 @@
-# L’Atlante delle stragi nazifasciste
+# Dati ISTAT Agricoltura
 
-L’Atlante delle stragi naziste e fasciste si compone di una banca dati e dei materiali di corredo (documentari, iconografici, video) correlati agli episodi censiti, ospitati all’interno del sito web.
+Abbiamo scaricato dal sito <b>ISTAT</b> (https://www.istat.it/en/news/statbase-access-to-most-frequently-requested-data/) il file csv relativo all'Agricoltura.
 
-Nella banca dati sono state catalogate e analizzate tutte le stragi e le uccisioni singole di civili e partigiani uccisi al di fuori dello scontro armato, commesse da reparti tedeschi e della Repubblica Sociale Italiana in Italia dopo l’8 settembre 1943, a partire dalle prime uccisioni nel Meridione fino alle stragi della ritirata eseguite in Piemonte, Lombardia, Veneto e Trentino Alto Adige nei giorni successivi alla liberazione.
+Abbiamo creato un grafico interattivo con un menù a tendina, per la selezione del _"Tipo dato"_. Il grafico mostra i valori del "Tipo dato" selezionato per l'Italia per ogni anno dal 2006 al 2023.
 
-L’elaborazione su base cronologica e geografica dell’insieme dei dati censiti ha consentito la definizione di una _cronografia della guerra nazista in Italia_, che mette in correlazione modalità, autori, tempi e luoghi della violenza contro gli inermi sul territorio nazionale.
 {% capture dataset_details %}
 {% include_relative snippets/dataset-details.md %}
 {% endcapture %}

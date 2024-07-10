@@ -1,5 +1,5 @@
 ---
-layout: default-full
+layout: section_layout
 title:  '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 subtitle: "Analisi delle proteste agricole nel contesto italiano"
 show_sidetoc: true
@@ -9,9 +9,5 @@ header_title: '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 vega: true
 ---
 
-[//]: # (variables section)
-{% comment %}
-{% capture introduction_content %}
-{% include_relative snippets/introduction.md %}
-{% endcapture %}
-{% endcomment %}
+# Conclusioni
+Qui è dove vanno scritte le conclusioni

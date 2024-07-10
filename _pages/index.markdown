@@ -4,13 +4,14 @@
 
 layout: default-full
 title: "Home"
-subtitle: "un template per i progetti del master SoBigData"
+subtitle: "Analisi delle proteste agricole nel contesto italiano"
 show_sidetoc: true
 header_type: hero #base, post, hero,image, splash
-header_img: assets/images/stampo_biscotti.jpg
-header_title: "Progettone Template"
+header_img: assets/images/Immagine1.jpg
+header_title: '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 ---
 
+<!--
 <div class="container py-3">
     <div class="row">
         <div class="col-md-3 col-md-offset-3">
@@ -23,6 +24,7 @@ Il template proposto è basato su Bootstrap e Jekyll e include una serie di funz
         </div>
     </div>
 </div>
+-->
 
 <div class="row pb-5">
     <div class="col-md-12 col-sm-12">
@@ -30,11 +32,11 @@ Il template proposto è basato su Bootstrap e Jekyll e include una serie di funz
             {% for image in site.data.home-cards %}
             <div class="card" style="width: 18rem;">
                     <a href="{{site.baseurl}}{{ image.path}}">
-                    <div class="card-img" style="height: 165px" ><img src="{{site.baseurl}}{{ image.url}}" class="card-img-top" alt="{{ image.name }}">
+                    <div class="card-img" style="height: 190px" ><img src="{{site.baseurl}}{{ image.url}}" class="card-img-top" alt="{{ image.name }}">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">{{ image.name }}</h5>
-                        <p class="card-text">{{ image.description }}</p>
+                       <!-- <p class="card-text">{{ image.description }}</p>-->
                     </div>
                     </a>    
             </div>
@@ -43,7 +45,7 @@ Il template proposto è basato su Bootstrap e Jekyll e include una serie di funz
     </div>
 </div>
 
-
+<!--
 <div class="container py-3 mb-0 bg-color-full bg-color">
     <div class="row">
         <div class="col-md-3 col-md-offset-3">
@@ -54,3 +56,4 @@ Il template proposto è basato su Bootstrap e Jekyll e include una serie di funz
         </div>
     </div>
 </div>
+-->

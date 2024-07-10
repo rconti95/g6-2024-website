@@ -45,32 +45,47 @@ github_repo:
 navbar:
   style :  dual #non modificare
   brand: # è il titolo del sito e funziona da bottone (tipicamente per la homepage).
-    title :  "Progettone Website Guide"
+    #title :  "Progettone Website Guide"
+    title: "HOME"
     img: "./assets/images/Logo_masthead.png"
     url: /
   nav:
-   # - title: Bootstrap
+   #- title: Bootstrap
    #  url: /bootstrap
+   - title: INTRODUZIONE
+     url: /introduction
+   - title: IL MONDO AGRICOLO IN ITALIA
+     url: /mondo_agricolo_italia
+   - title: I 10 PUNTI
+     url: /10punti
+     #child:
+     #  - title: "Area tematica 1" #Label
+     #    url: /10punti#area-tematica-1 #url
+     #  - title: "Area tematica 2" #Label
+     #    url: /10punti#area-tematica-2 #url
+     #  - title: "Area tematica 3" #Label
+     #    url: /10punti#area-tematica-3 #url
+   - title: CONCLUSIONI
+     url: /conclusioni
     #- title: Jekyll
     #  url: /jekyll-ssg
     #- title: Charts
     #  url: /charts
-    #- title: Write first #Label
+  #- title: Write first #Label
     #  child:
      #   - title: markdown cheatsheet #Label
      #     url: /markdown  #url
      #   - title: kramdown cheatsheet #Label
      #     url: /kramdown #url
-    #- title: One page demo
-    #  child:
-        - title: Demo
-          url: /single
-     #   - title: "Sezione 1" #Label
-     #     url: /single#sezione-1 #url
-      #  - title: "Sezione 1.1" #Label
-      #    url: /single#sezione-11 #url
-      #  - title: "Sezione 1.2" #Label
-      #    url: /single#sezione-12 #url
+   #- title: One page demo
+   #  child:
+    #   - title: "Sezione 1" #Label
+    #     url: /single#sezione-1 #url
+    #   - title: "Sezione 1.1" #Label
+    #     url: /single#sezione-11 #url
+    #   - title: "Sezione 1.2" #Label
+    #     url: /single#sezione-12 #url
+       
 
 
 
@@ -80,7 +95,7 @@ googlefonts:
   - url: "https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap"
 
 chulapa-skin:
-  skin:  "graymor" #"graymor" "gitdev-dark" "gitdev" "universal" "academia" "gitdev" "towards" "pear" "twitter-lights-out" "twitter-dim" "wandoo" "lymcha" "twitter" "chulapa" "sunset" "sunset" "minty" "lux" "journal" "deeply"
+  skin:  "sunset" #"graymor" "gitdev-dark" "gitdev" "universal" "academia" "gitdev" "towards" "pear" "twitter-lights-out" "twitter-dim" "wandoo" "lymcha" "twitter" "chulapa" "sunset" "sunset" "minty" "lux" "journal" "deeply"
   vars:
     body-bg: "#fbf1ed"
     # font-family-base: "Comic Neue"

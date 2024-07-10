@@ -1,16 +1,28 @@
-- name: Bootstrap
-  url:  "assets/images/bootstrap_t.png"
+- name: INTRODUZIONE
+  url:  "assets/images/PROTESTE_AGRICOLTORI.jpg"
   description: "Una panoramica di Bootstrap"
-  path: "bootstrap"
-- name: Jekyll
-  url:  "assets/images/jekyll_t.png"
-  description: "Una panoramica di Jekyll"
-  path: "jekyll-ssg"
-- name: Altair Charts
-  url:  "assets/images/altair-gallery_t.png"
-  description: "Come esportare grafici con Altair"
-  path: "charts"
-- name: Markdown
-  url:  "assets/images/markdown_t.png"
-  description: "Cheatsheet per Markdown e Kramdown"
-  path: "markdown"
+  path: "introduction"
+- name: IL MONDO AGRICOLO IN ITALIA
+  #url:  "assets/images/lavoro-agricolo-italia.jpg"
+  description: "Una panoramica di Bootstrap"
+  path: "mondo_agricolo_italia"
+- name: I 10 PUNTI
+  #url:  "assets/images/10punti.jpg"
+  description: "Una panoramica di Bootstrap"
+  path: "10punti"
+- name: CONCLUSIONI
+  url:  "assets/images/pianura-agricoltura.jpg"
+  description: "Una panoramica di Bootstrap"
+  path: "conclusioni"
+#- name: Jekyll
+# url:  "assets/images/jekyll_t.png"
+#  description: "Una panoramica di Jekyll"
+#  path: "jekyll-ssg"
+#- name: Altair Charts
+#  url:  "assets/images/altair-gallery_t.png"
+#  description: "Come esportare grafici con Altair"
+#  path: "charts"
+#- name: Markdown
+#  url:  "assets/images/markdown_t.png"
+#  description: "Cheatsheet per Markdown e Kramdown"
+#  path: "markdown"

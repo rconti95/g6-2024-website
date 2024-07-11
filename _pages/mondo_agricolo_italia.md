@@ -14,6 +14,8 @@ vega: true
 
 Guardando ai dati CREA, l’Italia è un paese dove il fatturato agricolo ha un’incidenza superiore al 4% sull’economia dell’intero paese. Un settore, dunque, con un’importanza altissima, apparentemente eclissata dall’avanzata del settore terziario. 
 
+Questa è una prova per capire
+
 {% capture tech_section_1 %} {% include_relative snippets/gallery-images.md %} {% endcapture %}
 
 {% include tech-content.html content=tech_section_1 %}

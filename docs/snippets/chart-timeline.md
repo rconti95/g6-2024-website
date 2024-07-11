@@ -1,7 +1,11 @@
-<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
+### Timeline delle stragi nazifasciste
+<br>
+<vegachart schema-url="{{site.baseurl}}/assets/charts/stragi.json" style="width: 100%"></vegachart>
 
-_Il grafico mostra i valori dell'Italia per la tipologia di dato selezionato dal 2006 al 2023._
+_In questo grafico sono rappresentate il numero di stragi nel tempo_
 
-# Mappatura delle proteste
+{% capture chart_tech %}
+{% include_relative snippets/tech/chart-tech.md %}
+{% endcapture %}
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>
+{% include tech-content.html content=chart_tech %}

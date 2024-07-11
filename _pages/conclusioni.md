@@ -11,3 +11,5 @@ vega: true
 
 # Conclusioni
 Qui è dove vanno scritte le conclusioni
+
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>

@@ -1,3 +1,7 @@
-<vegachart schema-url="{{site.baseurl}}/assets/charts/stragi.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
 
-_In questo grafico sono rappresentate il numero di stragi nel tempo_
+_Il grafico mostra i valori dell'Italia per la tipologia di dato selezionato dal 2006 al 2023._
+
+# Mappatura delle proteste
+
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>

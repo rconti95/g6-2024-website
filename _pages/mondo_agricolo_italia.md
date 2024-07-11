@@ -18,6 +18,7 @@ Guardando ai dati CREA, l’Italia è un paese dove il fatturato agricolo ha un�
 
 {% include tech-content.html content=tech_section_1 %}
 
+
 La cultura del cibo e della qualità firmata “Made In Italy” devono infatti molta della loro immagine al lavoro di agricoltrici e agricoltori, il cui operato è spesso nascosto dal resto dei passi della filiera di produzione. 
 
 Ma chi sono questi lavoratori?

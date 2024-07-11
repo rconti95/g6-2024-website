@@ -12,20 +12,22 @@ header_title: '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 vega: true
 ---
 
-<!--
+
 <div class="container py-3">
     <div class="row">
         <div class="col-md-3 col-md-offset-3">
         </div>
         <div class="col-md-6">
             <hr>
-            <p>Questo template è stato disegnato per realizzare i progettoni del master SoBigData.
-Il template proposto è basato su Bootstrap e Jekyll e include una serie di funzionalità che possono essere utili per la creazione di un sito web.</p>
+            <p>Dal novembre del 2023, in Italia e in altri stati europei, abbiamo assistito a manifestazioni dall’impatto mediatico molto forte degli agricoltori. Media e giornali hanno così iniziato una narrazione di quanto stava accadendo nel nostro paese, dividendosi tra cronaca e politicizzazione dei fatti.
+Ma dove sono le cause, le motivazioni, le origini e le spinte di tutto ciò?
+Abbiamo deciso di adottare strumenti analitici e letteratura critica per capire cosa stesse succedendo, al di là delle (anche e soprattutto nostre) prime apparenze.</p>
             <hr>
         </div>
     </div>
 </div>
--->
+
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>
 
 <div class="row pb-5">
     <div class="col-md-12 col-sm-12">

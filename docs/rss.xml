@@ -3,19 +3,19 @@
 	<channel>
 		<title>Progettone Template | un template per i progetti del master SoBigData</title>
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
-		<link>https://danielefadda.github.io/sbd-master-template</link>
+		<link>https://rconti95.github.io/g6-2024-website</link>
 		<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
 		<language>en-US</language>
 		<copyright>(c) 2024, </copyright>	
-		<pubDate>Fri, 12 Jul 2024 14:27:17 +0200</pubDate>
-		<lastBuildDate>Fri, 12 Jul 2024 14:27:17 +0200</lastBuildDate>
+		<pubDate>Fri, 12 Jul 2024 14:29:28 +0200</pubDate>
+		<lastBuildDate>Fri, 12 Jul 2024 14:29:28 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
-		<atom:link href="https://danielefadda.github.io/sbd-master-template/rss.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://rconti95.github.io/g6-2024-website/rss.xml" rel="self" type="application/rss+xml" />
 		<image>
 			<title>Progettone Template | un template per i progetti del master SoBigData</title>
 			<url></url>
-			<link>https://danielefadda.github.io/sbd-master-template</link>
+			<link>https://rconti95.github.io/g6-2024-website</link>
 			<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
 		</image></channel>
 </rss>

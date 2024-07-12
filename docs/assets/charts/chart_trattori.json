@@ -963,7 +963,7 @@
       }
     ]
   },
-  "height": 600,
+  "height": 800,
   "layer": [
     {
       "data": {
@@ -1006,5 +1006,5 @@
       }
     }
   ],
-  "width": "container"
+  "width": 800
 }

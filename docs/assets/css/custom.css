@@ -118,4 +118,9 @@ iframe {
   transform: scale(1, 1) !important;
 }
 
+.resized-image {
+  width: 500px;
+  height: 300px;
+}
+
 /*# sourceMappingURL=custom.css.map */

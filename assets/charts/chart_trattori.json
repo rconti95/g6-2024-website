@@ -975,7 +975,7 @@
       },
       "mark": {
         "fill": "lightgray",
-        "stroke": "black",
+        "stroke": "grey",
         "strokeWidth": 1,
         "type": "geoshape"
       }

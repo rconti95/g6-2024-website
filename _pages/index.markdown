@@ -27,14 +27,6 @@ Abbiamo deciso di adottare strumenti analitici e letteratura critica per capire 
     </div>
 </div>
 
-
-{% capture plot %}
-    {% include_relative snippets/dataset-details.md %}
-{% endcapture %}
-
-{% include one-column.html dimension="fluid" content=plot %}
-
-<!--
 <div class="container py-3">
     <div class="row">
         <div class="col-md-2 col-md-offset-3">
@@ -44,8 +36,6 @@ Abbiamo deciso di adottare strumenti analitici e letteratura critica per capire 
         </div>
     </div>
 </div>
--->
-
 
 <div class="container py-3">
     <div class="row">

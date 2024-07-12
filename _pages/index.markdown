@@ -27,7 +27,54 @@ Abbiamo deciso di adottare strumenti analitici e letteratura critica per capire 
     </div>
 </div>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>
+
+{% capture plot %}
+    {% include_relative snippets/dataset-details.md %}
+{% endcapture %}
+
+{% include one-column.html dimension="fluid" content=plot %}
+
+<!--
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-2 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+                <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>
+        </div>
+    </div>
+</div>
+-->
+
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <em> ogni trattore rappresenta il comune in cui è avvenuta almeno una protesta.
+            </em>
+        </div>
+    </div>
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+{% capture mappatura_tech %}
+{% include_relative snippets/tech/mappatura-tech.md %}
+{% endcapture %}
+
+{% include tech-content.html content=mappatura_tech %}
+            <br>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<img src="{{site.baseurl}}/assets/images/LUC_GIF_TUSCANY.gif" width="700" height="500" alt="Test immagine">
 
 <div class="row pb-5">
     <div class="col-md-12 col-sm-12">
@@ -60,3 +107,5 @@ Abbiamo deciso di adottare strumenti analitici e letteratura critica per capire 
     </div>
 </div>
 -->
+
+{% include code-explanation.html %}

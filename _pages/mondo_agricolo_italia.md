@@ -22,7 +22,7 @@ Guardando ai dati CREA, l’Italia è un paese dove il fatturato agricolo ha un�
     {% include_relative snippets/introduction.md %}
 {% endcapture %}
 
-{% include one-column.html dimension="small" content=introduction_content %}
+{% include one-column.html dimension="fluid" content=introduction_content %}
 
 
 [//]: # (Chart Timeline Stragi)

@@ -1,4 +1,9 @@
-Questo dataset riporta tutti gli episodi documentati di massacri contro la popolazione perpetrati tra il 1943 e il 1945 da formazioni naziste e fasciste in tutto il Paese.
+
+Questo dataset riporta tutti gli episodi documentati di massacri contro la popolazione perpetrati tra il 
+
+1943 e il 1945 da formazioni naziste e 
+
+fasciste in tutto il Paese.
 
 Il dataset presenta un numero enorme di caratteristiche per ogni evento che possono essere riassunte in 5 macro aree (aspetti)
 
@@ -7,3 +12,5 @@ Il dataset presenta un numero enorme di caratteristiche per ogni evento che poss
 3. **Responsabili**: è stato indicato se si trattava di uccisioni compiute da nazisti, fascisti, o di azioni compiute in collaborazione da forze armate naziste e fasciste.
 4. **La memoria**: i "prodotti della memoria" - monumenti, lapidi, cippi, siti commemorativi, musei, memoriali e onorificenze.
 5. **Tools**In questa sezione i ricercatori hanno inserito le fonti primarie e secondarie e tutti gli altri strumenti - compresi siti web, materiali audiovisivi, banche dati - utilizzati per compilare le schede di indagine sui singoli episodi.
+
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>

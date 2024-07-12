@@ -1,7 +1,7 @@
-- name: INTRODUZIONE
+#- name: INTRODUZIONE
   #url:  "assets/images/bootstrap_t.png"
   #description: "Una panoramica di Bootstrap"
-  path: "introduzione"
+ # path: "introduzione"
 - name: IL MONDO AGRICOLO IN ITALIA
   #url:  "assets/images/jekyll_t.png"
   #description: "Una panoramica di Jekyll"

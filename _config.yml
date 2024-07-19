@@ -19,6 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+locale: "it-IT"
 title: "Progettone Template"
 subtitle: "un template per i progetti del master SoBigData"
 email: your-email@example.com
@@ -34,12 +35,7 @@ github_repo:
   - name: "Group 6 - Project repository"
     url: "https://github.com/AntonioDonnangelo/Group_6_2024_Project"
   - name: "Group 6 - Website repository"
-    url: "https://github.com/rconti95/g6-2024-website"
-
-
-
-
-
+    url: "https:/github.com/rconti95/g6-2024-website"
 
 
 navbar:
@@ -87,8 +83,6 @@ navbar:
     #     url: /single#sezione-12 #url
        
 
-
-
 googlefonts:
   - url: "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
   - url: "https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
@@ -100,6 +94,8 @@ chulapa-skin:
     body-bg: "#fbf1ed"
     # font-family-base: "Comic Neue"
     # headings-font-family: "Lekton"
+
+    # bundle exec jekyll serve
 
 
 #chulapa-skin:

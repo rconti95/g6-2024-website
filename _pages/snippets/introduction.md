@@ -2,7 +2,6 @@
 {% include_relative snippets/tech/onepage-tech.md %}
 {% endcapture %}
 
-{% include tech-content.html content=onepage_tech %}
 
 # L’Atlante delle stragi nazifasciste
 

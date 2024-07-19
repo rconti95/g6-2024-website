@@ -9,12 +9,14 @@ header_title: '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 vega: true
 ---
 
-# Il mondo agricolo in italia
-### Di famiglie e industrie
+# L’industria agroalimentare in Italia: una panoramica
 
-Guardando ai dati CREA, l’Italia è un paese dove il fatturato agricolo ha un’incidenza superiore al 4% sull’economia dell’intero paese. Un settore, dunque, con un’importanza altissima, apparentemente eclissata dall’avanzata del settore terziario. 
+Cosa vuol dire, nel nostro paese, essere un agricoltore o agricoltrice? I dati CREA suggeriscono che significa far parte di un’industria il cui fatturato nel 2022 ha avuto un’incidenza superiore al 4% sull’economia dell’intero paese. Un settore, dunque, con un’importanza altissima ma che, tuttavia, dal 2006 ha visto calare la sua forza produttiva, come dimostra il grafico sottostante. 
 
-<img src="{{site.baseurl}}/assets/images/circle_packing_entities_2.svg" style="background: transparent;" alt="SVG Image">
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
+
+Ma cosa si produce in Italia, e qual è la quantità di superficie che i vari prodotti occupano sul suolo italiano? Come si vede dai grafici sottostanti, i pascoli occupano buona parte della superficie agricola, seguiti poi dal frumento duro, l’olio d’oliva e il mais. Quanto alla produzione, l’Italia si concentra soprattutto su uva, frumento e mais. 
+
 
 [//]: # (Introduction section)
 {% capture introduction_content %}

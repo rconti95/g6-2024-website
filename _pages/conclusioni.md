@@ -13,3 +13,5 @@ vega: true
 Qui è dove vanno scritte le conclusioni
 
 <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
+
+<img src="{{site.baseurl}}/assets/images/circle_packing_entities_2.svg" style="background: transparent;" alt="SVG Image"> 

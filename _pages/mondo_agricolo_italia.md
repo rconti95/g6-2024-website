@@ -15,7 +15,25 @@ Cosa vuol dire, nel nostro paese, essere un agricoltore o agricoltrice? I dati C
 
 <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+{% capture grafico_istat %}
+{% include_relative snippets/tech/grafico_istat.md %}
+{% endcapture %}
+
+{% include tech-content.html content=grafico_istat %}
+            <br>
+            <hr>
+        </div>
+    </div>
+</div>
+
 Ma cosa si produce in Italia, e qual è la quantità di superficie che i vari prodotti occupano sul suolo italiano? Come si vede dai grafici sottostanti, i pascoli occupano buona parte della superficie agricola, seguiti poi dal frumento duro, l’olio d’oliva e il mais. Quanto alla produzione, l’Italia si concentra soprattutto su uva, frumento e mais. 
+
+
 
 
 [//]: # (Introduction section)

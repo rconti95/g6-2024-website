@@ -41,6 +41,10 @@ La rilevanza economica dell’industria alimentare è un aspetto importante, ma 
 
 La narrazione attorno al Made in Italy ha forse potuto imporsi grazie alla conformazione delle aziende agricole italiane, per lo più di medie-piccole dimensioni e a conduzione famigliare. Le multinazionali italiane e estere rappresentano rispettivamente solo il 12,5% e 4,5% del panorama italiano, secondo i dati Crea. Questo è un aspetto caratterizzante del settore agricolo italiano soprattutto rispetto agli altri Stati europei (sebbene, come si vede dal grafico, il trend di aziende a conduzione famigliare sia generalmente in crescita). 
 
+<img src="{{site.baseurl}}/assets/images/italiavseuropa.svg" style="background: transparent;" alt="italiavseuropa"> 
+
+<img src="{{site.baseurl}}/assets/images/realta_agricole.svg" style="background: transparent;" alt="realta_agricole"> 
+
 L’Italia è vicina a paesi come la Romania e la Polonia, dove la maggior parte delle aziende sono interamente possedute da famiglie, una parte minore a conduzione ibrida, in cui le famiglie ancora posseggono una parte delle aziende. Una minima parte delle aziende agricole appartiene a gruppi non famigliari. 
 Quella italiana è una realtà fatta di grandi industrie, ma soprattutto di lavoratrici e lavoratori che ereditano terra e lavorano i campi seguendo una spesso longeva tradizione famigliare. 
 

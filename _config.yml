@@ -54,13 +54,13 @@ navbar:
      url: /mondo_agricolo_italia
    - title: I 10 PUNTI
      url: /10punti
-     #child:
-     #  - title: "Area tematica 1" #Label
-     #    url: /10punti#area-tematica-1 #url
-     #  - title: "Area tematica 2" #Label
-     #    url: /10punti#area-tematica-2 #url
-     #  - title: "Area tematica 3" #Label
-     #    url: /10punti#area-tematica-3 #url
+     child:
+       - title: "Area tematica 1" #Label
+         url: /10punti#area-tematica-1 #url
+       - title: "Area tematica 2" #Label
+         url: /10punti#area-tematica-2 #url
+       - title: "Area tematica 3" #Label
+         url: /10punti#area-tematica-3 #url
    - title: CONCLUSIONI
      url: /conclusioni
     #- title: Jekyll

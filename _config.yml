@@ -55,11 +55,11 @@ navbar:
    - title: I 10 PUNTI
      url: /10punti
      child:
-       - title: "Area tematica 1" #Label
+       - title: "Il Green Deal Europeo" #Label
          url: /10punti#area-tematica-1 #url
-       - title: "Area tematica 2" #Label
+       - title: "Stato e agricoltori" #Label
          url: /10punti#area-tematica-2 #url
-       - title: "Area tematica 3" #Label
+       - title: "La figura dell’agricoltore" #Label
          url: /10punti#area-tematica-3 #url
    - title: CONCLUSIONI
      url: /conclusioni

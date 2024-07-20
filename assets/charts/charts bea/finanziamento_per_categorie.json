@@ -1,0 +1,115 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelAngle": 0,
+      "labelFont": "Lato",
+      "labelFontSize": 12,
+      "titleFont": "Lato",
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "font": "Lato",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-aec11d41f0c1b250ccc3e60af3f4ac28"
+  },
+  "datasets": {
+    "data-aec11d41f0c1b250ccc3e60af3f4ac28": [
+      {
+        "Category": "Eco-schemes",
+        "Proportion": 0.237624,
+        "Series 1": 24,
+        "Total": 101
+      },
+      {
+        "Category": [
+          "Basic Income Support",
+          "for Sustainability"
+        ],
+        "Proportion": 0.50495,
+        "Series 1": 51,
+        "Total": 101
+      },
+      {
+        "Category": "Cotton",
+        "Proportion": 0.009901,
+        "Series 1": 1,
+        "Total": 101
+      },
+      {
+        "Category": [
+          "Complementary redistributive",
+          "income support for sustainability"
+        ],
+        "Proportion": 0.108911,
+        "Series 1": 11,
+        "Total": 101
+      },
+      {
+        "Category": [
+          "Complementary Income",
+          "for Young Farmers"
+        ],
+        "Proportion": 0.019802,
+        "Series 1": 2,
+        "Total": 101
+      },
+      {
+        "Category": "Coupled Income Support",
+        "Proportion": 0.118812,
+        "Series 1": 12,
+        "Total": 101
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Proportion",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#c6f9db",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Proportion",
+        "title": "Proportion",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Proportion",
+      "scale": {
+        "domain": [
+          0,
+          0.6
+        ]
+      },
+      "title": "Proportion",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Category",
+      "sort": "-x",
+      "title": "Category",
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Finanziamento per categorie",
+  "width": "container"
+}

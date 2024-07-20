@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFont": "Lato",
+      "labelFontSize": 12,
+      "titleFont": "Lato",
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "font": "Lato",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-f28cff812ecc21b1dbced8ff42dd0ee4"
+  },
+  "datasets": {
+    "data-f28cff812ecc21b1dbced8ff42dd0ee4": [
+      {
+        "Allocation": 66.0,
+        "Categoria": "Rural development"
+      },
+      {
+        "Allocation": 8.9,
+        "Categoria": "Sectoral"
+      },
+      {
+        "Allocation": 189.2,
+        "Categoria": "Direct payments"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Allocation",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#c6f9db",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Categoria",
+        "type": "nominal"
+      },
+      {
+        "field": "Allocation",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Allocation",
+      "title": "Allocation (in billions)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Categoria",
+      "title": "Category",
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Pilastri della PAC con rispettivi fondi",
+  "width": "container"
+}

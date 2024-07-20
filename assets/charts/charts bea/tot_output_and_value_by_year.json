@@ -1,0 +1,198 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFont": "Lato",
+      "labelFontSize": 12,
+      "titleFont": "Lato",
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "font": "Lato",
+      "fontSize": 20
+    }
+  },
+  "datasets": {
+    "data-0f6bda27a528fd9b5fcdb18dc62fe1b0": [
+      {
+        "(SE131) Total output (\u20ac/farm)": 53138,
+        "Year": 2011
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 59543,
+        "Year": 2012
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 57940,
+        "Year": 2013
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 74035,
+        "Year": 2014
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 71030,
+        "Year": 2015
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 71323,
+        "Year": 2016
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 70811,
+        "Year": 2017
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 75830,
+        "Year": 2018
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 74574,
+        "Year": 2019
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 77437,
+        "Year": 2020
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 81115,
+        "Year": 2021
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 91672,
+        "Year": 2022
+      }
+    ],
+    "data-f8a05b37cd2d17b6cfa9494ec85cfd54": [
+      {
+        "Value": 810686,
+        "Year": 2011
+      },
+      {
+        "Value": 821712,
+        "Year": 2012
+      },
+      {
+        "Value": 819381,
+        "Year": 2013
+      },
+      {
+        "Value": 825502,
+        "Year": 2014
+      },
+      {
+        "Value": 832927,
+        "Year": 2015
+      },
+      {
+        "Value": 832265,
+        "Year": 2016
+      },
+      {
+        "Value": 846821,
+        "Year": 2017
+      },
+      {
+        "Value": 857245,
+        "Year": 2018
+      },
+      {
+        "Value": 870860,
+        "Year": 2019
+      },
+      {
+        "Value": 943494,
+        "Year": 2020
+      },
+      {
+        "Value": 986167,
+        "Year": 2021
+      },
+      {
+        "Value": 1091530,
+        "Year": 2022
+      }
+    ]
+  },
+  "height": 400,
+  "layer": [
+    {
+      "data": {
+        "name": "data-f8a05b37cd2d17b6cfa9494ec85cfd54"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Value",
+            "format": ",",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "axis": {
+            "labelAngle": 0
+          },
+          "field": "Year",
+          "title": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "axis": {
+            "titleColor": "#18E169"
+          },
+          "field": "Value",
+          "title": "Value",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "color": "#18E169",
+        "type": "bar"
+      }
+    },
+    {
+      "data": {
+        "name": "data-0f6bda27a528fd9b5fcdb18dc62fe1b0"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "(SE131) Total output (\u20ac/farm)",
+            "format": ",",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "field": "Year",
+          "title": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "axis": {
+            "titleColor": "#188FE1"
+          },
+          "field": "(SE131) Total output (\u20ac/farm)",
+          "title": "Total Output (\u20ac)",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "color": "#188FE1",
+        "point": {
+          "color": "#188FE1"
+        },
+        "type": "line"
+      }
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  },
+  "title": "Total Output and Value by Year (Starting from 2011)",
+  "width": "container"
+}

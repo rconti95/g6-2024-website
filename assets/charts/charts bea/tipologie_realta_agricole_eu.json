@@ -1,0 +1,433 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFont": "Lato",
+      "labelFontSize": 12,
+      "titleFont": "Lato",
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "font": "Lato",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-53b6b9825049b1de7a3c61778ec3b2ab"
+  },
+  "datasets": {
+    "data-53b6b9825049b1de7a3c61778ec3b2ab": [
+      {
+        "Amount": 1967777,
+        "Country": "Romania",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 815995,
+        "Country": "Poland",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 713735,
+        "Country": "Italy",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 178213,
+        "Country": "Greece",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 71084,
+        "Country": "France",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 104508,
+        "Country": "Portugal",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 74500,
+        "Country": "Germany",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 207261,
+        "Country": "Hungary",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 89600,
+        "Country": "Croatia",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 75199,
+        "Country": "Bulgaria",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 9930,
+        "Country": "Ireland",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 56055,
+        "Country": "Austria",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 37645,
+        "Country": "Latvia",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 44750,
+        "Country": "Sweden",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 10407,
+        "Country": "Netherlands",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 16949,
+        "Country": "Finland",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 9317,
+        "Country": "Denmark",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 9334,
+        "Country": "Belgium",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 16890,
+        "Country": "Cyprus",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 21859,
+        "Country": "Czechia",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 11054,
+        "Country": "Slovakia",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 6755,
+        "Country": "Estonia",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 3468,
+        "Country": "Malta",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 927,
+        "Country": "Luxembourg",
+        "Farm Type": "Family only"
+      },
+      {
+        "Amount": 893704,
+        "Country": "Romania",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 471075,
+        "Country": "Poland",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 380344,
+        "Country": "Italy",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 348123,
+        "Country": "Greece",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 155144,
+        "Country": "France",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 165789,
+        "Country": "Portugal",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 144818,
+        "Country": "Germany",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 12824,
+        "Country": "Hungary",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 49599,
+        "Country": "Croatia",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 45922,
+        "Country": "Bulgaria",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 106461,
+        "Country": "Ireland",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 49216,
+        "Country": "Austria",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 28606,
+        "Country": "Latvia",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 6945,
+        "Country": "Sweden",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 36628,
+        "Country": "Netherlands",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 21841,
+        "Country": "Finland",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 23179,
+        "Country": "Denmark",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 20095,
+        "Country": "Belgium",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 15967,
+        "Country": "Cyprus",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 2301,
+        "Country": "Czechia",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 4840,
+        "Country": "Slovakia",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 657,
+        "Country": "Estonia",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 4022,
+        "Country": "Malta",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 820,
+        "Country": "Luxembourg",
+        "Farm Type": "Family >= 50%"
+      },
+      {
+        "Amount": 25586,
+        "Country": "Romania",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 14419,
+        "Country": "Poland",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 36449,
+        "Country": "Italy",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 4343,
+        "Country": "Greece",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 166797,
+        "Country": "France",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 19932,
+        "Country": "Portugal",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 43917,
+        "Country": "Germany",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 12003,
+        "Country": "Hungary",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 4720,
+        "Country": "Croatia",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 11621,
+        "Country": "Bulgaria",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 13824,
+        "Country": "Ireland",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 5510,
+        "Country": "Austria",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 2732,
+        "Country": "Latvia",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 7095,
+        "Country": "Sweden",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 5606,
+        "Country": "Netherlands",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 6840,
+        "Country": "Finland",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 4592,
+        "Country": "Denmark",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 6567,
+        "Country": "Belgium",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 1189,
+        "Country": "Cyprus",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 4749,
+        "Country": "Czechia",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 3738,
+        "Country": "Slovakia",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 3957,
+        "Country": "Estonia",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 160,
+        "Country": "Malta",
+        "Farm Type": "Non-family"
+      },
+      {
+        "Amount": 134,
+        "Country": "Luxembourg",
+        "Farm Type": "Non-family"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Farm Type",
+      "scale": {
+        "domain": [
+          "Family >= 50%",
+          "Family only",
+          "Non-family"
+        ],
+        "range": [
+          "#18E169",
+          "#188FE1",
+          "#18E1CE"
+        ]
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "Country",
+        "type": "nominal"
+      },
+      {
+        "field": "Farm Type",
+        "type": "nominal"
+      },
+      {
+        "field": "Amount",
+        "format": ",",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Amount",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Country",
+      "sort": null,
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Tipologie di realt\u00e0 agricole in Europa",
+  "width": "container"
+}

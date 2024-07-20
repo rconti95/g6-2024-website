@@ -3,16 +3,13 @@
   "config": {
     "axis": {
       "labelAngle": 0,
-      "labelFont": "Lato",
       "labelFontSize": 12,
-      "titleFont": "Lato",
       "titleFontSize": 14
     },
     "background": "transparent",
     "title": {
       "anchor": "start",
       "color": "black",
-      "font": "Lato",
       "fontSize": 20
     }
   },

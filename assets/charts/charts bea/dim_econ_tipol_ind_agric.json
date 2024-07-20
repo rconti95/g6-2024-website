@@ -2,16 +2,13 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
   "config": {
     "axis": {
-      "labelFont": "Lato",
       "labelFontSize": 12,
-      "titleFont": "Lato",
       "titleFontSize": 14
     },
     "background": "transparent",
     "title": {
       "anchor": "start",
       "color": "black",
-      "font": "Lato",
       "fontSize": 20
     }
   },

@@ -2,197 +2,150 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
   "config": {
     "axis": {
-      "labelFont": "Lato",
       "labelFontSize": 12,
-      "titleFont": "Lato",
       "titleFontSize": 14
     },
     "background": "transparent",
     "title": {
       "anchor": "start",
       "color": "black",
-      "font": "Lato",
       "fontSize": 20
     }
   },
+  "data": {
+    "name": "data-91c2aee5ad9d080599487ea6b936684b"
+  },
   "datasets": {
-    "data-0f6bda27a528fd9b5fcdb18dc62fe1b0": [
+    "data-91c2aee5ad9d080599487ea6b936684b": [
       {
-        "(SE131) Total output (\u20ac/farm)": 53138,
-        "Year": 2011
+        "2022": 6858,
+        "Paese": "Francia",
+        "gen-ago 2023": 5104
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 59543,
-        "Year": 2012
+        "2022": 6832,
+        "Paese": "Spagna",
+        "gen-ago 2023": 4747
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 57940,
-        "Year": 2013
+        "2022": 6783,
+        "Paese": "Germania",
+        "gen-ago 2023": 5054
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 74035,
-        "Year": 2014
+        "2022": 5012,
+        "Paese": "Paesi Bassi",
+        "gen-ago 2023": 3855
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 71030,
-        "Year": 2015
+        "2022": 2250,
+        "Paese": "Brasile",
+        "gen-ago 2023": 1393
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 71323,
-        "Year": 2016
+        "2022": 2188,
+        "Paese": "Polonia",
+        "gen-ago 2023": 1654
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 70811,
-        "Year": 2017
+        "2022": 1814,
+        "Paese": "Austria",
+        "gen-ago 2023": 1259
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 75830,
-        "Year": 2018
+        "2022": 1814,
+        "Paese": "Belgio",
+        "gen-ago 2023": 1344
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 74574,
-        "Year": 2019
+        "2022": 1657,
+        "Paese": "Grecia",
+        "gen-ago 2023": 1545
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 77437,
-        "Year": 2020
+        "2022": 1612,
+        "Paese": "Ungheria",
+        "gen-ago 2023": 1128
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 81115,
-        "Year": 2021
+        "2022": 1293,
+        "Paese": "Croazia",
+        "gen-ago 2023": 477
       },
       {
-        "(SE131) Total output (\u20ac/farm)": 91672,
-        "Year": 2022
-      }
-    ],
-    "data-f8a05b37cd2d17b6cfa9494ec85cfd54": [
-      {
-        "Value": 810686,
-        "Year": 2011
+        "2022": 1274,
+        "Paese": "Stati Uniti",
+        "gen-ago 2023": 914
       },
       {
-        "Value": 821712,
-        "Year": 2012
+        "2022": 1139,
+        "Paese": "Danimarca",
+        "gen-ago 2023": 815
       },
       {
-        "Value": 819381,
-        "Year": 2013
+        "2022": 1099,
+        "Paese": "Indonesia",
+        "gen-ago 2023": 710
       },
       {
-        "Value": 825502,
-        "Year": 2014
+        "2022": 1080,
+        "Paese": "Cina",
+        "gen-ago 2023": 631
       },
       {
-        "Value": 832927,
-        "Year": 2015
+        "2022": 1044,
+        "Paese": "Ucraina",
+        "gen-ago 2023": 864
       },
       {
-        "Value": 832265,
-        "Year": 2016
+        "2022": 1014,
+        "Paese": "Argentina",
+        "gen-ago 2023": 558
       },
       {
-        "Value": 846821,
-        "Year": 2017
+        "2022": 967,
+        "Paese": "Slovenia",
+        "gen-ago 2023": 713
       },
       {
-        "Value": 857245,
-        "Year": 2018
+        "2022": 960,
+        "Paese": "Romania",
+        "gen-ago 2023": 576
       },
       {
-        "Value": 870860,
-        "Year": 2019
-      },
-      {
-        "Value": 943494,
-        "Year": 2020
-      },
-      {
-        "Value": 986167,
-        "Year": 2021
-      },
-      {
-        "Value": 1091530,
-        "Year": 2022
+        "2022": 797,
+        "Paese": "Canada",
+        "gen-ago 2023": 563
       }
     ]
   },
-  "height": 400,
-  "layer": [
-    {
-      "data": {
-        "name": "data-f8a05b37cd2d17b6cfa9494ec85cfd54"
+  "encoding": {
+    "tooltip": [
+      {
+        "field": "Paese",
+        "type": "nominal"
       },
-      "encoding": {
-        "tooltip": [
-          {
-            "field": "Value",
-            "format": ",",
-            "type": "quantitative"
-          }
-        ],
-        "x": {
-          "axis": {
-            "labelAngle": 0
-          },
-          "field": "Year",
-          "title": "Year",
-          "type": "ordinal"
-        },
-        "y": {
-          "axis": {
-            "titleColor": "#18E169"
-          },
-          "field": "Value",
-          "title": "Value",
-          "type": "quantitative"
-        }
-      },
-      "mark": {
-        "color": "#18E169",
-        "type": "bar"
+      {
+        "field": "gen-ago 2023",
+        "type": "quantitative"
       }
+    ],
+    "x": {
+      "field": "2022",
+      "title": "Miliardi di \u20ac",
+      "type": "quantitative"
     },
-    {
-      "data": {
-        "name": "data-0f6bda27a528fd9b5fcdb18dc62fe1b0"
-      },
-      "encoding": {
-        "tooltip": [
-          {
-            "field": "(SE131) Total output (\u20ac/farm)",
-            "format": ",",
-            "type": "quantitative"
-          }
-        ],
-        "x": {
-          "field": "Year",
-          "title": "Year",
-          "type": "ordinal"
-        },
-        "y": {
-          "axis": {
-            "titleColor": "#188FE1"
-          },
-          "field": "(SE131) Total output (\u20ac/farm)",
-          "title": "Total Output (\u20ac)",
-          "type": "quantitative"
-        }
-      },
-      "mark": {
-        "color": "#188FE1",
-        "point": {
-          "color": "#188FE1"
-        },
-        "type": "line"
-      }
-    }
-  ],
-  "resolve": {
-    "scale": {
-      "y": "independent"
+    "y": {
+      "field": "Paese",
+      "sort": "-x",
+      "type": "nominal"
     }
   },
-  "title": "Total Output and Value by Year (Starting from 2011)",
+  "height": 400,
+  "mark": {
+    "color": "#18E169",
+    "type": "bar"
+  },
+  "title": "Paesi importatori nel 2022",
   "width": "container"
 }

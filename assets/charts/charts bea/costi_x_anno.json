@@ -13,103 +13,63 @@
     }
   },
   "data": {
-    "name": "data-2aeefea6411b9a4fed7f67ff28020110"
+    "name": "data-0f6bda27a528fd9b5fcdb18dc62fe1b0"
   },
   "datasets": {
-    "data-2aeefea6411b9a4fed7f67ff28020110": [
+    "data-0f6bda27a528fd9b5fcdb18dc62fe1b0": [
       {
-        "Value": 617051,
-        "Year": 2001
-      },
-      {
-        "Value": 630369,
-        "Year": 2002
-      },
-      {
-        "Value": 657771,
-        "Year": 2003
-      },
-      {
-        "Value": 680718,
-        "Year": 2004
-      },
-      {
-        "Value": 705459,
-        "Year": 2005
-      },
-      {
-        "Value": 741766,
-        "Year": 2006
-      },
-      {
-        "Value": 755305,
-        "Year": 2007
-      },
-      {
-        "Value": 783156,
-        "Year": 2008
-      },
-      {
-        "Value": 805888,
-        "Year": 2009
-      },
-      {
-        "Value": 804370,
-        "Year": 2010
-      },
-      {
-        "Value": 810686,
+        "(SE131) Total output (\u20ac/farm)": 53138,
         "Year": 2011
       },
       {
-        "Value": 821712,
+        "(SE131) Total output (\u20ac/farm)": 59543,
         "Year": 2012
       },
       {
-        "Value": 819381,
+        "(SE131) Total output (\u20ac/farm)": 57940,
         "Year": 2013
       },
       {
-        "Value": 825502,
+        "(SE131) Total output (\u20ac/farm)": 74035,
         "Year": 2014
       },
       {
-        "Value": 832927,
+        "(SE131) Total output (\u20ac/farm)": 71030,
         "Year": 2015
       },
       {
-        "Value": 832265,
+        "(SE131) Total output (\u20ac/farm)": 71323,
         "Year": 2016
       },
       {
-        "Value": 846821,
+        "(SE131) Total output (\u20ac/farm)": 70811,
         "Year": 2017
       },
       {
-        "Value": 857245,
+        "(SE131) Total output (\u20ac/farm)": 75830,
         "Year": 2018
       },
       {
-        "Value": 870860,
+        "(SE131) Total output (\u20ac/farm)": 74574,
         "Year": 2019
       },
       {
-        "Value": 943494,
+        "(SE131) Total output (\u20ac/farm)": 77437,
         "Year": 2020
       },
       {
-        "Value": 986167,
+        "(SE131) Total output (\u20ac/farm)": 81115,
         "Year": 2021
       },
       {
-        "Value": 1091530,
+        "(SE131) Total output (\u20ac/farm)": 91672,
         "Year": 2022
       }
     ]
   },
   "encoding": {
     "color": {
-      "field": "Value",
+      "field": "(SE131) Total output (\u20ac/farm)",
       "legend": null,
       "scale": {
         "interpolate": "hsl",
@@ -122,7 +82,7 @@
     },
     "tooltip": [
       {
-        "field": "Value",
+        "field": "(SE131) Total output (\u20ac/farm)",
         "format": ",",
         "type": "quantitative"
       }
@@ -136,16 +96,15 @@
       "type": "ordinal"
     },
     "y": {
-      "field": "Value",
-      "title": "Value",
+      "field": "(SE131) Total output (\u20ac/farm)",
+      "title": "Costi di produzione",
       "type": "quantitative"
     }
   },
   "height": 400,
   "mark": {
-    "color": "#18E169",
     "type": "bar"
   },
-  "title": "Sussidi in Italia per agricoltura secondo il Fondo Monetario",
+  "title": "Costi per anno",
   "width": "container"
 }

@@ -159,7 +159,7 @@
         },
         "y": {
           "field": "CAP at % expenditure",
-          "title": "CAP at % expenditure",
+          "title": "spesa per la PAC",
           "type": "quantitative"
         }
       },

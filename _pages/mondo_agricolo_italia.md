@@ -55,7 +55,6 @@ Si tratta di un settore complicato, dunque, che porta in seno delle contraddizio
 
 <img src="{{site.baseurl}}/assets/images/agricoltura_italiana.jpg" width="700" height="500" alt="agricoltura_italiana">
 
-<img src="{{site.baseurl}}/assets/images/LUC_GIF_TUSCANY.gif" width="700" height="500" alt="Test immagine">
 
 
 {% include code-explanation.html %} 

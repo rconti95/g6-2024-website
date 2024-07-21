@@ -44,23 +44,3 @@ In breve, riallacciandosi alla domanda di Spivak su se le persone subalterne pos
 Tuttavia, sembra ancora mancare per gli agricoltori e le agricoltrici una voce di raccordo, che colleghi il campo o il trattore al Parlamento, Italiano o Europeo. Se i sindacati non sono riusciti a farsi carico di questo compito, chi o cosa potrebbe contribuire a facilitare questo dialogo? 
 
 Quello della comunicazione, con Brunori, è un punto fondamentale, tanto da auspicare un cambiamento nella narrazione collettiva rispetto alla produzione agricola. 
-
-
-{% capture introduction_tech %}
-{% include_relative snippets/tech/introduction-tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=introduction_tech %}
-
-<br>
-{% capture dataset_details %}
-{% include_relative snippets/dataset-details.md %}
-{% endcapture %}
-
-{% include modal-component.html title="Dettagli del dataset" content=dataset_details id="dataset-details" size="lg" %}
-
-{% capture modal_tech %}
-{% include_relative snippets/tech/modal-tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=modal_tech %}

@@ -1,0 +1,299 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "domainColor": "#B0B0B0",
+      "gridColor": "#333333",
+      "labelColor": "#E0E0E0",
+      "labelFontSize": 12,
+      "tickColor": "#B0B0B0",
+      "titleColor": "#E0E0E0",
+      "titleFontSize": 14
+    },
+    "background": "#121212",
+    "legend": {
+      "labelColor": "#E0E0E0",
+      "titleColor": "#E0E0E0"
+    },
+    "mark": {
+      "color": "#1f77b4"
+    },
+    "title": {
+      "color": "#E0E0E0",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-11d5a51c55c2c4bbf61c9a28b2ab0d3a"
+  },
+  "datasets": {
+    "data-11d5a51c55c2c4bbf61c9a28b2ab0d3a": [
+      {
+        "Direct aids": 498.6,
+        "Direct aids and sectorial aids": 557.3,
+        "Member State": "BE",
+        "Rural development": 83.2,
+        "Sum of aids": 640.5,
+        "Total percentage": "1.17%"
+      },
+      {
+        "Direct aids": 843.2,
+        "Direct aids and sectorial aids": 867.9,
+        "Member State": "BG",
+        "Rural development": 354.6,
+        "Sum of aids": 1222.5,
+        "Total percentage": "2.25%"
+      },
+      {
+        "Direct aids": 347.7,
+        "Direct aids and sectorial aids": 360.7,
+        "Member State": "HR",
+        "Rural development": 382.1,
+        "Sum of aids": 742.8,
+        "Total percentage": "1.36%"
+      },
+      {
+        "Direct aids": 852.3,
+        "Direct aids and sectorial aids": 869.4,
+        "Member State": "CZ",
+        "Rural development": 357.1,
+        "Sum of aids": 1226.5,
+        "Total percentage": "2.25%"
+      },
+      {
+        "Direct aids": 798.5,
+        "Direct aids and sectorial aids": 808.2,
+        "Member State": "DK",
+        "Rural development": 116.7,
+        "Sum of aids": 924.9000000000001,
+        "Total percentage": "1.7%"
+      },
+      {
+        "Direct aids": 4615.1,
+        "Direct aids and sectorial aids": 4739.8,
+        "Member State": "DE",
+        "Rural development": 1354.0,
+        "Sum of aids": 6093.8,
+        "Total percentage": "11.2%"
+      },
+      {
+        "Direct aids": 165.4,
+        "Direct aids and sectorial aids": 167.1,
+        "Member State": "EE",
+        "Rural development": 91.6,
+        "Sum of aids": 258.7,
+        "Total percentage": "0.47%"
+      },
+      {
+        "Direct aids": 1990.9,
+        "Direct aids and sectorial aids": 2232.6,
+        "Member State": "EL",
+        "Rural development": 635.8,
+        "Sum of aids": 2868.3999999999996,
+        "Total percentage": "5.3%"
+      },
+      {
+        "Direct aids": 5055.0,
+        "Direct aids and sectorial aids": 5666.8,
+        "Member State": "ES",
+        "Rural development": 1149.3,
+        "Sum of aids": 6816.1,
+        "Total percentage": "12.5%"
+      },
+      {
+        "Direct aids": 6807.7,
+        "Direct aids and sectorial aids": 7372.2,
+        "Member State": "FR",
+        "Rural development": 1913.1,
+        "Sum of aids": 9285.3,
+        "Total percentage": "17.1%"
+      },
+      {
+        "Direct aids": 1180.7,
+        "Direct aids and sectorial aids": 1190.6,
+        "Member State": "IE",
+        "Rural development": 343.3,
+        "Sum of aids": 1533.8999999999999,
+        "Total percentage": "2.8%"
+      },
+      {
+        "Direct aids": 3552.3,
+        "Direct aids and sectorial aids": 4241.7,
+        "Member State": "IT",
+        "Rural development": 1470.8,
+        "Sum of aids": 5712.5,
+        "Total percentage": "10.5%"
+      },
+      {
+        "Direct aids": 47.3,
+        "Direct aids and sectorial aids": 52.71,
+        "Member State": "CY",
+        "Rural development": 22.2,
+        "Sum of aids": 74.91,
+        "Total percentage": "0.14%"
+      },
+      {
+        "Direct aids": 294.7,
+        "Direct aids and sectorial aids": 297.1,
+        "Member State": "LV",
+        "Rural development": 124.0,
+        "Sum of aids": 421.1,
+        "Total percentage": "0.77%"
+      },
+      {
+        "Direct aids": 510.2,
+        "Direct aids and sectorial aids": 514.7,
+        "Member State": "LT",
+        "Rural development": 188.9,
+        "Sum of aids": 703.6,
+        "Total percentage": "1.3%"
+      },
+      {
+        "Direct aids": 34.3,
+        "Direct aids and sectorial aids": 34.9,
+        "Member State": "LU",
+        "Rural development": 15.41,
+        "Sum of aids": 50.31,
+        "Total percentage": "0.1%"
+      },
+      {
+        "Direct aids": 1276.6,
+        "Direct aids and sectorial aids": 1310.4,
+        "Member State": "HU",
+        "Rural development": 576.5,
+        "Sum of aids": 1886.9,
+        "Total percentage": "3.5%"
+      },
+      {
+        "Direct aids": 5.1,
+        "Direct aids and sectorial aids": 5.2,
+        "Member State": "MT",
+        "Rural development": 14.9,
+        "Sum of aids": 20.1,
+        "Total percentage": "0.04%"
+      },
+      {
+        "Direct aids": 651.3,
+        "Direct aids and sectorial aids": 703.1,
+        "Member State": "NL",
+        "Rural development": 163.1,
+        "Sum of aids": 866.2,
+        "Total percentage": "1.6%"
+      },
+      {
+        "Direct aids": 683.3,
+        "Direct aids and sectorial aids": 707.3,
+        "Member State": "AT",
+        "Rural development": 580.7,
+        "Sum of aids": 1288.0,
+        "Total percentage": "2.37%"
+      },
+      {
+        "Direct aids": 3319.7,
+        "Direct aids and sectorial aids": 3351.3,
+        "Member State": "PL",
+        "Rural development": 1419.0,
+        "Sum of aids": 4770.3,
+        "Total percentage": "8.8%"
+      },
+      {
+        "Direct aids": 756.4,
+        "Direct aids and sectorial aids": 860.9,
+        "Member State": "PT",
+        "Rural development": 393.7,
+        "Sum of aids": 1254.6,
+        "Total percentage": "2.3%"
+      },
+      {
+        "Direct aids": 1885.2,
+        "Direct aids and sectorial aids": 1953.0,
+        "Member State": "RO",
+        "Rural development": 1215.1,
+        "Sum of aids": 3168.1,
+        "Total percentage": "5.8%"
+      },
+      {
+        "Direct aids": 132.5,
+        "Direct aids and sectorial aids": 139.5,
+        "Member State": "SI",
+        "Rural development": 119.1,
+        "Sum of aids": 258.6,
+        "Total percentage": "0.5%"
+      },
+      {
+        "Direct aids": 384.7,
+        "Direct aids and sectorial aids": 395.8,
+        "Member State": "SK",
+        "Rural development": 138.9,
+        "Sum of aids": 534.7,
+        "Total percentage": "1.0%"
+      },
+      {
+        "Direct aids": 517.3,
+        "Direct aids and sectorial aids": 526.0,
+        "Member State": "FI",
+        "Rural development": 388.3,
+        "Sum of aids": 914.3,
+        "Total percentage": "1.7%"
+      },
+      {
+        "Direct aids": 673.0,
+        "Direct aids and sectorial aids": 686.3,
+        "Member State": "SE",
+        "Rural development": 319.7,
+        "Sum of aids": 1006.0,
+        "Total percentage": "1.85%"
+      },
+      {
+        "Direct aids": 0.0,
+        "Direct aids and sectorial aids": 164.2,
+        "Member State": "EU",
+        "Rural development": 0.0,
+        "Sum of aids": 164.2,
+        "Total percentage": "0.3%"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "condition": {
+        "test": "(datum['Member State'] === 'IT')",
+        "value": "#18E169"
+      },
+      "value": "#188FE1"
+    },
+    "tooltip": [
+      {
+        "field": "Member State",
+        "title": "Member State",
+        "type": "nominal"
+      },
+      {
+        "field": "Sum of aids",
+        "format": ".2f",
+        "title": "Sum of aids",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "axis": {
+        "labelAngle": 0
+      },
+      "field": "Member State",
+      "sort": "-y",
+      "title": "Member State",
+      "type": "nominal"
+    },
+    "y": {
+      "field": "Sum of aids",
+      "title": "Sum of aids",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Totale aiuti per stato",
+  "width": "container"
+}

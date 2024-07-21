@@ -1,0 +1,109 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "domainColor": "#B0B0B0",
+      "gridColor": "#333333",
+      "labelColor": "#E0E0E0",
+      "labelFontSize": 12,
+      "tickColor": "#B0B0B0",
+      "titleColor": "#E0E0E0",
+      "titleFontSize": 14
+    },
+    "background": "#121212",
+    "legend": {
+      "labelColor": "#E0E0E0",
+      "titleColor": "#E0E0E0"
+    },
+    "mark": {
+      "color": "#1f77b4"
+    },
+    "title": {
+      "color": "#E0E0E0",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-52abdab10e66202f55cbdf6ec4de8fbc"
+  },
+  "datasets": {
+    "data-52abdab10e66202f55cbdf6ec4de8fbc": [
+      {
+        "Amount": 10477775690,
+        "Category": "AIUTI AL REDDITO"
+      },
+      {
+        "Amount": 4377804830,
+        "Category": "ECOSCHEMI"
+      },
+      {
+        "Amount": 2626682895,
+        "Category": "SOSTEGNO ACCOPPIATO"
+      },
+      {
+        "Amount": 14775893476,
+        "Category": "SVILUPPO RURALE"
+      },
+      {
+        "Amount": 3048197685,
+        "Category": "AIUTI SETTORIALI"
+      },
+      {
+        "Amount": 35070377300,
+        "Category": "ASSISTENZA TECNICA"
+      },
+      {
+        "Amount": 35657058349,
+        "Category": [
+          "DOTAZIONE FINANZIARIA",
+          "COMPLESSIVA"
+        ]
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Amount",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#c6f9db",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Amount",
+        "format": ",",
+        "title": "Amount",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Amount",
+      "scale": {
+        "domain": [
+          0,
+          35657058349.0
+        ]
+      },
+      "title": "Amount",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Category",
+      "sort": "-x",
+      "title": "Category",
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Suddivisione sussidi diretti e indiretti della PAC in Italia",
+  "width": "container"
+}

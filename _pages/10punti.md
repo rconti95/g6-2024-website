@@ -49,27 +49,7 @@ Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano t
 {% endcapture %}
 
 {% include one-column.html dimension="fluid" content=10_punti_parte1 %}
-
-
-<hr>
-
-{% capture tech_section1 %}
-{% include_relative snippets/tech-section-1.md %}
-{% endcapture %}
-
-<div class="tech" style="display: none">
-  {% include one-column-sm.html content=tech_section1 %}
-</div>
-
-{% include two-columns.html col-one=introduction_image col-two=section_1_content %}
-<hr>
-{% include img-selector.html %}
-{% include chart-selector.html %}
-<hr>
-{% include one-column-sm.html content=mappa_stragi %}
-<hr>
-{% include one-column-sm.html content=video_content %}
-{% include code-explanation.html %}
+{% include code-explanation.html %} 
 
 ## Punto 2: Stato e agricoltori: dov’è l’Italia?
 <div id="area-tematica-3"></div>

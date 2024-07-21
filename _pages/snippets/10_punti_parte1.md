@@ -101,7 +101,7 @@ Entriamo ora nel merito della SAU.
 
 La SAU è la Superficie Agricola Utilizzata, un indicatore fondamentale per comprendere lo stato dell’arte del settore agricolo italiano. Fondamentale, anche, per comprendere un aspetto critico per gli agricoltori italiani: negli ultimi dieci anni, la SAU è fortemente diminuita, toccando cali del -33% al Sud e nelle Isole. Ciò significa, come riporta Altreconomia, che sono scomparse due aziende agricole su tre.
 
-<span class="red-underline">GRAFICO SUPERF. ARABILE</span> </p>
+<span class="red-underline">GRAFICO SUPERF. ARABILE</span>
 
 Il tutto, però, al netto della crescita del territorio boschivo. Questo, ci spiega il prof. Bruonori, ha una ragione molto semplice:
 
@@ -115,7 +115,34 @@ Del resto, il <a href= "https://www.istat.it/statistiche-per-temi/censimenti/agr
 
 Abbiamo deciso di confrontare i dati relativi all’andamento di SAU, SAT e territorio boschivo, provenienti dall’Istat, con un’analisi di telerilevamento. 
 
+<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
 
+Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse:
+- superficie in produzione - ettari = SAU  
+- superficie totale - ettari = SAT  
+- superficie totale - aree = territorio boschivo  
+
+In questa GIF è possibile visualizzare il cambiamento dell'uso del suolo nel tempo in una porzione della regione Toscana:
+
+<img src="{{site.baseurl}}/assets/images/LUC_GIF_TUSCANY.gif" width="700" height="500" alt="Test immagine">
+
+{% capture telerilevamento %}
+{% include_relative snippets/tech/telerilevamento.md %}
+{% endcapture %}
+
+{% include tech-content.html content=telerilevamento %}
+
+<br>
+
+<strong> Ci sono dunque evidenti motivazioni per cui vanno messe in atto precise misure ambientali. Eppure, nonostante la presenza di fondi destinati anche al sostegno per la transizione ecologica, c’è un forte malcontento.
+Facciamo il punto: come mai gli agricoltori protestano? L’Europa ha risposte per loro?</strong>
+
+Gli agricoltori hanno lamentato, nel primissimo punto del loro manifesto, un “estremismo ambientalista” che impedirebbe la coltivazione e la conseguente vendita. Del resto, le politiche Europee mostrano come primario obiettivo la riduzioni di emissioni di gas serra, una conservazione della biodiversità, minor uso dei pesticidi - tutti aspetti che prevedono di cambiare il proprio sistema agricolo. 
+Ma se per tali cambiamenti i sussidi vanno ad ettari, con le proporzioni che abbiamo visto, com’è possibile che realtà contadine più piccole possano adeguarsi e non restare potenzialmente danneggiate dalle richieste dell’Europa? Inoltre, le evidenti difficoltà nel bilanciare un effettivo aiuto economico e le richieste transizione ecologica, che peso possono avere se non distruttivo verso la fiducia per tali realtà politiche?
+
+Al netto della fondamentale importanza di misure a tutela dell’ambiente, il Green Deal è ancora un insieme di misure che si rivelano poco applicabili su un tessuto complesso come quello delle società contemporanee, piene di disparità in costante crescita. 
+
+<img src="{{site.baseurl}}/assets/images/difficile_compromesso.png" width="700" height="500" alt="compromesso">
 
 {% capture introduction_tech %}
 {% include_relative snippets/tech/introduction-tech.md %}
@@ -123,15 +150,4 @@ Abbiamo deciso di confrontare i dati relativi all’andamento di SAU, SAT e terr
 
 {% include tech-content.html content=introduction_tech %}
 
-<br>
-{% capture dataset_details %}
-{% include_relative snippets/dataset-details.md %}
-{% endcapture %}
-
-{% include modal-component.html title="Dettagli del dataset" content=dataset_details id="dataset-details" size="lg" %}
-
-{% capture modal_tech %}
-{% include_relative snippets/tech/modal-tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=modal_tech %}
+<hr>

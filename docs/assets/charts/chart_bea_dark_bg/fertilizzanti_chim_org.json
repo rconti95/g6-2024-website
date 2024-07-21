@@ -1,0 +1,156 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "domainColor": "#B0B0B0",
+      "gridColor": "#333333",
+      "labelColor": "#E0E0E0",
+      "labelFontSize": 12,
+      "tickColor": "#B0B0B0",
+      "titleColor": "#E0E0E0",
+      "titleFontSize": 14
+    },
+    "background": "#121212",
+    "legend": {
+      "labelColor": "#E0E0E0",
+      "titleColor": "#E0E0E0"
+    },
+    "mark": {
+      "color": "#1f77b4"
+    },
+    "title": {
+      "color": "#E0E0E0",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-c24e619d70352bc9bfe7251241b7a9f1"
+  },
+  "datasets": {
+    "data-c24e619d70352bc9bfe7251241b7a9f1": [
+      {
+        "FERTILIZZANTI CHIMICI": 6086,
+        "FERTILIZZANTI ORGANICI": 3311,
+        "Year": 2011
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 6241,
+        "FERTILIZZANTI ORGANICI": 3174,
+        "Year": 2012
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5352,
+        "FERTILIZZANTI ORGANICI": 3330,
+        "Year": 2013
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 4764,
+        "FERTILIZZANTI ORGANICI": 3342,
+        "Year": 2014
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 4686,
+        "FERTILIZZANTI ORGANICI": 3195,
+        "Year": 2015
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5232,
+        "FERTILIZZANTI ORGANICI": 3636,
+        "Year": 2016
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5563,
+        "FERTILIZZANTI ORGANICI": 3785,
+        "Year": 2017
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5472,
+        "FERTILIZZANTI ORGANICI": 3674,
+        "Year": 2018
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5087,
+        "FERTILIZZANTI ORGANICI": 3875,
+        "Year": 2019
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5576,
+        "FERTILIZZANTI ORGANICI": 3994,
+        "Year": 2020
+      },
+      {
+        "FERTILIZZANTI CHIMICI": 5615,
+        "FERTILIZZANTI ORGANICI": 3833,
+        "Year": 2021
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Fertilizzanti",
+      "legend": {
+        "title": null
+      },
+      "scale": {
+        "domain": [
+          "FERTILIZZANTI CHIMICI",
+          "FERTILIZZANTI ORGANICI"
+        ],
+        "range": [
+          "#188FE1",
+          "#18E169"
+        ]
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "Year",
+        "type": "ordinal"
+      },
+      {
+        "field": "FERTILIZZANTI CHIMICI",
+        "format": ",",
+        "type": "quantitative"
+      },
+      {
+        "field": "FERTILIZZANTI ORGANICI",
+        "format": ",",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "axis": {
+        "labelAngle": 0
+      },
+      "field": "Year",
+      "type": "ordinal"
+    },
+    "y": {
+      "axis": {
+        "title": "Tonnellate"
+      },
+      "field": "FERTILIZZANTI CHIMICI",
+      "type": "quantitative"
+    }
+  },
+  "height": 600,
+  "mark": {
+    "size": 40,
+    "type": "bar"
+  },
+  "title": "Suddivisione tra fertilizzanti chimici e organici",
+  "transform": [
+    {
+      "as": [
+        "Fertilizzanti",
+        "Tonnellate"
+      ],
+      "fold": [
+        "FERTILIZZANTI CHIMICI",
+        "FERTILIZZANTI ORGANICI"
+      ]
+    }
+  ],
+  "width": "container"
+}

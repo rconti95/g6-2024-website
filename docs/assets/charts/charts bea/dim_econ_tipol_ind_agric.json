@@ -1,0 +1,314 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-47f1a3cdc4bec9036d10c7a2fee07029"
+  },
+  "datasets": {
+    "data-47f1a3cdc4bec9036d10c7a2fee07029": [
+      {
+        "Amount": 342715,
+        "Farm Type": "Family farms",
+        "State": "Netherlands"
+      },
+      {
+        "Amount": 150726,
+        "Farm Type": "Family farms",
+        "State": "Denmark"
+      },
+      {
+        "Amount": 38918,
+        "Farm Type": "Family farms",
+        "State": "Czechia"
+      },
+      {
+        "Amount": 112671,
+        "Farm Type": "Family farms",
+        "State": "Germany"
+      },
+      {
+        "Amount": 17269,
+        "Farm Type": "Family farms",
+        "State": "Slovakia"
+      },
+      {
+        "Amount": 190142,
+        "Farm Type": "Family farms",
+        "State": "Belgium"
+      },
+      {
+        "Amount": 11284,
+        "Farm Type": "Family farms",
+        "State": "Cyprus"
+      },
+      {
+        "Amount": 61471,
+        "Farm Type": "Family farms",
+        "State": "Sweden"
+      },
+      {
+        "Amount": 157590,
+        "Farm Type": "Family farms",
+        "State": "Luxembourg"
+      },
+      {
+        "Amount": 14176,
+        "Farm Type": "Family farms",
+        "State": "Hungary"
+      },
+      {
+        "Amount": 41685,
+        "Farm Type": "Family farms",
+        "State": "Italy"
+      },
+      {
+        "Amount": 17483,
+        "Farm Type": "Family farms",
+        "State": "Poland"
+      },
+      {
+        "Amount": 69573,
+        "Farm Type": "Family farms",
+        "State": "France"
+      },
+      {
+        "Amount": 11093,
+        "Farm Type": "Family farms",
+        "State": "Bulgaria"
+      },
+      {
+        "Amount": 51516,
+        "Farm Type": "Family farms",
+        "State": "Austria"
+      },
+      {
+        "Amount": 11694,
+        "Farm Type": "Family farms",
+        "State": "Latvia"
+      },
+      {
+        "Amount": 11633,
+        "Farm Type": "Family farms",
+        "State": "Portugal"
+      },
+      {
+        "Amount": 18376,
+        "Farm Type": "Family farms",
+        "State": "Estonia"
+      },
+      {
+        "Amount": 56044,
+        "Farm Type": "Family farms",
+        "State": "Finland"
+      },
+      {
+        "Amount": 2747,
+        "Farm Type": "Family farms",
+        "State": "Romania"
+      },
+      {
+        "Amount": 39206,
+        "Farm Type": "Family farms",
+        "State": "Ireland"
+      },
+      {
+        "Amount": 13548,
+        "Farm Type": "Family farms",
+        "State": "Greece"
+      },
+      {
+        "Amount": 9755,
+        "Farm Type": "Family farms",
+        "State": "Croatia"
+      },
+      {
+        "Amount": 10199,
+        "Farm Type": "Family farms",
+        "State": "Malta"
+      },
+      {
+        "Amount": 1561584,
+        "Farm Type": "Non-family farms",
+        "State": "Netherlands"
+      },
+      {
+        "Amount": 1132872,
+        "Farm Type": "Non-family farms",
+        "State": "Denmark"
+      },
+      {
+        "Amount": 967711,
+        "Farm Type": "Non-family farms",
+        "State": "Czechia"
+      },
+      {
+        "Amount": 505254,
+        "Farm Type": "Non-family farms",
+        "State": "Germany"
+      },
+      {
+        "Amount": 459554,
+        "Farm Type": "Non-family farms",
+        "State": "Slovakia"
+      },
+      {
+        "Amount": 428045,
+        "Farm Type": "Non-family farms",
+        "State": "Belgium"
+      },
+      {
+        "Amount": 425576,
+        "Farm Type": "Non-family farms",
+        "State": "Cyprus"
+      },
+      {
+        "Amount": 372636,
+        "Farm Type": "Non-family farms",
+        "State": "Sweden"
+      },
+      {
+        "Amount": 362996,
+        "Farm Type": "Non-family farms",
+        "State": "Luxembourg"
+      },
+      {
+        "Amount": 333781,
+        "Farm Type": "Non-family farms",
+        "State": "Hungary"
+      },
+      {
+        "Amount": 302042,
+        "Farm Type": "Non-family farms",
+        "State": "Italy"
+      },
+      {
+        "Amount": 301017,
+        "Farm Type": "Non-family farms",
+        "State": "Poland"
+      },
+      {
+        "Amount": 288669,
+        "Farm Type": "Non-family farms",
+        "State": "France"
+      },
+      {
+        "Amount": 236461,
+        "Farm Type": "Non-family farms",
+        "State": "Bulgaria"
+      },
+      {
+        "Amount": 218328,
+        "Farm Type": "Non-family farms",
+        "State": "Austria"
+      },
+      {
+        "Amount": 212858,
+        "Farm Type": "Non-family farms",
+        "State": "Latvia"
+      },
+      {
+        "Amount": 193493,
+        "Farm Type": "Non-family farms",
+        "State": "Portugal"
+      },
+      {
+        "Amount": 178690,
+        "Farm Type": "Non-family farms",
+        "State": "Estonia"
+      },
+      {
+        "Amount": 172654,
+        "Farm Type": "Non-family farms",
+        "State": "Finland"
+      },
+      {
+        "Amount": 165456,
+        "Farm Type": "Non-family farms",
+        "State": "Romania"
+      },
+      {
+        "Amount": 160280,
+        "Farm Type": "Non-family farms",
+        "State": "Ireland"
+      },
+      {
+        "Amount": 141157,
+        "Farm Type": "Non-family farms",
+        "State": "Greece"
+      },
+      {
+        "Amount": 139381,
+        "Farm Type": "Non-family farms",
+        "State": "Croatia"
+      },
+      {
+        "Amount": 60006,
+        "Farm Type": "Non-family farms",
+        "State": "Malta"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Farm Type",
+      "scale": {
+        "domain": [
+          "Family farms",
+          "Non-family farms"
+        ],
+        "range": [
+          "#18E169",
+          "#188FE1"
+        ]
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "State",
+        "type": "nominal"
+      },
+      {
+        "field": "Farm Type",
+        "type": "nominal"
+      },
+      {
+        "field": "Amount",
+        "format": ",",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Amount",
+      "title": "Amount",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "State",
+      "sort": "-x",
+      "title": "State",
+      "type": "nominal"
+    },
+    "yOffset": {
+      "field": "Farm Type",
+      "type": "nominal"
+    }
+  },
+  "height": 600,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Dimensione economica in base alla tipologia di industria agricola",
+  "width": "container"
+}

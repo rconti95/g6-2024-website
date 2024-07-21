@@ -123,4 +123,9 @@ iframe {
   height: 300px;
 }
 
+.red-underline {
+  color: red;
+  text-decoration: underline;
+}
+
 /*# sourceMappingURL=custom.css.map */

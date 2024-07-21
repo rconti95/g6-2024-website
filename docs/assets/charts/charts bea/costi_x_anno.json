@@ -1,0 +1,110 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-0f6bda27a528fd9b5fcdb18dc62fe1b0"
+  },
+  "datasets": {
+    "data-0f6bda27a528fd9b5fcdb18dc62fe1b0": [
+      {
+        "(SE131) Total output (\u20ac/farm)": 53138,
+        "Year": 2011
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 59543,
+        "Year": 2012
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 57940,
+        "Year": 2013
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 74035,
+        "Year": 2014
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 71030,
+        "Year": 2015
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 71323,
+        "Year": 2016
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 70811,
+        "Year": 2017
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 75830,
+        "Year": 2018
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 74574,
+        "Year": 2019
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 77437,
+        "Year": 2020
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 81115,
+        "Year": 2021
+      },
+      {
+        "(SE131) Total output (\u20ac/farm)": 91672,
+        "Year": 2022
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "(SE131) Total output (\u20ac/farm)",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#99f4be",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "(SE131) Total output (\u20ac/farm)",
+        "format": ",",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "axis": {
+        "labelAngle": 0
+      },
+      "field": "Year",
+      "title": "Year",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "(SE131) Total output (\u20ac/farm)",
+      "title": "Costi di produzione",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Costi per anno",
+  "width": "container"
+}

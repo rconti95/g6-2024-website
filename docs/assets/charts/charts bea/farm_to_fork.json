@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "datasets": {
+    "data-925f2a43ccafca2a3019bbacffb5703b": [
+      {
+        "Value": 120,
+        "Year": 2011
+      },
+      {
+        "Value": 112,
+        "Year": 2012
+      },
+      {
+        "Value": 101,
+        "Year": 2013
+      },
+      {
+        "Value": 107,
+        "Year": 2014
+      },
+      {
+        "Value": 107,
+        "Year": 2015
+      },
+      {
+        "Value": 102,
+        "Year": 2016
+      },
+      {
+        "Value": 99,
+        "Year": 2017
+      },
+      {
+        "Value": 91,
+        "Year": 2018
+      },
+      {
+        "Value": 92,
+        "Year": 2019
+      },
+      {
+        "Value": 79,
+        "Year": 2020
+      },
+      {
+        "Value": 79,
+        "Year": 2021
+      },
+      {
+        "Value": 76,
+        "Year": 2022
+      },
+      {
+        "Value": 74,
+        "Year": 2023
+      },
+      {
+        "Value": 72,
+        "Year": 2024
+      },
+      {
+        "Value": 70,
+        "Year": 2025
+      },
+      {
+        "Value": 68,
+        "Year": 2026
+      },
+      {
+        "Value": 66,
+        "Year": 2027
+      },
+      {
+        "Value": 64,
+        "Year": 2028
+      },
+      {
+        "Value": 59,
+        "Year": 2029
+      },
+      {
+        "Value": 50,
+        "Year": 2030
+      }
+    ],
+    "data-930b2a336c698bad3ed881230e2fa3a6": [
+      {
+        "Value": 50,
+        "Year": 2030
+      }
+    ]
+  },
+  "height": 400,
+  "layer": [
+    {
+      "data": {
+        "name": "data-925f2a43ccafca2a3019bbacffb5703b"
+      },
+      "encoding": {
+        "color": {
+          "condition": {
+            "test": "(datum.Year >= 2021)",
+            "value": "#18E169"
+          },
+          "value": "#188FE1"
+        },
+        "x": {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "Value",
+          "scale": {
+            "domain": [
+              40,
+              120
+            ]
+          },
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "point": true,
+        "type": "line"
+      },
+      "title": "Obiettivo Farm to Fork di riduzione pesticidi per il 2030"
+    },
+    {
+      "data": {
+        "name": "data-930b2a336c698bad3ed881230e2fa3a6"
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "Value",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "color": "#18E169",
+        "size": 500,
+        "type": "point"
+      }
+    }
+  ],
+  "width": "container"
+}

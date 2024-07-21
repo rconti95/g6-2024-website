@@ -1,0 +1,177 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-7c81e91e00ea1eaa894e768f33bdd625"
+  },
+  "datasets": {
+    "data-7c81e91e00ea1eaa894e768f33bdd625": [
+      {
+        "CAP at % expenditure": 46.4,
+        "Category": 2004,
+        "EU expenditure": 46.4
+      },
+      {
+        "CAP at % expenditure": 49.3,
+        "Category": 2005,
+        "EU expenditure": 51.3
+      },
+      {
+        "CAP at % expenditure": 50.1,
+        "Category": 2006,
+        "EU expenditure": 53.0
+      },
+      {
+        "CAP at % expenditure": 47.1,
+        "Category": 2007,
+        "EU expenditure": 52.9
+      },
+      {
+        "CAP at % expenditure": 45.4,
+        "Category": 2008,
+        "EU expenditure": 51.3
+      },
+      {
+        "CAP at % expenditure": 44.6,
+        "Category": 2009,
+        "EU expenditure": 50.0
+      },
+      {
+        "CAP at % expenditure": 45.8,
+        "Category": 2010,
+        "EU expenditure": 55.2
+      },
+      {
+        "CAP at % expenditure": 43.6,
+        "Category": 2011,
+        "EU expenditure": 55.1
+      },
+      {
+        "CAP at % expenditure": 42.1,
+        "Category": 2012,
+        "EU expenditure": 57.1
+      },
+      {
+        "CAP at % expenditure": 39.6,
+        "Category": 2013,
+        "EU expenditure": 56.9
+      },
+      {
+        "CAP at % expenditure": 39.0,
+        "Category": 2014,
+        "EU expenditure": 54.0
+      },
+      {
+        "CAP at % expenditure": 39.1,
+        "Category": 2015,
+        "EU expenditure": 55.3
+      },
+      {
+        "CAP at % expenditure": 41.4,
+        "Category": 2016,
+        "EU expenditure": 56.5
+      },
+      {
+        "CAP at % expenditure": 40.6,
+        "Category": 2017,
+        "EU expenditure": 55.8
+      },
+      {
+        "CAP at % expenditure": 37.2,
+        "Category": 2018,
+        "EU expenditure": 56.8
+      },
+      {
+        "CAP at % expenditure": 37.6,
+        "Category": 2019,
+        "EU expenditure": 58.1
+      },
+      {
+        "CAP at % expenditure": 34.9,
+        "Category": 2020,
+        "EU expenditure": 59.1
+      },
+      {
+        "CAP at % expenditure": 24.8,
+        "Category": 2021,
+        "EU expenditure": 55.4
+      },
+      {
+        "CAP at % expenditure": 23.6,
+        "Category": 2022,
+        "EU expenditure": 56.4
+      }
+    ]
+  },
+  "height": 400,
+  "layer": [
+    {
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "EU expenditure",
+            "title": "Year",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "axis": {
+            "labelAngle": 0
+          },
+          "field": "Category",
+          "title": "Anno",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "EU expenditure",
+          "title": "Spesa europea totale",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "color": "#18E169",
+        "type": "bar"
+      }
+    },
+    {
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "CAP at % expenditure",
+            "title": "Spesa europea per la PAC",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "field": "Category",
+          "type": "nominal"
+        },
+        "y": {
+          "field": "CAP at % expenditure",
+          "title": "spesa per la PAC",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "color": "#188FE1",
+        "point": {
+          "color": "#188FE1"
+        },
+        "type": "line"
+      }
+    }
+  ],
+  "title": "Spesa europea totale e spesa europea per la PAC",
+  "width": "container"
+}

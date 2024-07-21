@@ -1,0 +1,151 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-91c2aee5ad9d080599487ea6b936684b"
+  },
+  "datasets": {
+    "data-91c2aee5ad9d080599487ea6b936684b": [
+      {
+        "2022": 6858,
+        "Paese": "Francia",
+        "gen-ago 2023": 5104
+      },
+      {
+        "2022": 6832,
+        "Paese": "Spagna",
+        "gen-ago 2023": 4747
+      },
+      {
+        "2022": 6783,
+        "Paese": "Germania",
+        "gen-ago 2023": 5054
+      },
+      {
+        "2022": 5012,
+        "Paese": "Paesi Bassi",
+        "gen-ago 2023": 3855
+      },
+      {
+        "2022": 2250,
+        "Paese": "Brasile",
+        "gen-ago 2023": 1393
+      },
+      {
+        "2022": 2188,
+        "Paese": "Polonia",
+        "gen-ago 2023": 1654
+      },
+      {
+        "2022": 1814,
+        "Paese": "Austria",
+        "gen-ago 2023": 1259
+      },
+      {
+        "2022": 1814,
+        "Paese": "Belgio",
+        "gen-ago 2023": 1344
+      },
+      {
+        "2022": 1657,
+        "Paese": "Grecia",
+        "gen-ago 2023": 1545
+      },
+      {
+        "2022": 1612,
+        "Paese": "Ungheria",
+        "gen-ago 2023": 1128
+      },
+      {
+        "2022": 1293,
+        "Paese": "Croazia",
+        "gen-ago 2023": 477
+      },
+      {
+        "2022": 1274,
+        "Paese": "Stati Uniti",
+        "gen-ago 2023": 914
+      },
+      {
+        "2022": 1139,
+        "Paese": "Danimarca",
+        "gen-ago 2023": 815
+      },
+      {
+        "2022": 1099,
+        "Paese": "Indonesia",
+        "gen-ago 2023": 710
+      },
+      {
+        "2022": 1080,
+        "Paese": "Cina",
+        "gen-ago 2023": 631
+      },
+      {
+        "2022": 1044,
+        "Paese": "Ucraina",
+        "gen-ago 2023": 864
+      },
+      {
+        "2022": 1014,
+        "Paese": "Argentina",
+        "gen-ago 2023": 558
+      },
+      {
+        "2022": 967,
+        "Paese": "Slovenia",
+        "gen-ago 2023": 713
+      },
+      {
+        "2022": 960,
+        "Paese": "Romania",
+        "gen-ago 2023": 576
+      },
+      {
+        "2022": 797,
+        "Paese": "Canada",
+        "gen-ago 2023": 563
+      }
+    ]
+  },
+  "encoding": {
+    "tooltip": [
+      {
+        "field": "Paese",
+        "type": "nominal"
+      },
+      {
+        "field": "gen-ago 2023",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "2022",
+      "title": "Miliardi di \u20ac",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Paese",
+      "sort": "-x",
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "color": "#18E169",
+    "type": "bar"
+  },
+  "title": "Paesi importatori nel 2022",
+  "width": "container"
+}

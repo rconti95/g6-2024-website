@@ -1,0 +1,204 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-26495344cabff0f233f5e5e1159f80ac"
+  },
+  "datasets": {
+    "data-26495344cabff0f233f5e5e1159f80ac": [
+      {
+        "Codice": "EN.SI.24",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 3.4,
+        "Nome": [
+          "Differente trattamento fiscale",
+          "fra benzina e gasolio"
+        ]
+      },
+      {
+        "Codice": "IVA.01",
+        "FFS": null,
+        "Livello di riformabilit\u00e0": "Nazionale",
+        "Mld \u20ac": 2.6,
+        "Nome": [
+          "IVA agevolata per la cessione",
+          "di case di abitazione non di lusso"
+        ]
+      },
+      {
+        "Codice": "EN.SD.01",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Europeo",
+        "Mld \u20ac": 2.4,
+        "Nome": [
+          "Rilascio delle quote assegnate",
+          "a titolo gratuito"
+        ]
+      },
+      {
+        "Codice": "IVA.13",
+        "FFS": null,
+        "Livello di riformabilit\u00e0": "Nazionale",
+        "Mld \u20ac": 2.3,
+        "Nome": [
+          "IVA agevolata per case",
+          "di abitazione non di lusso"
+        ]
+      },
+      {
+        "Codice": "IVA.07",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 1.8,
+        "Nome": [
+          "IVA agevolata per l\u2019energia",
+          "elettrica per uso domestico"
+        ]
+      },
+      {
+        "Codice": "AL.SI.02",
+        "FFS": null,
+        "Livello di riformabilit\u00e0": "Nazionale",
+        "Mld \u20ac": 1.7,
+        "Nome": [
+          "Credito d\u2019imposta per",
+          "beni strumentali - Mezzogiorno"
+        ]
+      },
+      {
+        "Codice": "EN.SI.19",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 1.4,
+        "Nome": [
+          "Rimborso del maggior onere",
+          "dall\u2019aumento dell\u2019accisa sul gasolio"
+        ]
+      },
+      {
+        "Codice": "TR.SI.04",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 1.2,
+        "Nome": [
+          "Agevolazioni fiscali",
+          "sui fringe benefit"
+        ]
+      },
+      {
+        "Codice": "EN.SI.21",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 0.9,
+        "Nome": [
+          "Impiego dei prodotti energetici",
+          "nei lavori agricoli e assimilati"
+        ]
+      },
+      {
+        "Codice": "EN.SI.04",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Internazionale/Nazionale",
+        "Mld \u20ac": 0.9,
+        "Nome": [
+          "Esenzione dall\u2019accisa sui carburanti",
+          "per la navigazione aerea"
+        ]
+      },
+      {
+        "Codice": "IVA.17",
+        "FFS": null,
+        "Livello di riformabilit\u00e0": "Nazionale",
+        "Mld \u20ac": 0.7,
+        "Nome": [
+          "IVA agevolata per smaltimento",
+          "in discarica"
+        ]
+      },
+      {
+        "Codice": "EN.SI.05",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 0.6,
+        "Nome": [
+          "Esenzione dall\u2019accisa sui carburanti",
+          "per la navigazione marittima"
+        ]
+      },
+      {
+        "Codice": "EN.SI.02",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 0.6,
+        "Nome": [
+          "Esenzione dall\u2019accisa sull\u2019energia",
+          "elettrica per le abitazioni"
+        ]
+      },
+      {
+        "Codice": "EN.SI.29",
+        "FFS": "FFS",
+        "Livello di riformabilit\u00e0": " Nazionale",
+        "Mld \u20ac": 0.6,
+        "Nome": [
+          "Agevolazioni per le imprese a forte",
+          "consumo di energia elettrica"
+        ]
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Mld \u20ac",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#c6f9db",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Nome",
+        "type": "nominal"
+      },
+      {
+        "field": "Mld \u20ac",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Mld \u20ac",
+      "title": "Mld \u20ac",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Nome",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 600,
+  "mark": {
+    "color": "#18E169",
+    "type": "bar"
+  },
+  "title": "Sussidi diretti e indiretti",
+  "width": "container"
+}

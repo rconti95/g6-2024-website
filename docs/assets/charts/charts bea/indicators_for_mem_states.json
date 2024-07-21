@@ -1,0 +1,641 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "background": "transparent",
+    "title": {
+      "anchor": "start",
+      "color": "black",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-139cfceda72e11f6bc66d4b1a13dac53"
+  },
+  "datasets": {
+    "data-139cfceda72e11f6bc66d4b1a13dac53": [
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Belgium (93)",
+        "Number": 4.3
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Denmark (111)",
+        "Number": 5.41
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Spain (247)",
+        "Number": 8.91
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Latvia (61)",
+        "Number": 9.84
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Italy (263)",
+        "Number": 9.89
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Netherlands (52)",
+        "Number": 11.54
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Bulgaria (188)",
+        "Number": 12.23
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Hungary (45)",
+        "Number": 13.33
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Ireland (59)",
+        "Number": 15.25
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "United Kindom (87)",
+        "Number": 16.09
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Austria (117)",
+        "Number": 17.95
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Czechia (93)",
+        "Number": 19.35
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Poland  (115)",
+        "Number": 20.0
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "France (297)",
+        "Number": 20.2
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Lithuania (54)",
+        "Number": 22.22
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Sweden (186)",
+        "Number": 22.58
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Portugal (156)",
+        "Number": 23.72
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Malta (29)",
+        "Number": 27.59
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Germany (195)",
+        "Number": 29.74
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Finland (91)",
+        "Number": 31.87
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Luxembourg (28)",
+        "Number": 32.14
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Slovakia (101)",
+        "Number": 37.62
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Slovenia (89)",
+        "Number": 38.2
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Croatia (125)",
+        "Number": 39.2
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Cyprus (42)",
+        "Number": 45.24
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Greece (89)",
+        "Number": 48.31
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Estonia (60)",
+        "Number": 56.67
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "Romania (173)",
+        "Number": 68.21
+      },
+      {
+        "Indicator": "Goodnumber",
+        "Member state": "EU status",
+        "Number": 23.87
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Belgium (93)",
+        "Number": 1.08
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Denmark (111)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Spain (247)",
+        "Number": 17.81
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Latvia (61)",
+        "Number": 8.2
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Italy (263)",
+        "Number": 4.18
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Netherlands (52)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Bulgaria (188)",
+        "Number": 3.19
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Hungary (45)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Ireland (59)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "United Kindom (87)",
+        "Number": 1.15
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Austria (117)",
+        "Number": 3.42
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Czechia (93)",
+        "Number": 1.08
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Poland  (115)",
+        "Number": 1.74
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "France (297)",
+        "Number": 4.04
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Lithuania (54)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Sweden (186)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Portugal (156)",
+        "Number": 4.49
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Malta (29)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Germany (195)",
+        "Number": 1.03
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Finland (91)",
+        "Number": 1.1
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Luxembourg (28)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Slovakia (101)",
+        "Number": 1.98
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Slovenia (89)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Croatia (125)",
+        "Number": 14.4
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Cyprus (42)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Greece (89)",
+        "Number": 4.49
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Estonia (60)",
+        "Number": 0.0
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "Romania (173)",
+        "Number": 1.73
+      },
+      {
+        "Indicator": "Unknownnumber",
+        "Member state": "EU status",
+        "Number": 3.73
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Belgium (93)",
+        "Number": 15.05
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Denmark (111)",
+        "Number": 18.02
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Spain (247)",
+        "Number": 56.28
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Latvia (61)",
+        "Number": 44.26
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Italy (263)",
+        "Number": 47.15
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Netherlands (52)",
+        "Number": 34.62
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Bulgaria (188)",
+        "Number": 79.26
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Hungary (45)",
+        "Number": 37.78
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Ireland (59)",
+        "Number": 45.76
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "United Kindom (87)",
+        "Number": 11.49
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Austria (117)",
+        "Number": 35.04
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Czechia (93)",
+        "Number": 49.46
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Poland  (115)",
+        "Number": 43.48
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "France (297)",
+        "Number": 42.09
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Lithuania (54)",
+        "Number": 38.89
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Sweden (186)",
+        "Number": 23.12
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Portugal (156)",
+        "Number": 42.95
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Malta (29)",
+        "Number": 13.79
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Germany (195)",
+        "Number": 31.79
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Finland (91)",
+        "Number": 35.16
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Luxembourg (28)",
+        "Number": 17.86
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Slovakia (101)",
+        "Number": 50.5
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Slovenia (89)",
+        "Number": 31.46
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Croatia (125)",
+        "Number": 25.6
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Cyprus (42)",
+        "Number": 19.05
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Greece (89)",
+        "Number": 41.57
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Estonia (60)",
+        "Number": 36.67
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "Romania (173)",
+        "Number": 26.59
+      },
+      {
+        "Indicator": "Poornumber",
+        "Member state": "EU status",
+        "Number": 39.02
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Belgium (93)",
+        "Number": 79.57
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Denmark (111)",
+        "Number": 76.58
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Spain (247)",
+        "Number": 17.0
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Latvia (61)",
+        "Number": 37.7
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Italy (263)",
+        "Number": 38.78
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Netherlands (52)",
+        "Number": 53.85
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Bulgaria (188)",
+        "Number": 5.32
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Hungary (45)",
+        "Number": 48.89
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Ireland (59)",
+        "Number": 38.98
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "United Kindom (87)",
+        "Number": 71.26
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Austria (117)",
+        "Number": 43.59
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Czechia (93)",
+        "Number": 30.11
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Poland  (115)",
+        "Number": 34.78
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "France (297)",
+        "Number": 33.67
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Lithuania (54)",
+        "Number": 38.89
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Sweden (186)",
+        "Number": 54.3
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Portugal (156)",
+        "Number": 28.85
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Malta (29)",
+        "Number": 58.62
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Germany (195)",
+        "Number": 37.44
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Finland (91)",
+        "Number": 31.87
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Luxembourg (28)",
+        "Number": 50.0
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Slovakia (101)",
+        "Number": 9.9
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Slovenia (89)",
+        "Number": 30.34
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Croatia (125)",
+        "Number": 20.8
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Cyprus (42)",
+        "Number": 35.71
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Greece (89)",
+        "Number": 5.62
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Estonia (60)",
+        "Number": 6.67
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "Romania (173)",
+        "Number": 3.47
+      },
+      {
+        "Indicator": "Badnumber",
+        "Member state": "EU status",
+        "Number": 33.37
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Indicator",
+      "legend": {
+        "title": "Indicator"
+      },
+      "scale": {
+        "domain": [
+          "Goodnumber",
+          "Unknownnumber",
+          "Poornumber",
+          "Badnumber"
+        ],
+        "range": [
+          "green",
+          "grey",
+          "yellow",
+          "red"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Number",
+      "title": "Number",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Member state",
+      "title": "Member state",
+      "type": "nominal"
+    }
+  },
+  "height": 600,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Indicators for Member States",
+  "width": "container"
+}

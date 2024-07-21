@@ -9,8 +9,8 @@ header_title: '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 vega: true
 ---
 
-# I 10 punti
-
+## I 10 punti
+<div id="area-tematica-1"></div>
 Per cercare di comprendere non solo le rivendicazioni e le istanze, ma anche le cause del malcontento sempre più diffuso nel settore agricolo, abbiamo deciso di concentrarci sulle voci di chi sembra avere qualcosa da dire in questo frangente: gli agricoltori stessi. 
 Il 30 gennaio del 2024, esce infatti un manifesto di 10 punti che rappresenta le istanze dei lavoratori e delle lavoratrici di questo settore. 10 punti fondamentali da indagare a fondo per comprendere il senso di quanto l’Italia ha vissuto in questi mesi di proteste. 
 
@@ -43,7 +43,7 @@ Possono essere suddivisi in macroaree di argomenti:
 Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano tra le lotte degli agricoltori. 
 
 ## Punto 1: Il Green Deal Europeo: un difficile equilibrio:
-<div id="area-tematica-1"></div>
+<div id="area-tematica-2"></div>
 {% capture 10_punti_parte1 %}
     {% include_relative snippets/10_punti_parte1.md %}
 {% endcapture %}
@@ -114,7 +114,7 @@ Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano t
 {% include code-explanation.html %}
 
 ## Punto 2: Stato e agricoltori: dov’è l’Italia?
-<div id="area-tematica-2"></div>
+<div id="area-tematica-3"></div>
 {% capture 10_punti_parte2 %}
     {% include_relative snippets/10_punti_parte2.md %}
 {% endcapture %}
@@ -122,7 +122,7 @@ Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano t
 {% include one-column.html dimension="fluid" content=10_punti_parte1 %}
 
 ## Punto 3: Riqualificazione della figura dell’agricoltore 
-<div id="area-tematica-3"></div>
+<div id="area-tematica-4"></div>
 {% capture 10_punti_parte2 %}
     {% include_relative snippets/10_punti_parte2.md %}
 {% endcapture %}

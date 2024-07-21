@@ -11,7 +11,7 @@ vega: true
 
 # L’industria agroalimentare in Italia: una panoramica
 
-Cosa vuol dire, nel nostro paese, essere un agricoltore o agricoltrice? I dati CREA suggeriscono che significa far parte di un’industria il cui fatturato nel 2022 ha avuto un’incidenza superiore al 4% sull’economia dell’intero paese. Un settore, dunque, con un’importanza altissima ma che, tuttavia, dal 2006 ha visto calare la sua forza produttiva, come dimostra il grafico sottostante. 
+Cosa vuol dire, nel nostro paese, essere un agricoltore o agricoltrice? I dati CREA suggeriscono che significa far parte di un’industria il cui fatturato nel 2022 ha avuto <a href= "https://creafuturo.crea.gov.it/10568/"> un’incidenza superiore al 4% sull’economia dell’intero paese </a>. Un settore, dunque, con un’importanza altissima ma che, tuttavia, dal 2006 ha visto calare la sua forza produttiva, come dimostra il grafico sottostante. 
 
 <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
 
@@ -45,8 +45,8 @@ La narrazione attorno al Made in Italy ha forse potuto imporsi grazie alla confo
 <br>
 <img src="{{site.baseurl}}/assets/images/realta_agricole.svg" style="background: transparent;" alt="realta_agricole"> 
 
-L’Italia è vicina a paesi come la Romania e la Polonia, dove la maggior parte delle aziende sono interamente possedute da famiglie, una parte minore a conduzione ibrida, in cui le famiglie ancora posseggono una parte delle aziende. Una minima parte delle aziende agricole appartiene a gruppi non famigliari. 
-Quella italiana è una realtà fatta di grandi industrie, ma soprattutto di lavoratrici e lavoratori che ereditano terra e lavorano i campi seguendo una spesso longeva tradizione famigliare. 
+L’Italia è vicina a paesi come la Romania e la Polonia, dove il numero più corpose di aziende è posseduto interamente da famiglie, mentre un numero minore ancorché consistente è a conduzione ibrida (famigliare ed extra-famigliare). Una minimissima parte delle aziende agricole appartiene interamente a gruppi non famigliari. 
+Insomma, quella italiana è una realtà fatta di grandi industrie, ma soprattutto di lavoratrici e lavoratori che ereditano terra e lavorano i campi seguendo una spesso longeva tradizione famigliare. 
 
 Eventi recenti, tuttavia, ci permettono di complicare questo quadro e considerare la presenza di “realtà sommerse”, che pure caratterizzano il sistema agricolo italiano. Caporalato, lavoro in nero e sottopagato sono degli elementi che non possono essere letti attraverso i dati - poiché non registrati - ma che riemergono al verificarsi di fatti di cronaca, il più recente nel giugno del 2024, l’efferato omicidio dell’agricoltore di origini <a href="https://www.ilpost.it/2024/06/20/inchiesta-morte-satnam-singh-agro-pontino-latina/"> Satnam Singh </a>, che lavorava a nero in un’azienda agricola dell’agropontino. Nel 2020, la serie di proteste il cui portavoce è stato <a href="https://www.ilpost.it/2020/06/17/protesta-aboubakar-soumahoro/Aboubakar"> Aboubakar Soumahoro </a> ha portato l’attenzione sulla situazione dei braccianti migranti, già tristemente nota e documentata in molte occasioni, una delle quali il libro-inchiesta di Fabrizio Gatti Bilal. Viaggiare, lavorare, morire da clandestini del 2008. 
 

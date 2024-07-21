@@ -1,0 +1,125 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "domainColor": "#B0B0B0",
+      "gridColor": "#333333",
+      "labelColor": "#E0E0E0",
+      "labelFontSize": 12,
+      "tickColor": "#B0B0B0",
+      "titleColor": "#E0E0E0",
+      "titleFontSize": 14
+    },
+    "background": "#121212",
+    "legend": {
+      "labelColor": "#E0E0E0",
+      "titleColor": "#E0E0E0"
+    },
+    "mark": {
+      "color": "#1f77b4"
+    },
+    "title": {
+      "color": "#E0E0E0",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-391fb10183b2e9c049308f9440543583"
+  },
+  "datasets": {
+    "data-391fb10183b2e9c049308f9440543583": [
+      {
+        "frequency": 3592,
+        "ngram": "non mollate"
+      },
+      {
+        "frequency": 2182,
+        "ngram": "avanti tutta"
+      },
+      {
+        "frequency": 2005,
+        "ngram": "dio vi benedica"
+      },
+      {
+        "frequency": 1887,
+        "ngram": "forza ragazzi"
+      },
+      {
+        "frequency": 1089,
+        "ngram": "prodotti italiani"
+      },
+      {
+        "frequency": 1036,
+        "ngram": "agricoltori italiani"
+      },
+      {
+        "frequency": 760,
+        "ngram": "sempre con voi"
+      },
+      {
+        "frequency": 706,
+        "ngram": "tutti uniti"
+      },
+      {
+        "frequency": 686,
+        "ngram": "in piazza"
+      },
+      {
+        "frequency": 536,
+        "ngram": "tutti a roma"
+      },
+      {
+        "frequency": 489,
+        "ngram": "nostra terra"
+      },
+      {
+        "frequency": 477,
+        "ngram": "w gli agricoltori"
+      },
+      {
+        "frequency": 448,
+        "ngram": "forza e coraggio"
+      },
+      {
+        "frequency": 308,
+        "ngram": "la nostra terra"
+      },
+      {
+        "frequency": 234,
+        "ngram": "uniti si vince"
+      },
+      {
+        "frequency": 195,
+        "ngram": "l'unione fa la forza"
+      },
+      {
+        "frequency": 112,
+        "ngram": "io sto con gli agricoltori"
+      }
+    ]
+  },
+  "encoding": {
+    "tooltip": [
+      {
+        "field": "frequency",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "frequency",
+      "title": "frequenza",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "ngram",
+      "sort": "-x",
+      "title": "n-gramma",
+      "type": "nominal"
+    }
+  },
+  "mark": {
+    "color": "#18E169",
+    "type": "bar"
+  },
+  "title": "Sequenze di parole frequenti"
+}

@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "domainColor": "#B0B0B0",
+      "gridColor": "#333333",
+      "labelColor": "#E0E0E0",
+      "labelFontSize": 12,
+      "tickColor": "#B0B0B0",
+      "titleColor": "#E0E0E0",
+      "titleFontSize": 14
+    },
+    "background": "#121212",
+    "legend": {
+      "labelColor": "#E0E0E0",
+      "titleColor": "#E0E0E0"
+    },
+    "mark": {
+      "color": "#1f77b4"
+    },
+    "title": {
+      "color": "#E0E0E0",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-2aeefea6411b9a4fed7f67ff28020110"
+  },
+  "datasets": {
+    "data-2aeefea6411b9a4fed7f67ff28020110": [
+      {
+        "Value": 617051,
+        "Year": 2001
+      },
+      {
+        "Value": 630369,
+        "Year": 2002
+      },
+      {
+        "Value": 657771,
+        "Year": 2003
+      },
+      {
+        "Value": 680718,
+        "Year": 2004
+      },
+      {
+        "Value": 705459,
+        "Year": 2005
+      },
+      {
+        "Value": 741766,
+        "Year": 2006
+      },
+      {
+        "Value": 755305,
+        "Year": 2007
+      },
+      {
+        "Value": 783156,
+        "Year": 2008
+      },
+      {
+        "Value": 805888,
+        "Year": 2009
+      },
+      {
+        "Value": 804370,
+        "Year": 2010
+      },
+      {
+        "Value": 810686,
+        "Year": 2011
+      },
+      {
+        "Value": 821712,
+        "Year": 2012
+      },
+      {
+        "Value": 819381,
+        "Year": 2013
+      },
+      {
+        "Value": 825502,
+        "Year": 2014
+      },
+      {
+        "Value": 832927,
+        "Year": 2015
+      },
+      {
+        "Value": 832265,
+        "Year": 2016
+      },
+      {
+        "Value": 846821,
+        "Year": 2017
+      },
+      {
+        "Value": 857245,
+        "Year": 2018
+      },
+      {
+        "Value": 870860,
+        "Year": 2019
+      },
+      {
+        "Value": 943494,
+        "Year": 2020
+      },
+      {
+        "Value": 986167,
+        "Year": 2021
+      },
+      {
+        "Value": 1091530,
+        "Year": 2022
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Value",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#99f4be",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Value",
+        "format": ",",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "axis": {
+        "labelAngle": 0
+      },
+      "field": "Year",
+      "title": "Year",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Value",
+      "title": "Value",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "color": "#18E169",
+    "type": "bar"
+  },
+  "title": "Sussidi in Italia per agricoltura secondo il Fondo Monetario",
+  "width": "container"
+}

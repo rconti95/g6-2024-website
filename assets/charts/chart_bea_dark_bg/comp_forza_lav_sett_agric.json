@@ -1,0 +1,83 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "axis": {
+      "domainColor": "#B0B0B0",
+      "gridColor": "#333333",
+      "labelColor": "#E0E0E0",
+      "labelFontSize": 12,
+      "tickColor": "#B0B0B0",
+      "titleColor": "#E0E0E0",
+      "titleFontSize": 14
+    },
+    "background": "#121212",
+    "legend": {
+      "labelColor": "#E0E0E0",
+      "titleColor": "#E0E0E0"
+    },
+    "mark": {
+      "color": "#1f77b4"
+    },
+    "title": {
+      "color": "#E0E0E0",
+      "fontSize": 20
+    }
+  },
+  "data": {
+    "name": "data-e4f67804991f971aeaa3aa73fd12c919"
+  },
+  "datasets": {
+    "data-e4f67804991f971aeaa3aa73fd12c919": [
+      {
+        "Category": "Family Groups",
+        "Percentage": 83.0
+      },
+      {
+        "Category": "Multinationals",
+        "Percentage": 12.5
+      },
+      {
+        "Category": "Foreign Multinationals",
+        "Percentage": 4.5
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Percentage",
+      "legend": null,
+      "scale": {
+        "interpolate": "hsl",
+        "scheme": [
+          "#c6f9db",
+          "#18E169"
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Percentage",
+        "title": "Percentage",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Percentage",
+      "title": "Percentage",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Category",
+      "sort": "-x",
+      "title": "Category",
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "title": "Composizione della forza-lavoro nel settore agricolo",
+  "width": "container"
+}

@@ -57,7 +57,7 @@ Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano t
     {% include_relative snippets/10_punti_parte2.md %}
 {% endcapture %}
 
-{% include one-column.html dimension="fluid" content=10_punti_parte1 %}
+{% include one-column.html dimension="fluid" content=10_punti_parte2 %}
 
 ## Punto 3: Riqualificazione della figura dell’agricoltore 
 <div id="area-tematica-4"></div>

@@ -2,53 +2,105 @@
 {% include_relative snippets/tech/onepage-tech.md %}
 {% endcapture %}
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-Dal 2020, la Commissione Europea ha introdotto, all’interno della PAC, il Green Deal: un piano di supporto economico per preservare la biodiversità e mitigare il cambiamento climatico. La spesa della PAC è sempre stata in cima alla lista di priorità europee, per riqualificare aree rurali, incentivare il lavoro agricolo, promuovere il benessere di agricoltori mantenendo quello dell’ambiente e gestione dei cambiamenti climatici. Eppure, in questa situazione di urgenza, si può osservare una netta decrescita dei fondi destinati alla PAC al netto della spesa Europea. Un primo aspetto di difficile comprensione, al netto dell’emergenza climatica. 
+<p style="color: #E0E0E0;">Dal 2020, la Commissione Europea ha introdotto, all’interno della PAC, il Green Deal: un piano di supporto economico per preservare la biodiversità e mitigare il cambiamento climatico. La spesa della PAC è sempre stata in cima alla lista di priorità europee, per riqualificare aree rurali, incentivare il lavoro agricolo, promuovere il benessere di agricoltori mantenendo quello dell’ambiente e gestione dei cambiamenti climatici. Eppure, in questa situazione di urgenza, si può osservare una netta decrescita dei fondi destinati alla PAC al netto della spesa Europea. Un primo aspetto di difficile comprensione, al netto dell’emergenza climatica.</p>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/spesa_eu_tot_e_pac.json" style="width: 100%"></vegachart>
+            <hr>
+        </div>
+    </div>
+</div>
 
-Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 bilioni.
-La PAC viene suddivisa in due macrocategorie di spesa: EAGF (pagamenti settoriali e diretti) e EAFRD (sviluppo rurale), due aspetti strettamente legati che sono così suddivisi: 
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/spesa_eu_tot_e_pac.json" style="width: 80%"></vegachart>
+</div>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/finanziamento_per_categorie.json" style="width: 100%"></vegachart>
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-I due principali pagamenti diretti sono il Basic Income Support for Sustanibility (BISS) e gli eco-schemi. Il primo ha lo scopo di guidare la transizione ecologica con un supporto diretto. Gli eco-schemi, invece, sono fondi destinati agli agricoltori che adottano direttamente parametri e direttive europee, trasformando il proprio lavoro in modo che risulti maggiormente sostenibile. 
+<p style="color: #E0E0E0;">Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 bilioni.
+La PAC viene suddivisa in due macrocategorie di spesa: EAGF (pagamenti settoriali e diretti) e EAFRD (sviluppo rurale), due aspetti strettamente legati che sono così suddivisi:</p> 
 
-Ogni stato europeo ha poi la propria organizzazione che decide in che modo suddividere i fondi. Vediamo il caso italiano. 
+            <hr>
+        </div>
+    </div>
+</div>
 
-<strong> Distribuzione di fondi e il problema della burocrazia italiana </strong>
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/finanziamento_per_categorie.json" style="width: 80%"></vegachart>
+</div>
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-L'Italia risulta il quarto paese per fondi legati alla PAC di tutta l'Europa, con 5712,5 milioni di euro disponibili per mettere in atto il proprio piano strategico agricolo. 
-Allocare i fondi prevede prendere in considerazione numerosi aspetti territoriali: l'area, il numero degli agricoltori, la situazione economica e la tipologia di coltivazione.
+<p style="color: #E0E0E0;">I due principali pagamenti diretti sono il Basic Income Support for Sustanibility (BISS) e gli eco-schemi. Il primo ha lo scopo di guidare la transizione ecologica con un supporto diretto. Gli eco-schemi, invece, sono fondi destinati agli agricoltori che adottano direttamente parametri e direttive europee, trasformando il proprio lavoro in modo che risulti maggiormente sostenibile.</p>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/tot_aiuti_x_stato.json" style="width: 100%"></vegachart> 
+<p style="color: #E0E0E0;">Ogni stato europeo ha poi la propria organizzazione che decide in che modo suddividere i fondi. Vediamo il caso italiano.</p>
 
-L’Italia dunque gode di una quantità interessante di fondi allocati, ma qui subentra un grosso problema di possibilità di spesa. La complessità burocratica dei bandi è un grave scoglio per l'utilizzo dei soldi dell’Unione Europea. Un articolo del <a href = "https://www.ilsole24ore.com/art/spesa-bloccata-i-fondi-europei-2021-27-solo-09percento-74-miliardi-AFRkGtMC">Sole24Ore </a> stima che a fine aprile 2024, su 74 miliardi di euro disponibili allocati per la spesa tra 2021 e 2027, l’Italia abbia usufruito di 621 milioni, lo 0,9% del totale. 
+<p style="color: #E0E0E0;"><strong> Distribuzione di fondi e il problema della burocrazia italiana </strong></p>
 
-<i> Brunori: Uno di questi [problemi] è l'aggravio burocratico: ogni regola e ogni incentivo vengono vincolati ad uno specifico set di regole. Si tratta, tutti i giorni, di aver paura di trasgredire una serie di aspetti burocratici, con le relative sanzioni. </i> 
+<p style="color: #E0E0E0;">L'Italia risulta il quarto paese per fondi legati alla PAC di tutta l'Europa, con 5712,5 milioni di euro disponibili per mettere in atto il proprio piano strategico agricolo. 
+Allocare i fondi prevede prendere in considerazione numerosi aspetti territoriali: l'area, il numero degli agricoltori, la situazione economica e la tipologia di coltivazione.</p>
 
-Vi è un altro problema: come vengono gestiti e distribuiti questi fondi?
-L'Italia, insieme a diversi altri stati europei, ha scelto di non applicare misure di distribuzione proporzionata alla dimensione economica.
+            <hr>
+        </div>
+    </div>
+</div>
 
-<span class="red-underline">INSERIRE QUESTIONE CAPING E DIGRESSIVITA</span></p>
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/tot_aiuti_x_stato.json" style="width: 100%"></vegachart>
+</div> 
 
-Questa scelta crea una potenziale situazione di concorrenza economica e spinta per incentivare la produzione massiva di grandi corporazioni agricole, ma inevitabilmente svantaggia uno sviluppo economico equo per consentire ad agricoltori meno abbienti di poter avanzare economicamente. 
-Alla luce del quadro precedentemente visto sulla situazione agricola italiana, non rappresenta una scelta atta a tutelare i diritti dei piccoli produttori. 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-Le parole di <a href="https://www.greenpeace.org/static/planet4-international-stateless/2024/06/10b1dd12-greenpeace-international-annual-report-2023.pdf">GreenPeace </a> nel loro report annuale (2023) sono molto chiare: 
+<p style="color: #E0E0E0;">L’Italia dunque gode di una quantità interessante di fondi allocati, ma qui subentra un grosso problema di possibilità di spesa. La complessità burocratica dei bandi è un grave scoglio per l'utilizzo dei soldi dell’Unione Europea. Un articolo del <a href = "https://www.ilsole24ore.com/art/spesa-bloccata-i-fondi-europei-2021-27-solo-09percento-74-miliardi-AFRkGtMC">Sole24Ore </a> stima che a fine aprile 2024, su 74 miliardi di euro disponibili allocati per la spesa tra 2021 e 2027, l’Italia abbia usufruito di 621 milioni, lo 0,9% del totale.</p> 
 
-<i> I numeri inoltre parlano chiaro: l’80% dei finanziamenti europei destinati all’agricoltura italiana finisce nelle casse di una minoranza privilegiata (il 20% dei beneficiari). 
+<p style="color: #E0E0E0;"><i> Brunori: Uno di questi [problemi] è l'aggravio burocratico: ogni regola e ogni incentivo vengono vincolati ad uno specifico set di regole. Si tratta, tutti i giorni, di aver paura di trasgredire una serie di aspetti burocratici, con le relative sanzioni. </i></p> 
+
+<p style="color: #E0E0E0;">Vi è un altro problema: come vengono gestiti e distribuiti questi fondi?
+L'Italia, insieme a diversi altri stati europei, ha scelto di non applicare misure di distribuzione proporzionata alla dimensione economica.</p>
+
+<p style="color: #E0E0E0;"><span class="red-underline">INSERIRE QUESTIONE CAPING E DIGRESSIVITA</span></p>
+
+<p style="color: #E0E0E0;">Questa scelta crea una potenziale situazione di concorrenza economica e spinta per incentivare la produzione massiva di grandi corporazioni agricole, ma inevitabilmente svantaggia uno sviluppo economico equo per consentire ad agricoltori meno abbienti di poter avanzare economicamente. 
+Alla luce del quadro precedentemente visto sulla situazione agricola italiana, non rappresenta una scelta atta a tutelare i diritti dei piccoli produttori.</p>
+
+<p style="color: #E0E0E0;">Le parole di <a href="https://www.greenpeace.org/static/planet4-international-stateless/2024/06/10b1dd12-greenpeace-international-annual-report-2023.pdf">GreenPeace </a> nel loro report annuale (2023) sono molto chiare:</p> 
+
+<p style="color: #E0E0E0;"><i> I numeri inoltre parlano chiaro: l’80% dei finanziamenti europei destinati all’agricoltura italiana finisce nelle casse di una minoranza privilegiata (il 20% dei beneficiari). 
 Questo sistema penalizza le piccole aziende e favorisce quelle più grandi: secondo i dati Eurostat, l’Italia ha perso oltre 320 mila aziende in poco più di 10 anni (tra il 2004 e il 2016), con un calo del 38% tra le “piccole” a fronte di  un aumento del 21% delle aziende “molto grandi” e del 23% di quelle grandi. In un contesto di crisi economica, geopolitica ed ecologica che vede l’aumento dei prezzi delle materie prime e il calo del potere d’acquisto dei cittadini, i piccoli allevatori sono tra le categorie che pagano un prezzo molto alto perché il loro reddito, già esiguo, non fa che ridursi.
-</i>
+</i></p>
 
-Parole alle quali fa eco la voce del prof. Bruori: 
+<p style="color: #E0E0E0;">Parole alle quali fa eco la voce del prof. Bruori:</p> 
 
 
-<i>Tutto questo deve tenere in conto che la PAC è una politica fortemente iniqua. L'80% dei fondi vengono destinati al 20% delle aziende. La comunità economica europea ha fin da sempre dato l'impressione che i soldi fossero un diritto a cui non corrispondevano doveri. Quindi ora gli agricoltori dipendono strettamente da fondi europei ma lo considerano come un diritto acquisito.
-</i>
+<p style="color: #E0E0E0;"><i>Tutto questo deve tenere in conto che la PAC è una politica fortemente iniqua. L'80% dei fondi vengono destinati al 20% delle aziende. La comunità economica europea ha fin da sempre dato l'impressione che i soldi fossero un diritto a cui non corrispondevano doveri. Quindi ora gli agricoltori dipendono strettamente da fondi europei ma lo considerano come un diritto acquisito.
+</i></p>
 
-Vediamo allora come l’Italia distribuisce i pagamenti diretti ottenuti dall’Europa. 
+<p style="color: #E0E0E0;">Vediamo allora come l’Italia distribuisce i pagamenti diretti ottenuti dall’Europa.</p> 
+
+            <hr>
+        </div>
+    </div>
+</div>
 
 <vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/sudd_suss_dir_ind.json" style="width: 100%"></vegachart>
 

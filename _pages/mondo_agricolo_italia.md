@@ -76,9 +76,22 @@ vega: true
     </div>
 </div>
 
-
 <div style="text-align: center;">
   <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/ita_eu_confronto_unita_famil_agric.json" style="width: 60%;"></vegachart>
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">L’Italia è vicina a paesi come la Romania e la Polonia, dove il numero più corpose di aziende è posseduto interamente da famiglie, mentre un numero minore ancorché consistente è a conduzione ibrida (famigliare ed extra-famigliare). Una minimissima parte delle aziende agricole appartiene interamente a gruppi non famigliari.</p>
+
+            <hr>
+        </div>
+    </div>
 </div>
 
 <div style="text-align: center;">

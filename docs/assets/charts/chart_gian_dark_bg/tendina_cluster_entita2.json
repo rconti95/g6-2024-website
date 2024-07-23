@@ -229,7 +229,7 @@
       },
       "value": "Gruppo di pressione",
       "views": [
-        "view_1"
+        "view_7"
       ]
     }
   ],
@@ -296,7 +296,7 @@
           "mark": {
             "type": "bar"
           },
-          "name": "view_1",
+          "name": "view_7",
           "transform": [
             {
               "filter": {

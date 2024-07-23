@@ -1,5 +1,5 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.15.1.json",
   "config": {
     "axis": {
       "domainColor": "#B0B0B0",
@@ -24,10 +24,10 @@
     }
   },
   "data": {
-    "name": "data-63c5ab299ed1137b2fc2e45fb91d72ab"
+    "name": "data-3a06aecd3a73440dd400274a6aeb4b4f"
   },
   "datasets": {
-    "data-63c5ab299ed1137b2fc2e45fb91d72ab": [
+    "data-3a06aecd3a73440dd400274a6aeb4b4f": [
       {
         "Anno": 2006,
         "Territorio": "Italia",
@@ -664,7 +664,7 @@
     {
       "bind": {
         "input": "select",
-        "name": "Seleziona tipologia di dato ",
+        "name": " ",
         "options": [
           "produzione raccolta - quintali",
           "produzione totale - quintali",
@@ -682,7 +682,7 @@
       },
       "value": "produzione raccolta - quintali",
       "views": [
-        "view_3"
+        "view_10"
       ]
     }
   ],
@@ -709,7 +709,7 @@
           }
         }
       ],
-      "width": "container"
+      "width": 600
     },
     {
       "height": 400,
@@ -735,7 +735,7 @@
             "interpolate": "monotone",
             "type": "line"
           },
-          "name": "view_3",
+          "name": "view_10",
           "transform": [
             {
               "filter": {
@@ -806,7 +806,7 @@
           ]
         }
       ],
-      "width": "container"
+      "width": 600
     }
   ]
 }

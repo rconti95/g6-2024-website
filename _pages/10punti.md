@@ -4,16 +4,16 @@ title:  '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 subtitle: "Analisi delle proteste agricole nel contesto italiano"
 show_sidetoc: true
 header_type: hero #base, post, hero, image, splash
-header_img: assets/images/10punti.jpg
+header_img: assets/images/Immagine1.jpg
 header_title: '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 vega: true
 ---
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <h2 style="color: #E0E0E0;">I 10 punti</h2>
@@ -55,9 +55,11 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 
 <p style="color: #E0E0E0;">Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano tra le lotte degli agricoltori.</p>
 
-<h2 style="color: #E0E0E0;">Punto 1: Il Green Deal Europeo: un difficile equilibrio:</h2>
+<br>
+<hr>
 
-            <hr>
+<h2 style="color: #E0E0E0;">Punto 1: Il Green Deal Europeo: un difficile equilibrio:</h2>
+<hr>
         </div>
     </div>
 </div>
@@ -72,9 +74,9 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <h2 style="color: #E0E0E0;">Punto 2: Stato e agricoltori: dov’è l’Italia?</h2>
@@ -93,9 +95,9 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <h2 style="color: #E0E0E0;">Punto 3: Riqualificazione della figura dell’agricoltore</h2>

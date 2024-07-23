@@ -15,9 +15,9 @@ vega: true
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 <p style="color: #E0E0E0;">“<strong>Attenzione. È in atto una riunione straordinaria per proclamare la mobilitazione nazionale. Vi terremo informati!</strong>”. È il 7 gennaio del 2023 quando sulla pagina Facebook “Circolo Riunito Agricoltori - Agricoltori Traditi” compare questo post che avverte lavoratori e lavoratrici dell’agricoltura di un'imminente mobilitazione. Il 12 gennaio un altro post comunica: “<strong>Attenzione questa è la pagina ufficiale della mobilitazione nazionale… comunicati notizie di incontri come comportarsi per gestire la sicurezza della grandissima protesta del popolo che sta arrivando come avere tutto ciò che serve per manifestare legalmente…. verranno pubblicati qui</strong>”. Pochi giorni dopo sempre attraverso la pagina viene finalmente comunicata una mobilitazione nazionale per il 22 gennaio 2023.</p>
 
@@ -57,9 +57,9 @@ vega: true
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <em style="color: #E0E0E0;"> Ogni trattore rappresenta il comune in cui è avvenuta almeno una protesta.
             </em>
         </div>
@@ -68,9 +68,9 @@ vega: true
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
 {% capture mappatura_tech %}
 {% include_relative snippets/tech/mappatura-tech.md %}
 {% endcapture %}

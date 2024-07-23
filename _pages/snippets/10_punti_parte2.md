@@ -4,9 +4,9 @@
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Dal 2020, la Commissione Europea ha introdotto, all’interno della PAC, il Green Deal: un piano di supporto economico per preservare la biodiversità e mitigare il cambiamento climatico. La spesa della PAC è sempre stata in cima alla lista di priorità europee, per riqualificare aree rurali, incentivare il lavoro agricolo, promuovere il benessere di agricoltori mantenendo quello dell’ambiente e gestione dei cambiamenti climatici. Eppure, in questa situazione di urgenza, si può osservare una netta decrescita dei fondi destinati alla PAC al netto della spesa Europea. Un primo aspetto di difficile comprensione, al netto dell’emergenza climatica.</p>
@@ -22,9 +22,9 @@
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">L’esponenziale crescita dei costi da sostenere è un dato fondamentale per capire un altro aspetto del malcontento dei contadini: quello della fortissima crisi che colpisce l’economia. 
@@ -51,9 +51,9 @@ Ma guardando alle preoccupazioni economiche e fiscali degli agricoltori, questo 
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;"><strong>Il mercato estero: import ed export</strong></p>
@@ -88,9 +88,9 @@ Passando poi ai Paesi Bassi, l'import principale è di prosciutti freschi o refr
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;"><strong>Un import che preoccupa: i cibi sintetici</strong>
@@ -147,5 +147,7 @@ Ad opporsi strenuamente ad un cambio di status quo riguardo allevamenti intensiv
         </div>
     </div>
 </div>
+
+
 
 

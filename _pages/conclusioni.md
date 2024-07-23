@@ -11,9 +11,9 @@ vega: true
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <h2 style="color: #E0E0E0;">Conclusioni</h2>

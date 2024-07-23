@@ -102,79 +102,166 @@ Questo sistema penalizza le piccole aziende e favorisce quelle più grandi: seco
     </div>
 </div>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/sudd_suss_dir_ind.json" style="width: 100%"></vegachart>
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/sudd_suss_dir_ind.json" style="width: 80%"></vegachart>
+</div> 
 
-Questi sussidi possono essere suddivisi in due tipi: diretti, come i trasferimenti di risorse direttamente ai produttori, e indiretti, come sconti fiscali e altre agevolazioni. In questa categoria sono inclusi incentivi, agevolazioni, finanziamenti agevolati ed esenzioni fiscali. Vengono contati, in questo caso, la riduzione fiscale di benzina e gasolio, l’IVA agevolata e altri sgravi fiscali.
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/suss_dir_ind.json" style="width: 100%"></vegachart>
+<p style="color: #E0E0E0;">Questi sussidi possono essere suddivisi in due tipi: diretti, come i trasferimenti di risorse direttamente ai produttori, e indiretti, come sconti fiscali e altre agevolazioni. In questa categoria sono inclusi incentivi, agevolazioni, finanziamenti agevolati ed esenzioni fiscali. Vengono contati, in questo caso, la riduzione fiscale di benzina e gasolio, l’IVA agevolata e altri sgravi fiscali.</p>
 
-Sono tutti sussidi che, nonostante la visibile contraddizione, vivono all’interno del Green Deal, piano appositamente definito per contribuire alla diminuzione dell’impatto antropico sul pianeta. Eppure, il sistema stesso in cui si vive, si produce e si consuma, porta a ritenere irrinunciabili misure del genere per sostenere le imprese agricole, generando una crasi impossibile. 
+            <hr>
+        </div>
+    </div>
+</div>
 
-Ma c’è di più. Esiste anche un’altra tipologia di aiuti, questa volta indiretti, il cui impatto sull’ambiente è esplicitamente pericoloso. Non esplicitamente citati, vi sono i SAD, ovvero <strong>sussidi ambientali dannosi</strong>, affiancati ai SAI ("sussidi ambientali incerti"). Si tratta di aiuti che vanno a coprire i costi di fertilizzanti e pesticidi. 
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/suss_dir_ind.json" style="width: 80%"></vegachart>
+</div> 
 
-<strong> Fertilizzanti e Pesticidi </strong>
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-In Italia, l'ISPRA (Istituto Superiore per la Protezione e la Ricerca Ambientale) monitora la situazione legata all'uso di pesticidi, e il quadro fornito fino al 2021 è il seguente:
+<p style="color: #E0E0E0;">Sono tutti sussidi che, nonostante la visibile contraddizione, vivono all’interno del Green Deal, piano appositamente definito per contribuire alla diminuzione dell’impatto antropico sul pianeta. Eppure, il sistema stesso in cui si vive, si produce e si consuma, porta a ritenere irrinunciabili misure del genere per sostenere le imprese agricole, generando una crasi impossibile.</p> 
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/fertilizzanti_chim_org.json" style="width: 100%"></vegachart>
+<p style="color: #E0E0E0;">Ma c’è di più. Esiste anche un’altra tipologia di aiuti, questa volta indiretti, il cui impatto sull’ambiente è esplicitamente pericoloso. Non esplicitamente citati, vi sono i SAD, ovvero <strong>sussidi ambientali dannosi</strong>, affiancati ai SAI ("sussidi ambientali incerti"). Si tratta di aiuti che vanno a coprire i costi di fertilizzanti e pesticidi.</p> 
 
-Come si evince, i fertilizzanti chimici sono il doppio di quelli organici, raggiungendo picchi superiori alle 11000 tonnellate. 
-Per limitare i danni ambientali dovuti all’uso di fertilizzanti chimici, la commissione Europea ha decretato precisi obblighi da rispettare per ripristinare condizioni ecologiche danneggiate, dalle terre agricole ai mari, dalle foreste agli ambienti urbani. Infatti, essa propone di ridurre del 50% l'uso e il rischio dei pesticidi chimici entro il 2030. Tra le gravi implicazioni dell'uso di tonnellate di pesticidi, si richiamano infatti spesso la biodiversità a rischio e la concentrazione di pesticidi trovate negli alimenti. 
+<p style="color: #E0E0E0;"><strong> Fertilizzanti e Pesticidi </strong></p> 
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/farm_to_fork.json" style="width: 100%"></vegachart>
+<p style="color: #E0E0E0;">In Italia, l'ISPRA (Istituto Superiore per la Protezione e la Ricerca Ambientale) monitora la situazione legata all'uso di pesticidi, e il quadro fornito fino al 2021 è il seguente:</p>
 
-In pochi anni, l’Italia dovrebbe quindi rendere costante il trend di decrescita fino ad un raggiungimento dell’obiettivo per il 2030. Pena, la perdita di preziosa biodiversità.
+            <hr>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/fertilizzanti_chim_org.json" style="width: 80%"></vegachart>
+</div> 
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">Come si evince, i fertilizzanti chimici sono il doppio di quelli organici, raggiungendo picchi superiori alle 11000 tonnellate. 
+Per limitare i danni ambientali dovuti all’uso di fertilizzanti chimici, la commissione Europea ha decretato precisi obblighi da rispettare per ripristinare condizioni ecologiche danneggiate, dalle terre agricole ai mari, dalle foreste agli ambienti urbani. Infatti, essa propone di ridurre del 50% l'uso e il rischio dei pesticidi chimici entro il 2030. Tra le gravi implicazioni dell'uso di tonnellate di pesticidi, si richiamano infatti spesso la biodiversità a rischio e la concentrazione di pesticidi trovate negli alimenti.</p> 
+
+            <hr>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/farm_to_fork.json" style="width: 80%"></vegachart>
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">In pochi anni, l’Italia dovrebbe quindi rendere costante il trend di decrescita fino ad un raggiungimento dell’obiettivo per il 2030. Pena, la perdita di preziosa biodiversità.</p>
 
 
-<strong> Biodiversità </strong>
+<p style="color: #E0E0E0;"><strong> Biodiversità </strong></p>
 
-L'obiettivo è riparare l'80% degli habitat europei in cattive condizioni, coprire almeno il 20% delle terre e delle aree marine dell'UE entro il 2030 con misure di ripristino della natura, ed estendere eventualmente queste misure a tutti gli ecosistemi che necessitano di ripristino entro il 2050.
+<p style="color: #E0E0E0;">L'obiettivo è riparare l'80% degli habitat europei in cattive condizioni, coprire almeno il 20% delle terre e delle aree marine dell'UE entro il 2030 con misure di ripristino della natura, ed estendere eventualmente queste misure a tutti gli ecosistemi che necessitano di ripristino entro il 2050.</p>
 
-L'Italia è un paese che dovrebbe mantenere un impegno particolare: è tra gli stati europei con il più alto livello di biodiversità.
+<p style="color: #E0E0E0;">L'Italia è un paese che dovrebbe mantenere un impegno particolare: è tra gli stati europei con il più alto livello di biodiversità.
 Si stimano esserci più di 58,000 specie locali, ma il cambiamento climatico ha messo a durissima prova, qui come nel resto d’Europa, il mantenimento di habitat adatti. 
-Il rischio di sparizione di specie animali e di danneggiamento di interi ecosistemi non è solo allarmismo, ma una realtà che i dati mostrano. 
+Il rischio di sparizione di specie animali e di danneggiamento di interi ecosistemi non è solo allarmismo, ma una realtà che i dati mostrano.</p> 
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/indicators_for_mem_states.json" style="width: 100%"></vegachart>
+            <hr>
+        </div>
+    </div>
+</div>
 
-Oltre alla questione dei pesticidi, come si muove l’Europa per la salvaguardia della biodiversità?
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/indicators_for_mem_states.json" style="width: 80%"></vegachart>
+</div>
 
-<strong> Vincoli di produzione: una strategia efficace?</strong>
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-Sempre nell’ottica di limitare i danni ad ecosistemi già infragiliti, viene richiesto agli agricoltori di lasciare il 4% dei loro terreni incolti, a partire dal 2025.
+<p style="color: #E0E0E0;">Oltre alla questione dei pesticidi, come si muove l’Europa per la salvaguardia della biodiversità?</p>
 
-Cos'è, dunque, questa misura? Secondo le parole del prof. Brunori:
-<i> Il 4% è un frutto di un compromesso: inizialmente la commissione dava fondi per ettarno ma se fatte rotazioni per ettaro, e le organizzazioni si sono impuntate. </i>
+<p style="color: #E0E0E0;"><strong> Vincoli di produzione: una strategia efficace?</strong></p>
 
-D'altro canto, il vincolo del 4% incolto non riguarda la rotazione della semina che permette una maggiore produttività e resistenza del terreno. Sono due aspetti separati, dal momento che la riduzione di SAU coltivata non ha uno stretto beneficio in termini di ripresa del terreno, ma è maggiormente pensato per una tutela di specie. 
+<p style="color: #E0E0E0;">Sempre nell’ottica di limitare i danni ad ecosistemi già infragiliti, viene richiesto agli agricoltori di lasciare il 4% dei loro terreni incolti, a partire dal 2025.</p>
+
+<p style="color: #E0E0E0;">Cos'è, dunque, questa misura? Secondo le parole del prof. Brunori:
+<i> Il 4% è un frutto di un compromesso: inizialmente la commissione dava fondi per ettarno ma se fatte rotazioni per ettaro, e le organizzazioni si sono impuntate. </i></p>
+
+<p style="color: #E0E0E0;">D'altro canto, il vincolo del 4% incolto non riguarda la rotazione della semina che permette una maggiore produttività e resistenza del terreno. Sono due aspetti separati, dal momento che la riduzione di SAU coltivata non ha uno stretto beneficio in termini di ripresa del terreno, ma è maggiormente pensato per una tutela di specie. 
 Per questo motivo, gli agricoltori sono estremamente scettici rispetto a questa tipologia di misura. 
-Entriamo ora nel merito della SAU.
+Entriamo ora nel merito della SAU.</p>
 
-<strong> Uno sguardo alla SAU</strong>
+<p style="color: #E0E0E0;"><strong> Uno sguardo alla SAU</strong></p>
 
-La SAU è la Superficie Agricola Utilizzata, un indicatore fondamentale per comprendere lo stato dell’arte del settore agricolo italiano. Fondamentale, anche, per comprendere un aspetto critico per gli agricoltori italiani: negli ultimi dieci anni, la SAU è fortemente diminuita, toccando cali del -33% al Sud e nelle Isole. Ciò significa, come riporta Altreconomia, che sono scomparse due aziende agricole su tre.
+<p style="color: #E0E0E0;">La SAU è la Superficie Agricola Utilizzata, un indicatore fondamentale per comprendere lo stato dell’arte del settore agricolo italiano. Fondamentale, anche, per comprendere un aspetto critico per gli agricoltori italiani: negli ultimi dieci anni, la SAU è fortemente diminuita, toccando cali del -33% al Sud e nelle Isole. Ciò significa, come riporta Altreconomia, che sono scomparse due aziende agricole su tre.</p>
 
-<span class="red-underline">GRAFICO SUPERF. ARABILE</span>
+<p style="color: #E0E0E0;"><span class="red-underline">GRAFICO SUPERF. ARABILE</span></p>
 
-Il tutto, però, al netto della crescita del territorio boschivo. Questo, ci spiega il prof. Bruonori, ha una ragione molto semplice:
+<p style="color: #E0E0E0;">Il tutto, però, al netto della crescita del territorio boschivo. Questo, ci spiega il prof. Bruonori, ha una ragione molto semplice:</p>
 
-Brunori: <i>“Nel censimento ISTAT tra il 2010 e il 2020 vediamo un aumento del bosco perché molti terreni vengono abbandonati. Contemporaneamente, la SAU decresce”</i>
+<p style="color: #E0E0E0;">Brunori: <i>“Nel censimento ISTAT tra il 2010 e il 2020 vediamo un aumento del bosco perché molti terreni vengono abbandonati. Contemporaneamente, la SAU decresce”</i></p>
 
-Il motivo è ricavabile dal grafo mostrato sopra: l’unica quantità di SAU e SAT non in netta decrescita è quella delle aziende più grandi. Sempre su <a href= "https://altreconomia.it/aziende-piu-grandi-e-meno-giovani-come-e-cambiata-lagricoltura-in-italia/#:~:text=Tra%20il%202010%20e%20il%202020%20oltre%20la%20met%C3%A0%20delle,a%20disposizione%20meno%20di%20tre">Altreconomia </a>, leggiamo: 
+<p style="color: #E0E0E0;">Il motivo è ricavabile dal grafo mostrato sopra: l’unica quantità di SAU e SAT non in netta decrescita è quella delle aziende più grandi. Sempre su <a href= "https://altreconomia.it/aziende-piu-grandi-e-meno-giovani-come-e-cambiata-lagricoltura-in-italia/#:~:text=Tra%20il%202010%20e%20il%202020%20oltre%20la%20met%C3%A0%20delle,a%20disposizione%20meno%20di%20tre">Altreconomia </a>, leggiamo:</p> 
 
-<i>Tra il 2010 e il 2020 oltre la metà delle piccole aziende con meno di un ettaro hanno chiuso; lo stesso hanno fatto oltre un terzo di quelle che coltivavano una superficie inferiore ai due ettari e un quarto di quelle che ne avevano a disposizione meno di tre. Una vera emorragia, che riguarda in misura minore le aziende più grandi. (ibidem)</i>
+<p style="color: #E0E0E0;"><i>Tra il 2010 e il 2020 oltre la metà delle piccole aziende con meno di un ettaro hanno chiuso; lo stesso hanno fatto oltre un terzo di quelle che coltivavano una superficie inferiore ai due ettari e un quarto di quelle che ne avevano a disposizione meno di tre. Una vera emorragia, che riguarda in misura minore le aziende più grandi. (ibidem)</i></p>
 
-Del resto, il <a href= "https://www.istat.it/statistiche-per-temi/censimenti/agricoltura/7-censimento-generale/settimo">censimento agricolo</a>   riporta esattamente questo aspetto: la transizione è, anche nel settore agricolo, uno spostamento verso meno realtà più grandi a discapito dei piccoli produttori locali. 
+<p style="color: #E0E0E0;">Del resto, il <a href= "https://www.istat.it/statistiche-per-temi/censimenti/agricoltura/7-censimento-generale/settimo">censimento agricolo</a>   riporta esattamente questo aspetto: la transizione è, anche nel settore agricolo, uno spostamento verso meno realtà più grandi a discapito dei piccoli produttori locali.</p> 
 
-Abbiamo deciso di confrontare i dati relativi all’andamento di SAU, SAT e territorio boschivo, provenienti dall’Istat, con un’analisi di telerilevamento. 
+<p style="color: #E0E0E0;">Abbiamo deciso di confrontare i dati relativi all’andamento di SAU, SAT e territorio boschivo, provenienti dall’Istat, con un’analisi di telerilevamento.</p> 
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/chart_istat.json" style="width: 100%"></vegachart>
+            <hr>
+        </div>
+    </div>
+</div>
 
-Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse:
-- superficie in produzione - ettari = SAU  
-- superficie totale - ettari = SAT  
-- superficie totale - aree = territorio boschivo  
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/chart_istat.json" style="width: 80%"></vegachart>
+</div>
 
-In questa GIF è possibile visualizzare il cambiamento dell'uso del suolo nel tempo in una porzione della regione Toscana:
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse:
+<ul style="color: #E0E0E0;">
+    <li>superficie in produzione - ettari = SAU.</li>
+    <li>superficie totale - ettari = SAT.</li>
+    <li>superficie totale - aree = territorio boschivo.</li>
+</ul>
+</p>  
+
+<p style="color: #E0E0E0;">In questa GIF è possibile visualizzare il cambiamento dell'uso del suolo nel tempo in una porzione della regione Toscana:</p>
+
+            <hr>
+        </div>
+    </div>
+</div>
 
 <img src="{{site.baseurl}}/assets/images/LUC_GIF_TUSCANY.gif" width="700" height="500" alt="Test immagine">
 
@@ -186,15 +273,27 @@ In questa GIF è possibile visualizzare il cambiamento dell'uso del suolo nel te
 
 <br>
 
-<strong> Ci sono dunque evidenti motivazioni per cui vanno messe in atto precise misure ambientali. Eppure, nonostante la presenza di fondi destinati anche al sostegno per la transizione ecologica, c’è un forte malcontento.
-Facciamo il punto: come mai gli agricoltori protestano? L’Europa ha risposte per loro?</strong>
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-Gli agricoltori hanno lamentato, nel primissimo punto del loro manifesto, un “estremismo ambientalista” che impedirebbe la coltivazione e la conseguente vendita. Del resto, le politiche Europee mostrano come primario obiettivo la riduzioni di emissioni di gas serra, una conservazione della biodiversità, minor uso dei pesticidi - tutti aspetti che prevedono di cambiare il proprio sistema agricolo. 
-Ma se per tali cambiamenti i sussidi vanno ad ettari, con le proporzioni che abbiamo visto, com’è possibile che realtà contadine più piccole possano adeguarsi e non restare potenzialmente danneggiate dalle richieste dell’Europa? Inoltre, le evidenti difficoltà nel bilanciare un effettivo aiuto economico e le richieste transizione ecologica, che peso possono avere se non distruttivo verso la fiducia per tali realtà politiche?
+<p style="color: #E0E0E0;"><strong> Ci sono dunque evidenti motivazioni per cui vanno messe in atto precise misure ambientali. Eppure, nonostante la presenza di fondi destinati anche al sostegno per la transizione ecologica, c’è un forte malcontento.
+Facciamo il punto: come mai gli agricoltori protestano? L’Europa ha risposte per loro?</strong></p>
 
-Al netto della fondamentale importanza di misure a tutela dell’ambiente, il Green Deal è ancora un insieme di misure che si rivelano poco applicabili su un tessuto complesso come quello delle società contemporanee, piene di disparità in costante crescita. 
+<p style="color: #E0E0E0;">Gli agricoltori hanno lamentato, nel primissimo punto del loro manifesto, un “estremismo ambientalista” che impedirebbe la coltivazione e la conseguente vendita. Del resto, le politiche Europee mostrano come primario obiettivo la riduzioni di emissioni di gas serra, una conservazione della biodiversità, minor uso dei pesticidi - tutti aspetti che prevedono di cambiare il proprio sistema agricolo. 
+Ma se per tali cambiamenti i sussidi vanno ad ettari, con le proporzioni che abbiamo visto, com’è possibile che realtà contadine più piccole possano adeguarsi e non restare potenzialmente danneggiate dalle richieste dell’Europa? Inoltre, le evidenti difficoltà nel bilanciare un effettivo aiuto economico e le richieste transizione ecologica, che peso possono avere se non distruttivo verso la fiducia per tali realtà politiche?</p>
 
-<img src="{{site.baseurl}}/assets/images/difficile_compromesso.png" width="700" height="500" alt="compromesso">
+<p style="color: #E0E0E0;">Al netto della fondamentale importanza di misure a tutela dell’ambiente, il Green Deal è ancora un insieme di misure che si rivelano poco applicabili su un tessuto complesso come quello delle società contemporanee, piene di disparità in costante crescita.</p> 
+
+            <hr>
+        </div>
+    </div>
+</div>
+
+<img src="{{site.baseurl}}/assets/images/infografiche/infog Europa.png" width="1400" height="1400" alt="compromesso">
 
 {% capture introduction_tech %}
 {% include_relative snippets/tech/introduction-tech.md %}

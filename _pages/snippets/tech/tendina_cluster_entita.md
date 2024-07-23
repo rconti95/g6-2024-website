@@ -6,6 +6,6 @@ Report Tecnico del Clustering:
 - dai vettori siamo tornati alle entità sfruttando il dizionario.
 - ad ogni cluster abbiamo associato un'entità rappresentativa ottenuta calcolando l'entità più vicina al centroide (sfruttando i vettori corrispondenti alle entità e calcolando le distanze con la distanza Euclidea).
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/chart_entities_clusters.json" style="width: 100%"></vegachart> 
-</div>
+</div> -->

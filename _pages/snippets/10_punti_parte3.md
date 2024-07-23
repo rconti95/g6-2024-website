@@ -144,6 +144,9 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <p style="color: #E0E0E0;">Quello della comunicazione, con Brunori, è un punto fondamentale, tanto da auspicare un cambiamento nella narrazione collettiva rispetto alla produzione agricola.</p>
 
+
+<img src="{{site.baseurl}}/assets/images/infografiche/DDI.png" width="800" height="800" alt="crisi">
+
             <hr>
         </div>
     </div>

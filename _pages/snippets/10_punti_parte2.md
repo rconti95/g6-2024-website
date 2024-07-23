@@ -116,8 +116,6 @@ tipologia di impresa esportatrice.</p>
 
 <p style="color: #E0E0E0;">Non a caso, uno dei mirini delle proteste fu proprio la Coldiretti, che minimizzò il problema della crisi agricola a lungo.</p>
 
-<p style="color: #E0E0E0;"><span class="red-underline">PEZZO INTERVISTA DANILO</span></p>
-
 <p style="color: #E0E0E0;">Tornando all’aspetto di norme e requisiti per l’importazione, ogni paese extra-europeo deve adottare le normative vigenti nel nostro continente, come riportato sul <a href = "https://trade.ec.europa.eu/access-to-markets/en/content/guide-import-goods">sito dell’Unione</a>.</p> 
 
 <p style="color: #E0E0E0;">Ma allora dove si colloca il vero problema?</p> 

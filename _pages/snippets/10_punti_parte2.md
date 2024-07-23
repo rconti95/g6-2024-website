@@ -47,7 +47,7 @@ La presenza di esenzioni non ne garantisce l’efficacia.</p>
     </div>
 </div>
 
-<img src="{{site.baseurl}}docs/assets/images/infografiche/infog italia.png" width="700" height="500" alt="crisi">
+<img src="{{site.baseurl}}docs/assets/images/infografiche/Infog Italia.png" width="700" height="500" alt="crisi">
 
 <div class="container py-3">
     <div class="row">

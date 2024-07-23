@@ -209,7 +209,7 @@
     {
       "bind": {
         "input": "select",
-        "name": "Seleziona argomento ",
+        "name": " ",
         "options": [
           "Agricoltura",
           "Europa",
@@ -229,7 +229,7 @@
       },
       "value": "Gruppo di pressione",
       "views": [
-        "view_6"
+        "view_7"
       ]
     }
   ],
@@ -296,7 +296,7 @@
           "mark": {
             "type": "bar"
           },
-          "name": "view_6",
+          "name": "view_7",
           "transform": [
             {
               "filter": {

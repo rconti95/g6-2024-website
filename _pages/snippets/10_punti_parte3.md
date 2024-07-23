@@ -88,7 +88,7 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 </div>
 
 <div style="text-align: center;">
-    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/tendina_cluster_entita2.json" style="width: 80%"></vegachart> 
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/tendina_cluster_entita3.json" style="width: 80%"></vegachart> 
 </div>
 
 {% capture tendina_cluster_entita %}
@@ -101,12 +101,12 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
-<p style="color: #E0E0E0;">Dal calcolo delle sequenze di parole più frequenti è interessante notare come tutte esprimano un sentimento di incoraggiamento ed unità. Come del resto era stato osservato dal professor Brunori l'unità che ha saputo dimostrare il movimento degli agricoltori nel trasmettere la propria immagine, è stato un elemento comunicativo molto forte.</p>
+<p style="color: #E0E0E0;">Dal calcolo delle sequenze di parole più frequenti è interessante notare come tutte esprimano un sentimento di incoraggiamento ed unità. Come del resto era stato osservato dal professor Brunori, l'unità che ha saputo dimostrare il movimento degli agricoltori nel trasmettere la propria immagine è stato un elemento comunicativo molto efficacie.</p>
 
             <hr>
         </div>
@@ -117,11 +117,17 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
     <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/n_grammi_frequenti.json" style="width: 100%"></vegachart> 
 </div>
 
+{% capture ngrammi %}
+{% include_relative snippets/tech/ngrammi.md %}
+{% endcapture %}
+
+{% include tech-content.html content=ngrammi %}
+
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">È indubbio che i temi affrontati e le parole utilizzate siano molto vicini a un certo tipo di retorica in un certo modo populista e vicina alla destra. Tuttavia, questo è probabilmente il principale tipo di linguaggio a cui agricoltori e agricoltrici sono esposti/e, e quello rispetto al quale sono diventati/e più permeabili fino ad assimilarlo, finendo così per esprimersi e pensarsi attraverso di esso.</p>

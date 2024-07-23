@@ -78,6 +78,9 @@ Allocare i fondi prevede prendere in considerazione numerosi aspetti territorial
 <p style="color: #E0E0E0;">Vi è un altro problema: come vengono gestiti e distribuiti questi fondi?
 L'Italia, insieme a diversi altri stati europei, ha scelto di non applicare misure di distribuzione proporzionata alla dimensione economica.</p>
 
+<img src="{{site.baseurl}}/assets/images/infografiche/Capping.png" width="800" height="800" alt="crisi">
+
+
 <p style="color: #E0E0E0;">Questa scelta crea una potenziale situazione di concorrenza economica e spinta per incentivare la produzione massiva di grandi corporazioni agricole, ma inevitabilmente svantaggia uno sviluppo economico equo per consentire ad agricoltori meno abbienti di poter avanzare economicamente. 
 Alla luce del quadro precedentemente visto sulla situazione agricola italiana, non rappresenta una scelta atta a tutelare i diritti dei piccoli produttori.</p>
 

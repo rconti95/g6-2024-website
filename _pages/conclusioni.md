@@ -29,6 +29,9 @@ Sebbene così com'è non funzioni, uno strumento come la PAC che regoli meccanis
 
 <p style="color: #E0E0E0;">Sembra, dunque, che solo una decrescita, accompagnata dal supporto economico della PAC, possa portare a una serena riconciliazione di tutte le forze in campo.</p>
 
+<img src="{{site.baseurl}}/assets/images/infografiche/DDI.png" width="800" height="800" alt="crisi">
+
+
             <hr>
         </div>
     </div>

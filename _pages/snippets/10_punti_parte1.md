@@ -229,7 +229,9 @@ Entriamo ora nel merito della SAU.</p>
 
 <p style="color: #E0E0E0;">Del resto, il <a href= "https://www.istat.it/statistiche-per-temi/censimenti/agricoltura/7-censimento-generale/settimo">censimento agricolo</a>   riporta esattamente questo aspetto: la transizione è, anche nel settore agricolo, uno spostamento verso meno realtà più grandi a discapito dei piccoli produttori locali.</p> 
 
-<p style="color: #E0E0E0;">Abbiamo deciso di confrontare i dati relativi all’andamento di SAU, SAT e territorio boschivo, provenienti dall’Istat, con un’analisi di telerilevamento.</p> 
+<p style="color: #E0E0E0;">Abbiamo deciso di osservare i dati relativi all’andamento di SAU, SAT e territorio boschivo, provenienti dai dati Istat e dall’analisi di telerilevamento.</p> 
+
+<p style="color: #E0E0E0;"><strong> DATI ISTAT</strong></p>
 
             <hr>
         </div>
@@ -251,11 +253,13 @@ Entriamo ora nel merito della SAU.</p>
 <ul style="color: #E0E0E0;">
     <li>superficie in produzione - ettari = SAU.</li>
     <li>superficie totale - ettari = SAT.</li>
-    <li>superficie totale - aree = territorio boschivo.</li>
+    <li>superficie totale - are = territorio boschivo.</li>
 </ul>
 </p> 
-<hr>
 
+
+<p style="color: #E0E0E0;"><strong> DATI SATELLITARI</strong></p>
+<hr>
 <br>
 <div style="text-align: center;">
   <vegachart schema-url="{{site.baseurl}}/assets/charts/LULC_Toscana_smooth.json" style="width: 80%"></vegachart>

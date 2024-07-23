@@ -47,7 +47,7 @@ Ma guardando alle preoccupazioni economiche e fiscali degli agricoltori, questo 
     </div>
 </div>
 
-<img src="{{site.baseurl}}/assets/images/infografiche/Infog Italia.png" width="2000" height="2000" alt="crisi">
+<img src="{{site.baseurl}}/assets/images/infografiche/Infog_Italia-removebg-preview.png" width="1000" height="1000" alt="crisi">
 
 <div class="container py-3">
     <div class="row">

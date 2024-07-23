@@ -65,6 +65,14 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <img src="{{site.baseurl}}/assets/images/circle_packing_entities_3.svg" width="800" height="800" alt="word cloud">
 
+{% capture word_cloud %}
+{% include_relative snippets/tech/word_cloud.md %}
+{% endcapture %}
+
+{% include tech-content.html content=word_cloud %}
+
+<br>
+
 <div class="container py-3">
     <div class="row">
         <div class="col-md-2 col-md-offset-2">
@@ -80,8 +88,16 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 </div>
 
 <div style="text-align: center;">
-    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/tendina_cluster_entita.json" style="width: 80%"></vegachart> 
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/tendina_cluster_entita2.json" style="width: 80%"></vegachart> 
 </div>
+
+{% capture tendina_cluster_entita %}
+{% include_relative snippets/tech/tendina_cluster_entita.md %}
+{% endcapture %}
+
+{% include tech-content.html content=tendina_cluster_entita %}
+
+<br>
 
 <div class="container py-3">
     <div class="row">

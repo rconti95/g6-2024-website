@@ -4,9 +4,9 @@
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-6 col-md-offset-3">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-12">
             <hr>
 
 <p style="color: #E0E0E0;">I lavoratori e le lavoratrici dell’agricoltura non si limitano a chiedere il miglioramento delle loro condizioni materiali. Le loro istanze spaziano anche su temi di natura sociale. Il punto numero 10 del loro manifesto non potrebbe essere più chiaro:</p>

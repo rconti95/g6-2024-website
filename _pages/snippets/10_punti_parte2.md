@@ -60,9 +60,6 @@ Ma guardando alle preoccupazioni economiche e fiscali degli agricoltori, questo 
 
 <p style="color: #E0E0E0;">Restando in materia di economia italiana, un altro dei punti rivendicati è la salvaguardia di precisi limiti all'importazione da altri stati. La questione non è unicamente di natura economica: gli agricoltori lamentano soprattutto l'assenza di standard igienici pari a quelli italiani.</p> 
 
-
-<p style="color: #E0E0E0;"><span class="red-underline">PEZZO INTERVISTA DANILO</span></p>
-
 <p style="color: #E0E0E0;">L'effetto sarebbe dunque quello di una produzione agroalimentare a basso costo con un dannoso impatto sulla salute, nonché intrisa di complicazioni per lavoratori sottopagati.</p>
 
 <p style="color: #E0E0E0;">Vediamo com'è la situazione italiana sotto questo punto di vista.</p>

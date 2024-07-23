@@ -3,14 +3,14 @@
   #description: "Una panoramica di Bootstrap"
  # path: "introduzione"
 - name: IL MONDO AGRICOLO IN ITALIA
-  #url:  "assets/images/jekyll_t.png"
+  #url:  "assets/images/verde.png"
   #description: "Una panoramica di Jekyll"
   path: "mondo_agricolo_italia"
 - name: I 10 PUNTI
-  #url:  "assets/images/altair-gallery_t.png"
+  #url:  "assets/images/bianco.png"
   #description: "Come esportare grafici con Altair"
   path: "10punti"
 - name: CONCLUSIONI
-  #url:  "assets/images/markdown_t.png"
+  #url:  "assets/images/rosso.png"
   #description: "Cheatsheet per Markdown e Kramdown"
   path: "conclusioni"

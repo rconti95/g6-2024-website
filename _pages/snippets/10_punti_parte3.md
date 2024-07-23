@@ -14,7 +14,28 @@
 <p style="color: #E0E0E0;">“RIQUALIFICAZIONE DELLA FIGURA DELL’AGRICOLTORE. A partire dalle
 scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola e non additandola come responsabile dell’inquinamento ambientale. L’agricoltore è una figura fondamentale per la società in quanto tutore dell’ambiente e produttore di cibo/vita!”</p>
 
-<p style="color: #E0E0E0;">Il prof. Brunori segnala “un’insofferenza e una disaffezione generalizzata per le forme di rappresentanza, per i policy-maker, eccetera”. Calvani, però, non ci gira intorno: “I nostri primi nemici sono i sindacati agricoli, la Coldiretti!”. Anche un’analisi dei commenti sulla pagina Facebook "CRA Agricoltori traditi" rivela che il termine “sindacato” suscita quasi esclusivamente rabbia.</p>
+<p style="color: #E0E0E0;">Il prof. Brunori segnala “un’insofferenza e una disaffezione generalizzata per le forme di rappresentanza, per i policy-maker, eccetera”. Calvani, però, non ci gira intorno: “I nostri primi nemici sono i sindacati agricoli, la Coldiretti!  
+Ma come catturare la voce di agricoltori e agricoltrici e, soprattutto, coglierne il parere? Un modo efficace è quello di fare ricorso alle “piazze virtuali”, come Facebook, raccogliendo post e commenti.</p>
+
+            <hr>
+        </div>
+    </div>
+</div>
+
+[//]: # (Big numbers)
+<div class="bg-color bg-color-full py-3 my-5">
+    {% include one-column.html dimension="small" title="Dati sui commenti" %}
+    {% include big-numbers-cards.html data="comments" number="Morti" description="Matrice" %}
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-2 col-md-offset-2">
+        </div>
+        <div class="col-md-8">
+            <hr>
+
+<p style="color: #E0E0E0;">Anche un’analisi dei commenti sulla pagina Facebook "CRA Agricoltori traditi" rivela che il termine “sindacato” suscita quasi esclusivamente rabbia.</p>
 
             <hr>
         </div>

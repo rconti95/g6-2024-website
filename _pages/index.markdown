@@ -60,7 +60,7 @@ vega: true
         <div class="col-md-3 col-md-offset-3">
         </div>
         <div class="col-md-6">
-            <em style="color: #E0E0E0;"> ogni trattore rappresenta il comune in cui è avvenuta almeno una protesta.
+            <em style="color: #E0E0E0;"> Ogni trattore rappresenta il comune in cui è avvenuta almeno una protesta.
             </em>
         </div>
     </div>

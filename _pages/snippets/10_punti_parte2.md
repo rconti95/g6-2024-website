@@ -2,13 +2,33 @@
 {% include_relative snippets/tech/onepage-tech.md %}
 {% endcapture %}
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
-Dal 2020, la Commissione Europea ha introdotto, all’interno della PAC, il Green Deal: un piano di supporto economico per preservare la biodiversità e mitigare il cambiamento climatico. La spesa della PAC è sempre stata in cima alla lista di priorità europee, per riqualificare aree rurali, incentivare il lavoro agricolo, promuovere il benessere di agricoltori mantenendo quello dell’ambiente e gestione dei cambiamenti climatici. Eppure, in questa situazione di urgenza, si può osservare una netta decrescita dei fondi destinati alla PAC al netto della spesa Europea. Un primo aspetto di difficile comprensione, al netto dell’emergenza climatica. 
+<p style="color: #E0E0E0;">Dal 2020, la Commissione Europea ha introdotto, all’interno della PAC, il Green Deal: un piano di supporto economico per preservare la biodiversità e mitigare il cambiamento climatico. La spesa della PAC è sempre stata in cima alla lista di priorità europee, per riqualificare aree rurali, incentivare il lavoro agricolo, promuovere il benessere di agricoltori mantenendo quello dell’ambiente e gestione dei cambiamenti climatici. Eppure, in questa situazione di urgenza, si può osservare una netta decrescita dei fondi destinati alla PAC al netto della spesa Europea. Un primo aspetto di difficile comprensione, al netto dell’emergenza climatica.</p>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/costi_x_anno.json" style="width: 100%"></vegachart> 
+            <hr>
+        </div>
+    </div>
+</div>
 
-L’esponenziale crescita dei costi da sostenere è un dato fondamentale per capire un altro aspetto del malcontento dei contadini: quello della fortissima crisi che colpisce l’economia. 
-Il rapporto annuo di <a href = "https://www.confagricoltura.it/media/6363/AGRIcoltura100-RAPPORTO-2023-Reale-Mutua-Confagricoltura.pdf">AGRIcoltura100</a> del 2023 riporta sondaggi che mostrano l'altissima preoccupazione dovuta ad un aumento dei costi di produzione che non accenna a diminuire. I fondi destinati allo sviluppo rurale sono infatti diminuiti, mentre viceversa i costi di produzione sono aumentati del 2,7% secondo le stime <a href = "https://www.istat.it/wp-content/uploads/2024/01/Report_Stima_prelim__economia_agricola_2023.pdf">ISTAT</a>. 
+<div style="text-align: center;">
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/costi_x_anno.json" style="width: 80%"></vegachart> 
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">L’esponenziale crescita dei costi da sostenere è un dato fondamentale per capire un altro aspetto del malcontento dei contadini: quello della fortissima crisi che colpisce l’economia. 
+Il rapporto annuo di <a href = "https://www.confagricoltura.it/media/6363/AGRIcoltura100-RAPPORTO-2023-Reale-Mutua-Confagricoltura.pdf">AGRIcoltura100</a> del 2023 riporta sondaggi che mostrano l'altissima preoccupazione dovuta ad un aumento dei costi di produzione che non accenna a diminuire. I fondi destinati allo sviluppo rurale sono infatti diminuiti, mentre viceversa i costi di produzione sono aumentati del 2,7% secondo le stime <a href = "https://www.istat.it/wp-content/uploads/2024/01/Report_Stima_prelim__economia_agricola_2023.pdf">ISTAT</a>.
 
 <strong> Il ruolo del Fisco nel mondo agricolo </strong>
 
@@ -20,11 +40,23 @@ Ma guardando alle preoccupazioni economiche e fiscali degli agricoltori, questo 
 Il governo ha introdotto una riduzione delle aliquote - ovvero, scaglioni di fasce di reddito - , che scenderanno da 4 a 3 entro fine legislatura. Questo sistema fiscale mira a semplificare il sistema tributario, eliminando le diverse aliquote progressive presenti nel sistema fiscale tradizionale. Ma, ovviamente, renderebbero la vita di agricoltori già fortemente toccati dal rincaro dei prezzi ulteriormente complessa. 
 
 
-La presenza di esenzioni non ne garantisce l’efficacia.
+La presenza di esenzioni non ne garantisce l’efficacia.</p>
 
-<img src="{{site.baseurl}}docs/assets/images/crisi_agr.png" width="700" height="500" alt="crisi">
+            <hr>
+        </div>
+    </div>
+</div>
 
-<strong>Il mercato estero: import ed export</strong>
+<img src="{{site.baseurl}}docs/assets/images/infografiche/infog italia.png" width="700" height="500" alt="crisi">
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;"><strong>Il mercato estero: import ed export</strong>
 
 Restando in materia di economia italiana, un altro dei punti rivendicati è la salvaguardia di precisi limiti all'importazione da altri stati. La questione non è unicamente di natura economica: gli agricoltori lamentano soprattutto l'assenza di standard igienici pari a quelli italiani. 
 
@@ -43,11 +75,25 @@ Al secondo posto abbiamo la Germania, con formaggi (stagionati e freschi), carne
 La Spagna, al terzo posto, registra un grosso calo come esportatrice di olio d'oliva verso l'Italia, mentre aumenta l'import di carne suina, soprattutto prosciutti freschi o refrigerati.
 Passando poi ai Paesi Bassi, l'import principale è di prosciutti freschi o refrigerati, piante vive, patate congelate, zucchero.
 
-Al quinto posto, Polonia e Brasile hanno subito un'inversione di tendenza durante il 2023. Il paese europeo ha infatti aumentato l'esportazione delle carni bovine in Italia, così come l'olio di girasole. Il Brasile, invece, ha diminuito l'export di prodotti come semi di soia, mais e olio di arachidi, così come per le carni bovine. Resta però fondamentale per zucchero e caffè. 
+Al quinto posto, Polonia e Brasile hanno subito un'inversione di tendenza durante il 2023. Il paese europeo ha infatti aumentato l'esportazione delle carni bovine in Italia, così come l'olio di girasole. Il Brasile, invece, ha diminuito l'export di prodotti come semi di soia, mais e olio di arachidi, così come per le carni bovine. Resta però fondamentale per zucchero e caffè.</p>
 
-<vegachart schema-url="{{site.baseurl}}/assets/charts/charts bea/tot_output_and_value_by_year.json" style="width: 100%"></vegachart> 
+            <hr>
+        </div>
+    </div>
+</div>
 
-<strong>Un import che preoccupa: i cibi sintetici</strong>
+<div style="text-align: center;">
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_bea_dark_bg/tot_output_and_value_by_year.json" style="width: 80%"></vegachart> 
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;"><strong>Un import che preoccupa: i cibi sintetici</strong>
 Riprendiamo ora uno dei punti delle rivendicazioni, legato ai cibi sintetici e alla decisa volontà degli agircoltori di impedirne l’entrata in Italia. 
 
 Non sembra esserci problema: il DDL proposto il 29 marzo dal ministro della Sovranità Alimentare Lollobrigida, che vieta l’ingresso e il commercio di cibi sintetici, è stato poi approvato a luglio. 
@@ -95,10 +141,12 @@ L'Italia, lamentando un rischio di abbassamento produttivo e un ulteriore carico
 L'Italia, evidentemente, non dimostra una opposizione in termini ambientalisti da parte degli agricoltori uniti nelle proteste - o almeno, non in termini radicali. 
 Ad opporsi strenuamente ad un cambio di status quo riguardo allevamenti intensivi sono soprattutto figure delle grandi aziende agricole Italiane, nonché rappresentanti del governo per quanto riguarda i sindacati e la gestione del settore agroalimentare. 
 
-Dove sono, allora, le problematiche di natura salutare? Proprio qui, nel nostro paese: la tradizione enogastronomica italiana non ha nulla a che vedere con l'immagine sponsor di piccole realtà agricole e di pascolo. 
+Dove sono, allora, le problematiche di natura salutare? Proprio qui, nel nostro paese: la tradizione enogastronomica italiana non ha nulla a che vedere con l'immagine sponsor di piccole realtà agricole e di pascolo.</p>
 
-
-
+            <hr>
+        </div>
+    </div>
+</div>
 
 
 {% capture introduction_tech %}

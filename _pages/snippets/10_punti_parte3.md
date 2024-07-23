@@ -2,7 +2,14 @@
 {% include_relative snippets/tech/onepage-tech.md %}
 {% endcapture %}
 
-I lavoratori e le lavoratrici dell’agricoltura non si limitano a chiedere il miglioramento delle loro condizioni materiali. Le loro istanze spaziano anche su temi di natura sociale. Il punto numero 10 del loro manifesto non potrebbe essere più chiaro: 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">I lavoratori e le lavoratrici dell’agricoltura non si limitano a chiedere il miglioramento delle loro condizioni materiali. Le loro istanze spaziano anche su temi di natura sociale. Il punto numero 10 del loro manifesto non potrebbe essere più chiaro: 
 
 “RIQUALIFICAZIONE DELLA FIGURA DELL’AGRICOLTORE. A partire dalle
 scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola e non additandola come responsabile dell’inquinamento ambientale. L’agricoltore è una figura fondamentale per la società in quanto tutore dell’ambiente e produttore di cibo/vita!”
@@ -43,4 +50,9 @@ In breve, riallacciandosi alla domanda di Spivak su se le persone subalterne pos
 
 Tuttavia, sembra ancora mancare per gli agricoltori e le agricoltrici una voce di raccordo, che colleghi il campo o il trattore al Parlamento, Italiano o Europeo. Se i sindacati non sono riusciti a farsi carico di questo compito, chi o cosa potrebbe contribuire a facilitare questo dialogo? 
 
-Quello della comunicazione, con Brunori, è un punto fondamentale, tanto da auspicare un cambiamento nella narrazione collettiva rispetto alla produzione agricola. 
+Quello della comunicazione, con Brunori, è un punto fondamentale, tanto da auspicare un cambiamento nella narrazione collettiva rispetto alla produzione agricola.</p>
+
+            <hr>
+        </div>
+    </div>
+</div>

@@ -4,9 +4,9 @@
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">I lavoratori e le lavoratrici dell’agricoltura non si limitano a chiedere il miglioramento delle loro condizioni materiali. Le loro istanze spaziano anche su temi di natura sociale. Il punto numero 10 del loro manifesto non potrebbe essere più chiaro:</p>
@@ -39,9 +39,9 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Agricoltori e agricoltrici si sentono quindi abbandonati/e. “Prima noi, negli anni nostri, vi parlo di 20, 30 anni fa, noi avevamo dei punti di riferimento o destra o sinistra o al centro, condivisibili o no, però erano punti di riferimento! Oggi non ci sono più.” Addirittura, secondo Calvani, lavoratori e lavoratrici si sentono strumentalizzati/e, come pedine in un gioco politico di cui non vogliono far parte: “Io sono stato chiamato da tutti questi politici da Nord a Sud non per di’ “Come si risolve il problema o guarda che c’hai torto, se risolve così”. No. Solo per compramme! Secondo voi un Paese così c’ha futuro?”.</p>
@@ -75,9 +75,9 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Un'analisi più approfondita e semantica delle parole porta alla seguente ripartizione in temi:</p>

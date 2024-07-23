@@ -4,9 +4,9 @@
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Dal 2020, la Commissione Europea ha introdotto, all’interno della PAC, il Green Deal: un piano di supporto economico per preservare la biodiversità e mitigare il cambiamento climatico. La spesa della PAC è sempre stata in cima alla lista di priorità europee, per riqualificare aree rurali, incentivare il lavoro agricolo, promuovere il benessere di agricoltori mantenendo quello dell’ambiente e gestione dei cambiamenti climatici. Eppure, in questa situazione di urgenza, si può osservare una netta decrescita dei fondi destinati alla PAC al netto della spesa Europea. Un primo aspetto di difficile comprensione, al netto dell’emergenza climatica.</p>
@@ -22,9 +22,9 @@
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 bilioni.
@@ -41,9 +41,9 @@ La PAC viene suddivisa in due macrocategorie di spesa: EAGF (pagamenti settorial
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">I due principali pagamenti diretti sono il Basic Income Support for Sustanibility (BISS) e gli eco-schemi. Il primo ha lo scopo di guidare la transizione ecologica con un supporto diretto. Gli eco-schemi, invece, sono fondi destinati agli agricoltori che adottano direttamente parametri e direttive europee, trasformando il proprio lavoro in modo che risulti maggiormente sostenibile.</p>
@@ -66,9 +66,9 @@ Allocare i fondi prevede prendere in considerazione numerosi aspetti territorial
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">L’Italia dunque gode di una quantità interessante di fondi allocati, ma qui subentra un grosso problema di possibilità di spesa. La complessità burocratica dei bandi è un grave scoglio per l'utilizzo dei soldi dell’Unione Europea. Un articolo del <a href = "https://www.ilsole24ore.com/art/spesa-bloccata-i-fondi-europei-2021-27-solo-09percento-74-miliardi-AFRkGtMC">Sole24Ore </a> stima che a fine aprile 2024, su 74 miliardi di euro disponibili allocati per la spesa tra 2021 e 2027, l’Italia abbia usufruito di 621 milioni, lo 0,9% del totale.</p> 
@@ -108,9 +108,9 @@ Questo sistema penalizza le piccole aziende e favorisce quelle più grandi: seco
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Questi sussidi possono essere suddivisi in due tipi: diretti, come i trasferimenti di risorse direttamente ai produttori, e indiretti, come sconti fiscali e altre agevolazioni. In questa categoria sono inclusi incentivi, agevolazioni, finanziamenti agevolati ed esenzioni fiscali. Vengono contati, in questo caso, la riduzione fiscale di benzina e gasolio, l’IVA agevolata e altri sgravi fiscali.</p>
@@ -126,9 +126,9 @@ Questo sistema penalizza le piccole aziende e favorisce quelle più grandi: seco
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Sono tutti sussidi che, nonostante la visibile contraddizione, vivono all’interno del Green Deal, piano appositamente definito per contribuire alla diminuzione dell’impatto antropico sul pianeta. Eppure, il sistema stesso in cui si vive, si produce e si consuma, porta a ritenere irrinunciabili misure del genere per sostenere le imprese agricole, generando una crasi impossibile.</p> 
@@ -150,9 +150,9 @@ Questo sistema penalizza le piccole aziende e favorisce quelle più grandi: seco
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Come si evince, i fertilizzanti chimici sono il doppio di quelli organici, raggiungendo picchi superiori alle 11000 tonnellate. 
@@ -169,9 +169,9 @@ Per limitare i danni ambientali dovuti all’uso di fertilizzanti chimici, la co
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">In pochi anni, l’Italia dovrebbe quindi rendere costante il trend di decrescita fino ad un raggiungimento dell’obiettivo per il 2030. Pena, la perdita di preziosa biodiversità.</p>
@@ -196,9 +196,9 @@ Il rischio di sparizione di specie animali e di danneggiamento di interi ecosist
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;">Oltre alla questione dei pesticidi, come si muove l’Europa per la salvaguardia della biodiversità?</p>
@@ -238,15 +238,15 @@ Entriamo ora nel merito della SAU.</p>
 </div>
 
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/chart_istat.json" style="width: 80%"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/ISTAT_Toscana_smooth.json" style="width: 80%"></vegachart>
 </div>
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
-            <hr>
+        <div class="col-md-8">
+            
 
 <p style="color: #E0E0E0;">Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse:
 <ul style="color: #E0E0E0;">
@@ -254,8 +254,16 @@ Entriamo ora nel merito della SAU.</p>
     <li>superficie totale - ettari = SAT.</li>
     <li>superficie totale - aree = territorio boschivo.</li>
 </ul>
-</p>  
+</p> 
+<hr>
 
+<br>
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/LULC_Toscana_smooth.json" style="width: 80%"></vegachart>
+</div>
+
+<br>
+<hr>
 <p style="color: #E0E0E0;">In questa GIF è possibile visualizzare il cambiamento dell'uso del suolo nel tempo in una porzione della regione Toscana:</p>
 
             <hr>
@@ -263,6 +271,7 @@ Entriamo ora nel merito della SAU.</p>
     </div>
 </div>
 
+<br>
 <img src="{{site.baseurl}}/assets/images/LUC_GIF_TUSCANY.gif" width="700" height="500" alt="Test immagine">
 
 {% capture telerilevamento %}
@@ -275,9 +284,9 @@ Entriamo ora nel merito della SAU.</p>
 
 <div class="container py-3">
     <div class="row">
-        <div class="col-md-3 col-md-offset-3">
+        <div class="col-md-2 col-md-offset-2">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-8">
             <hr>
 
 <p style="color: #E0E0E0;"><strong> Ci sono dunque evidenti motivazioni per cui vanno messe in atto precise misure ambientali. Eppure, nonostante la presenza di fondi destinati anche al sostegno per la transizione ecologica, c’è un forte malcontento.
@@ -294,5 +303,3 @@ Ma se per tali cambiamenti i sussidi vanno ad ettari, con le proporzioni che abb
 </div>
 
 <img src="{{site.baseurl}}/assets/images/infografiche/infog Europa.png" width="1400" height="1400" alt="compromesso">
-
-<hr>

@@ -54,9 +54,21 @@ vega: true
             <hr>
 
 <p style="color: #E0E0E0;">Ma cosa si produce in Italia, e qual è la quantità di superficie che i vari prodotti occupano sul suolo italiano? Come si vede dai grafici sottostanti, i pascoli occupano buona parte della superficie agricola, seguiti poi dal frumento duro, l’olio d’oliva e il mais. Quanto alla produzione, l’Italia si concentra soprattutto su uva, frumento e mais.</p>
+            <hr>
+        </div>
+    </div>
+</div>
 
-<img src="{{site.baseurl}}/assets/images/superficie_totale.jpg" width="700" height="500" alt="superficie_totale">
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/Produzione_Italia_smooth.json" style="width: 60%;"></vegachart>
+</div>
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-2 col-md-offset-2">
+        </div>
+        <div class="col-md-8">
+            <hr>
 <p style="color: #E0E0E0;">La rilevanza economica dell’industria alimentare è un aspetto importante, ma non il solo. Nel corso degli anni essa ha assunto una crescente importanza culturale, spesso sfociata nella vera e propria rivendicazione identitaria. Un esempio emblematico di questa tendenza è la creazione del marchio “Made in Italy” - di cui i prodotti agroalimentari rappresentano una corposa parte - portata avanti dall’attuale governo di Giorgia Meloni, che ne ha istituito una <a href="https://www.mimit.gov.it/it/made-in-italy/giornata">giornata celebrativa il 15 aprile </a> in occasione della nascita di Leonardo Da Vinci (15 aprile 1452).</p>  
 
 <p style="color: #E0E0E0;">“In generale quando si parla degli agricoltori si ha sempre in mente un'idea da anni 50, in cui l'agricoltore è un maschio col trattore e ha, diciamo, la famiglia che lavora più o meno con lui o con lei, anzi con lui!”, commenta Brunori. Nel settore agroalimentare “Made in Italy” è sinonimo di genuinità dei prodotti, garantita da lavoratori e lavoratrici che si prendono cura di una terra feconda e materna e che operano in una specie di “piccolo mondo antico” - un'immagine rassicurante ma molto lontana dalla realtà dei fatti. Calvani stesso si mostra piuttosto scettico rispetto alla questione del Made in Italy, che non stenta a definire uno specchietto per le allodole. </p>  

@@ -56,7 +56,7 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <p style="color: #E0E0E0;">Il problema principale è che la persona subalterna e la classe egemonica non parlano la stessa lingua, cosa che porta a un cortocircuito comunicativo che limita le possibilità di comprensione e, dunque, di mutuo riconoscimento. Il linguaggio utilizzato da lavoratori e lavoratrici dell’agricoltura viene spesso liquidato come “populista”, tradizionalista e retrogrado, e utilizzato come ennesima conferma della loro ignoranza e incapacità di capire ciò di cui hanno davvero bisogno. In ultima analisi, il loro stesso linguaggio viene utilizzato per silenziarli/e.</p>
 
-<p style="color: #E0E0E0;">Uno sguardo alle parole frequenti utilizzate nei post comincia a far comprendere quali sono i temi più ricorrenti.</p>
+<p style="color: #E0E0E0;">Uno sguardo alle parole frequenti utilizzate nei post comincia a far comprendere quali sono i temi più dibattuti all'interno della pagina C.R.A. Agricoltori traditi: dall'agricoltura, alla religione e politica.</p>
 
             <hr>
         </div>
@@ -72,9 +72,41 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
         <div class="col-md-8">
             <hr>
 
-<p style="color: #E0E0E0;">Lo stesso è confermato dalla distribuzione dei commenti in base ai like. Quelli con più like fanno tutti capo a temi quali:</p>
+<p style="color: #E0E0E0;">Un'analisi più approfondita e semantica delle parole porta alla seguente ripartizione in temi:</p>
 
-<p style="color: #E0E0E0;">L’individuazione di temi più ricorrenti porta, senza sorprese, a dei risultati molto simili.</p>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center;">
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/tendina_cluster_entita.json" style="width: 80%"></vegachart> 
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<p style="color: #E0E0E0;">Dal calcolo delle sequenze di parole più frequenti è interessante notare come tutte esprimano un sentimento di incoraggiamento ed unità. Come del resto era stato osservato dal professor Brunori l'unità che ha saputo dimostrare il movimento degli agricoltori nel trasmettere la propria immagine, è stato un elemento comunicativo molto forte.</p>
+
+            <hr>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center;">
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_gian_dark_bg/n_grammi_frequenti.json" style="width: 100%"></vegachart> 
+</div>
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
 <p style="color: #E0E0E0;">È indubbio che i temi affrontati e le parole utilizzate siano molto vicini a un certo tipo di retorica in un certo modo populista e vicina alla destra. Tuttavia, questo è probabilmente il principale tipo di linguaggio a cui agricoltori e agricoltrici sono esposti/e, e quello rispetto al quale sono diventati/e più permeabili fino ad assimilarlo, finendo così per esprimersi e pensarsi attraverso di esso.</p>
 

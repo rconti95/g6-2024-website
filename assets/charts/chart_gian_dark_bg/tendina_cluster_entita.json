@@ -205,47 +205,108 @@
       }
     ]
   },
-  "encoding": {
-    "color": {
-      "field": "value",
-      "legend": null,
-      "scale": {
-        "interpolate": "hsl",
-        "scheme": [
-          "#c6f9db",
-          "#18E169"
+  "params": [
+    {
+      "bind": {
+        "input": "select",
+        "name": "Seleziona argomento ",
+        "options": [
+          "Agricoltura",
+          "Europa",
+          "Gruppo di pressione",
+          "Religione",
+          "Roma",
+          "Societ\u00e0",
+          "Suolo"
         ]
       },
-      "type": "quantitative"
-    },
-    "tooltip": [
-      {
-        "field": "value",
-        "type": "quantitative"
-      }
-    ],
-    "x": {
-      "field": "value",
-      "title": "frequenza",
-      "type": "quantitative"
-    },
-    "y": {
-      "field": "name",
-      "sort": "-x",
-      "title": "entit\u00e0",
-      "type": "nominal"
-    }
-  },
-  "height": 600,
-  "mark": {
-    "type": "bar"
-  },
-  "transform": [
-    {
-      "filter": {
-        "param": "SelectGroup"
-      }
+      "name": "SelectGroup",
+      "select": {
+        "fields": [
+          "group"
+        ],
+        "type": "point"
+      },
+      "value": "Gruppo di pressione",
+      "views": [
+        "view_2"
+      ]
     }
   ],
-  "width": 800
+  "vconcat": [
+    {
+      "encoding": {
+        "text": {
+          "field": "group",
+          "type": "nominal"
+        }
+      },
+      "height": 30,
+      "mark": {
+        "align": "center",
+        "color": "#E0E0E0",
+        "dy": -15,
+        "fontSize": 20,
+        "type": "text"
+      },
+      "transform": [
+        {
+          "filter": {
+            "param": "SelectGroup"
+          }
+        }
+      ],
+      "width": 600
+    },
+    {
+      "height": 600,
+      "layer": [
+        {
+          "encoding": {
+            "color": {
+              "field": "value",
+              "legend": null,
+              "scale": {
+                "interpolate": "hsl",
+                "scheme": [
+                  "#c6f9db",
+                  "#18E169"
+                ]
+              },
+              "type": "quantitative"
+            },
+            "tooltip": [
+              {
+                "field": "value",
+                "type": "quantitative"
+              }
+            ],
+            "x": {
+              "field": "value",
+              "title": "frequenza",
+              "type": "quantitative"
+            },
+            "y": {
+              "field": "name",
+              "sort": "-x",
+              "title": "entit\u00e0",
+              "type": "nominal"
+            }
+          },
+          "mark": {
+            "type": "bar"
+          },
+          "name": "view_2",
+          "transform": [
+            {
+              "filter": {
+                "param": "SelectGroup"
+              }
+            }
+          ]
+        }
+      ],
+      "width": 800
+    }
+  ]
 }

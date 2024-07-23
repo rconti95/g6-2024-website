@@ -1,4 +1,4 @@
-**Grafico ISTAT sull'Agricoltura in Italia**
+**Dati ISTAT sull'Agricoltura in Italia**
 
 Questo grafico è stato ottenuto dai dati relativi all'__Agricoltura in Italia (dal 2006 al 2023)__, scaricati in formato .csv dal <a href="https://www.istat.it/statistiche-per-temi/economia/agricoltura/">sito dell'Istat </a>.
 

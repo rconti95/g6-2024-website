@@ -55,6 +55,12 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 
 <p style="color: #E0E0E0;">Vediamo, gruppo per gruppo, come queste rivendicazioni nascono e si articolano tra le lotte degli agricoltori.</p>
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 <h2 style="color: #E0E0E0;">Punto 1: Il Green Deal Europeo: un difficile equilibrio:</h2>
 
             <hr>
@@ -70,7 +76,20 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 {% include one-column.html dimension="fluid" content=10_punti_parte1 %}
 {% include code-explanation.html %} 
 
-## Punto 2: Stato e agricoltori: dov’è l’Italia?
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<h2 style="color: #E0E0E0;">Punto 2: Stato e agricoltori: dov’è l’Italia?</h2>
+
+            <hr>
+        </div>
+    </div>
+</div>
+
 <div id="area-tematica-3"></div>
 {% capture 10_punti_parte2 %}
     {% include_relative snippets/10_punti_parte2.md %}
@@ -78,7 +97,20 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 
 {% include one-column.html dimension="fluid" content=10_punti_parte2 %}
 
-## Punto 3: Riqualificazione della figura dell’agricoltore 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
+
+<h2 style="color: #E0E0E0;">Punto 3: Riqualificazione della figura dell’agricoltore</h2>
+
+            <hr>
+        </div>
+    </div>
+</div>
+ 
 <div id="area-tematica-4"></div>
 {% capture 10_punti_parte3 %}
     {% include_relative snippets/10_punti_parte3.md %}

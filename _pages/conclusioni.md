@@ -1,5 +1,5 @@
 ---
-layout: section_layout
+layout: default-full
 title:  '"NON SI MOLLA… E CHE DIO CI BENEDICA!"'
 subtitle: "Analisi delle proteste agricole nel contesto italiano"
 show_sidetoc: true

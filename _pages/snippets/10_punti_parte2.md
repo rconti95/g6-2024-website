@@ -47,7 +47,7 @@ Ma guardando alle preoccupazioni economiche e fiscali degli agricoltori, questo 
     </div>
 </div>
 
-<img src="{{site.baseurl}}/assets/images/infografiche/Infog Italia.png" width="700" height="500" alt="crisi">
+<img src="{{site.baseurl}}/assets/images/infografiche/Infog Italia.png" width="2000" height="2000" alt="crisi">
 
 <div class="container py-3">
     <div class="row">
@@ -149,21 +149,3 @@ Ad opporsi strenuamente ad un cambio di status quo riguardo allevamenti intensiv
 </div>
 
 
-{% capture introduction_tech %}
-{% include_relative snippets/tech/introduction-tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=introduction_tech %}
-
-<br>
-{% capture dataset_details %}
-{% include_relative snippets/dataset-details.md %}
-{% endcapture %}
-
-{% include modal-component.html title="Dettagli del dataset" content=dataset_details id="dataset-details" size="lg" %}
-
-{% capture modal_tech %}
-{% include_relative snippets/tech/modal-tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=modal_tech %}

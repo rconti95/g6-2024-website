@@ -16,7 +16,33 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <p style="color: #E0E0E0;">Il prof. Brunori segnala “un’insofferenza e una disaffezione generalizzata per le forme di rappresentanza, per i policy-maker, eccetera”. Calvani, però, non ci gira intorno: “I nostri primi nemici sono i sindacati agricoli, la Coldiretti!”. Anche un’analisi dei commenti sulla pagina Facebook "CRA Agricoltori traditi" rivela che il termine “sindacato” suscita quasi esclusivamente rabbia.</p>
 
-<p style="color: #E0E0E0;"><span class="red-underline">[GRAFICO]?</span></p>
+            <hr>
+        </div>
+    </div>
+</div>
+
+ [//]: # (Big numbers)
+<div class="bg-color bg-color-full py-3 my-5">
+    {% include one-column.html dimension="small" title="Sentiment analysis sui commenti di argomento i sindacati agricoli" %}
+    {% include big-numbers-cards.html data="sindacati_emotions" number="Morti" description="Matrice" %}
+</div>
+
+{% capture sentiment %}
+{% include_relative snippets/tech/sentiment.md %}
+{% endcapture %}
+
+{% include tech-content.html content=sentiment %}
+
+<br>
+
+<!--<p style="color: #E0E0E0;"><span class="red-underline">[GRAFICO]?</span></p> -->
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
 <p style="color: #E0E0E0;">Agricoltori e agricoltrici si sentono quindi abbandonati/e. “Prima noi, negli anni nostri, vi parlo di 20, 30 anni fa, noi avevamo dei punti di riferimento o destra o sinistra o al centro, condivisibili o no, però erano punti di riferimento! Oggi non ci sono più.” Addirittura, secondo Calvani, lavoratori e lavoratrici si sentono strumentalizzati/e, come pedine in un gioco politico di cui non vogliono far parte: “Io sono stato chiamato da tutti questi politici da Nord a Sud non per di’ “Come si risolve il problema o guarda che c’hai torto, se risolve così”. No. Solo per compramme! Secondo voi un Paese così c’ha futuro?”.</p>
 
@@ -30,9 +56,21 @@ scuole, riqualificare la figura dell’agricoltore ed allevatore, valorizzandola
 
 <p style="color: #E0E0E0;">Il problema principale è che la persona subalterna e la classe egemonica non parlano la stessa lingua, cosa che porta a un cortocircuito comunicativo che limita le possibilità di comprensione e, dunque, di mutuo riconoscimento. Il linguaggio utilizzato da lavoratori e lavoratrici dell’agricoltura viene spesso liquidato come “populista”, tradizionalista e retrogrado, e utilizzato come ennesima conferma della loro ignoranza e incapacità di capire ciò di cui hanno davvero bisogno. In ultima analisi, il loro stesso linguaggio viene utilizzato per silenziarli/e.</p>
 
-<p style="color: #E0E0E0;">Uno sguardo alle parole frequenti utilizzate nei post evidenzia come esse siano <span class="red-underline">INSERIRE?</span>, che fanno tutte capo a una certa idea di tradizione.</p>
+<p style="color: #E0E0E0;">Uno sguardo alle parole frequenti utilizzate nei post comincia a far comprendere quali sono i temi più ricorrenti.</p>
 
-<p style="color: #E0E0E0;"><span class="red-underline">IMMAGINE</span></p>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<img src="{{site.baseurl}}/assets/images/circle_packing_entities_3.svg" width="800" height="800" alt="word cloud">
+
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+        </div>
+        <div class="col-md-6">
+            <hr>
 
 <p style="color: #E0E0E0;">Lo stesso è confermato dalla distribuzione dei commenti in base ai like. Quelli con più like fanno tutti capo a temi quali:</p>
 

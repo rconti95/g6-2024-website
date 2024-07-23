@@ -295,10 +295,4 @@ Ma se per tali cambiamenti i sussidi vanno ad ettari, con le proporzioni che abb
 
 <img src="{{site.baseurl}}/assets/images/infografiche/infog Europa.png" width="1400" height="1400" alt="compromesso">
 
-{% capture introduction_tech %}
-{% include_relative snippets/tech/introduction-tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=introduction_tech %}
-
 <hr>

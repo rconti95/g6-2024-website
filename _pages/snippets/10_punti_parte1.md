@@ -262,8 +262,30 @@ Entriamo ora nel merito della SAU.</p>
   <vegachart schema-url="{{site.baseurl}}/assets/charts/LULC_Toscana_smooth.json" style="width: 80%"></vegachart>
 </div>
 
+{% capture telerilevamento %}
+{% include_relative snippets/tech/telerilevamento.md %}
+{% endcapture %}
+
+{% include tech-content.html content=telerilevamento %}
+
 <br>
+<p style="color: #E0E0E0;">Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse in base alla classificazione del suolo del modello:
+<ul style="color: #E0E0E0;">
+    <li>Pascolo</li>
+    <li>Lago</li>
+    <li>Vegetazione Erbacea</li>
+    <li>Fiumi</li>
+    <li>Strade</li>
+    <li>Colture Permanenti</li>
+    <li>Zone Residenziali</li>
+    <li>Colture Annuali</li>
+    <li>Strade</li>
+    <li>Aree Industriali</li>
+    <li>Totale Zone Agricole</li>    
+</ul>
+</p> 
 <hr>
+
 <p style="color: #E0E0E0;">In questa GIF è possibile visualizzare il cambiamento dell'uso del suolo nel tempo in una porzione della regione Toscana:</p>
 
             <hr>
@@ -274,11 +296,11 @@ Entriamo ora nel merito della SAU.</p>
 <br>
 <img src="{{site.baseurl}}/assets/images/LUC_GIF_TUSCANY.gif" width="700" height="500" alt="Test immagine">
 
-{% capture telerilevamento %}
-{% include_relative snippets/tech/telerilevamento.md %}
+{% capture Grafico_LULC %}
+{% include_relative snippets/tech/Grafico_LULC.md %}
 {% endcapture %}
 
-{% include tech-content.html content=telerilevamento %}
+{% include tech-content.html content=Grafico_LULC %}
 
 <br>
 

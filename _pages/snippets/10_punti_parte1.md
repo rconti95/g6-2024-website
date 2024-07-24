@@ -27,7 +27,7 @@
         <div class="col-md-8">
             <hr>
 
-<p style="color: #E0E0E0;">Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 bilioni.
+<p style="color: #E0E0E0;">Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 miliardi.
 La PAC viene suddivisa in due macrocategorie di spesa: EAGF (pagamenti settoriali e diretti) e EAFRD (sviluppo rurale), due aspetti strettamente legati che sono così suddivisi:</p> 
 
             <hr>

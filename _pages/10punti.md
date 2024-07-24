@@ -37,11 +37,11 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 <strong>ASPETTI LEGATI ALLA GESTIONE STATALE:</strong>
 <ul style="color: #E0E0E0;">
     <li style="list-style-type: none; padding: 0;"><strong>2: Importazioni e libertà di impresa.</strong> Vietare l’importazione di prodotti agricoli provenienti da Paesi dove non sono in vigore gli stessi nostri regolamenti produttivi e sanitari. Garantire la libertà di impresa, anche varando leggi che combattano il dumping economico per i prodotti agricoli ed alimentari.</li>
-    <li style="list-style-type: none; padding: 0;"><strong>5: detassazione in agricoltura (IRPEF-IMU).</strong> Mantenere un regime fiscale adeguato per il mondo agricolo, viste le criticità economiche causate dall’aumento esponenziale dei costi di produzione e dalla flessione dei mercati dei prodotti agricoli.</li>
+    <li style="list-style-type: none; padding: 0;"><strong>5: Detassazione in agricoltura (IRPEF-IMU).</strong> Mantenere un regime fiscale adeguato per il mondo agricolo, viste le criticità economiche causate dall’aumento esponenziale dei costi di produzione e dalla flessione dei mercati dei prodotti agricoli.</li>
     <li style="list-style-type: none; padding: 0;"><strong>6: Agevolazioni carburante agricolo.</strong> Mantenere anche dopo il 2026, il sistema che tiene calmierati i costi del gasolio agricolo.</li>
     <li style="list-style-type: none; padding: 0;"><strong>7: Cibi sintetici.</strong> Regolamenti stringenti che contrastino l’ingresso sul mercato di cibi sintetici.</li>
     <li style="list-style-type: none; padding: 0;"><strong>8: Riforma aliquota iva applicata. .</strong> Ridurre o addirittura togliere l’iva su alcuni prodotti alimentari primari. Per il vino applicare un’aliquota massima del 10%.</li>
-    <li style="list-style-type: none; padding: 0;"><strong>9: Fauna selvatica. .</strong> Lo Stato deve garantire un contenimento della fauna selvatica e rispondere direttamente ed in tempi brevi dei danni diretti ed indiretti da essa provocati.</li>
+    <li style="list-style-type: none; padding: 0;"><strong>9: Fauna selvatica.</strong> Lo Stato deve garantire un contenimento della fauna selvatica e rispondere direttamente ed in tempi brevi dei danni diretti ed indiretti da essa provocati.</li>
 </ul>
 </p>
 

@@ -117,10 +117,9 @@ vega: true
         <div class="col-md-8">
             <hr>
 
-<p style="color: #E0E0E0;">L’Italia è vicina a paesi come la Romania e la Polonia, dove il numero più corpose di aziende è posseduto interamente da famiglie, mentre un numero minore ancorché consistente è a conduzione ibrida (famigliare ed extra-famigliare). Una minimissima parte delle aziende agricole appartiene interamente a gruppi non famigliari. 
-Insomma, quella italiana è una realtà fatta di grandi industrie, ma soprattutto di lavoratrici e lavoratori che ereditano terra e lavorano i campi seguendo una spesso longeva tradizione famigliare.</p> 
+<p style="color: #E0E0E0;">Insomma, quella italiana è una realtà fatta di grandi industrie, ma soprattutto di lavoratrici e lavoratori che ereditano terra e lavorano i campi seguendo una spesso longeva tradizione famigliare.</p> 
 
-<p style="color: #E0E0E0;">Eventi recenti, tuttavia, ci permettono di complicare questo quadro e considerare la presenza di “realtà sommerse”, che pure caratterizzano il sistema agricolo italiano. Caporalato, lavoro in nero e sottopagato sono degli elementi che non possono essere letti attraverso i dati - poiché non registrati - ma che riemergono al verificarsi di fatti di cronaca, il più recente nel giugno del 2024, l’efferato omicidio dell’agricoltore di origini <a href="https://www.ilpost.it/2024/06/20/inchiesta-morte-satnam-singh-agro-pontino-latina/"> Satnam Singh </a>, che lavorava a nero in un’azienda agricola dell’agropontino. Nel 2020, la serie di proteste il cui portavoce è stato <a href="https://www.ilpost.it/2020/06/17/protesta-aboubakar-soumahoro/Aboubakar"> Aboubakar Soumahoro </a> ha portato l’attenzione sulla situazione dei braccianti migranti, già tristemente nota e documentata in molte occasioni, una delle quali il libro-inchiesta di Fabrizio Gatti Bilal. Viaggiare, lavorare, morire da clandestini del 2008.</p> 
+<p style="color: #E0E0E0;">Eventi recenti, tuttavia, ci permettono di complicare questo quadro e considerare la presenza di “realtà sommerse”, che pure caratterizzano il sistema agricolo italiano. Caporalato, lavoro in nero e sottopagato sono degli elementi che non possono essere letti attraverso i dati - poiché non registrati - ma che pure riemergono al verificarsi di fatti di cronaca. Il più recente è quello avvenuto a giugno 2024, con l’efferato omicidio dell’agricoltore <a href="https://www.ilpost.it/2024/06/20/inchiesta-morte-satnam-singh-agro-pontino-latina/"> Satnam Singh </a>, che lavorava a nero in un’azienda agricola dell’agropontino. Nel 2020, la serie di proteste il cui portavoce è stato <a href="https://www.ilpost.it/2020/06/17/protesta-aboubakar-soumahoro/Aboubakar"> Aboubakar Soumahoro </a> ha portato l’attenzione sulla situazione dei braccianti migranti, già tristemente nota e documentata in molte occasioni, una delle quali il libro-inchiesta di Fabrizio Gatti Bilal. Viaggiare, lavorare, morire da clandestini del 2008. </p> 
 
 <p style="color: #E0E0E0;">Si tratta di un settore complicato, dunque, che porta in seno delle contraddizioni che è spesso difficile da ricostruire e leggere in prospettiva. Per questo seguiremo i 10 punti del manifesto degli agricoltori per capire più da vicino quale sia lo stato di salute del sistema agricolo italiano.</p>
 
@@ -129,6 +128,6 @@ Insomma, quella italiana è una realtà fatta di grandi industrie, ma soprattutt
     </div>
 </div>
 
-<img src="{{site.baseurl}}/assets/images/infografiche/infog agric.png" width="1400" height="1400" alt="agricoltura_italiana">
+<img src="{{site.baseurl}}/assets/images/infografiche/Infog agric.png" width="1400" height="1400" alt="agricoltura_italiana">
 
 {% include code-explanation.html %} 

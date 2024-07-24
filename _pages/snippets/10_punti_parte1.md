@@ -245,7 +245,7 @@ Entriamo ora nel merito della SAU.</p>
 <br>
 
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/ISTAT_Toscana_smooth.json" style="width: 80%"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/ISTAT_Toscana_smooth.json" style="width: 80%"></vegachart>
 </div>
 
 <div class="container py-3">

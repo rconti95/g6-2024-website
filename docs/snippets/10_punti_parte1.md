@@ -334,4 +334,4 @@ Ma se per tali cambiamenti i sussidi vanno ad ettari, con le proporzioni che abb
     </div>
 </div>
 
-<img src="{{site.baseurl}}/assets/images/infografiche/infog Europa.png" width="1400" height="1400" alt="compromesso">
+<img src="{{site.baseurl}}/assets/images/infografiche/Infog Europa.png" width="1400" height="1400" alt="compromesso">

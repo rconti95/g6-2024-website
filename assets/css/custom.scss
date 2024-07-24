@@ -4,6 +4,17 @@
 @charset "utf-8";
 // Your custom css /scss here
 
+/* Change the color of all <a> tags */
+a {
+  color: rgb(24, 143, 225); /* You can use any color name, hex code, rgb, or hsl */
+  text-decoration: none; /* Remove underline if desired */
+}
+
+/* Change the color when the mouse hovers over the <a> tag */
+a:hover {
+  color: rgb(17, 101, 158);
+}
+
 #sezione-1, #sezione-11, #sezione-12, #mappa-delle-stragi, #galleria{
   scroll-margin-top: 60px; /* Imposta lo spazio di scorrimento prima dell'elemento ancorato */
 }

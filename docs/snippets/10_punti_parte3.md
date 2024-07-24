@@ -35,7 +35,7 @@ Ma come catturare la voce di agricoltori e agricoltrici e, soprattutto, cogliern
         <div class="col-md-8">
             <hr>
 
-<p style="color: #E0E0E0;">Anche un’analisi dei commenti sulla pagina Facebook "CRA Agricoltori traditi" rivela che il termine “sindacato” suscita quasi esclusivamente rabbia.</p>
+<p style="color: #E0E0E0;">In effetti un’analisi dei commenti sulla pagina Facebook "CRA Agricoltori traditi" rivela che il termine “sindacato” suscita quasi esclusivamente rabbia.</p>
 
             <hr>
         </div>
@@ -44,7 +44,7 @@ Ma come catturare la voce di agricoltori e agricoltrici e, soprattutto, cogliern
 
  [//]: # (Big numbers)
 <div class="bg-color bg-color-full py-3 my-5">
-    {% include one-column.html dimension="small" title="Sentiment analysis sui commenti di argomento i sindacati agricoli" %}
+    {% include one-column.html dimension="small" title="Sentiment analysis dei commenti sui sindacati agricoli" %}
     {% include big-numbers-cards.html data="sindacati_emotions" number="Morti" description="Matrice" %}
 </div>
 

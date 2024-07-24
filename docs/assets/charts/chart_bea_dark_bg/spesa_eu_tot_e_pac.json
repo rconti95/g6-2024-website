@@ -1,5 +1,5 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
   "config": {
     "axis": {
       "domainColor": "#B0B0B0",
@@ -24,10 +24,10 @@
     }
   },
   "data": {
-    "name": "data-7c81e91e00ea1eaa894e768f33bdd625"
+    "name": "data-4c36610aaa5763de9281a8de368187d4"
   },
   "datasets": {
-    "data-7c81e91e00ea1eaa894e768f33bdd625": [
+    "data-4c36610aaa5763de9281a8de368187d4": [
       {
         "CAP at % expenditure": 46.4,
         "Category": 2004,
@@ -132,7 +132,7 @@
         "tooltip": [
           {
             "field": "EU expenditure",
-            "title": "Year",
+            "title": "Totale",
             "type": "quantitative"
           }
         ],

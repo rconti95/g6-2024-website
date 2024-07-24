@@ -24,10 +24,10 @@
     }
   },
   "data": {
-    "name": "data-9cfb34cf44e53f7d98fdf3e26a7fb021"
+    "name": "data-56949ae4fe05fba0cf572ebe8f3cd370"
   },
   "datasets": {
-    "data-9cfb34cf44e53f7d98fdf3e26a7fb021": [
+    "data-56949ae4fe05fba0cf572ebe8f3cd370": [
       {
         "Anno": 2015,
         "Territorio": "Toscana",
@@ -220,64 +220,64 @@
       {
         "Anno": 2015,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 33964.0
       },
       {
         "Anno": 2016,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 31368.0
       },
       {
         "Anno": 2017,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 29780.0
       },
       {
         "Anno": 2018,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 29774.0
       },
       {
         "Anno": 2019,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 29230.0
       },
       {
         "Anno": 2020,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 26515.0
       },
       {
         "Anno": 2021,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 34457.0
       },
       {
         "Anno": 2022,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 27065.0
       },
       {
         "Anno": 2023,
         "Territorio": "Toscana",
-        "Tipo dato": "superficie totale - are",
-        "Title": "superficie totale - are - Toscana",
+        "Tipo dato": "Bosco - are",
+        "Title": "Bosco - are - Toscana",
         "Valore": 27253.0
       },
       {
@@ -351,21 +351,21 @@
         "input": "select",
         "name": " ",
         "options": [
+          "Bosco - are",
           "produzione raccolta - quintali",
           "produzione totale - quintali",
           "superficie in produzione - ettari",
-          "superficie totale - are",
           "superficie totale - ettari"
         ]
       },
-      "name": "SelectTipoDato",
+      "name": "param_6",
       "select": {
         "fields": [
           "Tipo dato"
         ],
         "type": "point"
       },
-      "value": "produzione raccolta - quintali",
+      "value": "Bosco - are",
       "views": [
         "view_7"
       ]
@@ -390,7 +390,7 @@
       "transform": [
         {
           "filter": {
-            "param": "SelectTipoDato"
+            "param": "param_6"
           }
         }
       ],
@@ -424,7 +424,7 @@
           "transform": [
             {
               "filter": {
-                "param": "SelectTipoDato"
+                "param": "param_6"
               }
             }
           ]
@@ -485,7 +485,7 @@
           "transform": [
             {
               "filter": {
-                "param": "SelectTipoDato"
+                "param": "param_6"
               }
             }
           ]

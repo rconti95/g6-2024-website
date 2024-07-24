@@ -1,4 +1,15 @@
+/* Change the color of all <a> tags */
 @import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+a {
+  color: rgb(24, 143, 225); /* You can use any color name, hex code, rgb, or hsl */
+  text-decoration: none; /* Remove underline if desired */
+}
+
+/* Change the color when the mouse hovers over the <a> tag */
+a:hover {
+  color: rgb(17, 101, 158);
+}
+
 #sezione-1, #sezione-11, #sezione-12, #mappa-delle-stragi, #galleria {
   scroll-margin-top: 60px; /* Imposta lo spazio di scorrimento prima dell'elemento ancorato */
 }

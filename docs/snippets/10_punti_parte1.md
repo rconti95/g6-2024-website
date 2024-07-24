@@ -27,7 +27,7 @@
         <div class="col-md-8">
             <hr>
 
-<p style="color: #E0E0E0;">Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 bilioni.
+<p style="color: #E0E0E0;">Tornando alla PAC di questo quinquennio, il piano strategico 2023-2027 prevede una spesa di €386.6 miliardi.
 La PAC viene suddivisa in due macrocategorie di spesa: EAGF (pagamenti settoriali e diretti) e EAFRD (sviluppo rurale), due aspetti strettamente legati che sono così suddivisi:</p> 
 
             <hr>
@@ -239,7 +239,13 @@ Entriamo ora nel merito della SAU.</p>
 </div>
 
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/ISTAT_Toscana_smooth.json" style="width: 80%"></vegachart>
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/chart_istat_sup2.json" style="width: 100%"></vegachart>
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/ISTAT_Toscana_smooth.json" style="width: 80%"></vegachart>
 </div>
 
 <div class="container py-3">
@@ -262,7 +268,7 @@ Entriamo ora nel merito della SAU.</p>
 <hr>
 <br>
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/LULC_Toscana_smooth.json" style="width: 80%"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_LULC_smooth.json" style="width: 80%"></vegachart>
 </div>
 
 {% capture telerilevamento %}
@@ -274,8 +280,9 @@ Entriamo ora nel merito della SAU.</p>
 <br>
 <p style="color: #E0E0E0;">Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse in base alla classificazione del suolo del modello:
 <ul style="color: #E0E0E0;">
+    <li>Bosco</li>
     <li>Pascolo</li>
-    <li>Lago</li>
+    <li>Laghi</li>
     <li>Vegetazione Erbacea</li>
     <li>Fiumi</li>
     <li>Strade</li>

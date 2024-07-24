@@ -44,6 +44,7 @@ vega: true
     </div>
 </div>
 
+<!--
 <div id="mappa-proteste">
         <div class="container py-3">
             <div class="row">
@@ -54,6 +55,20 @@ vega: true
                 </div>
             </div>
         </div>
+-->
+
+<div class={% if include.container == 'fluid' %}"container-fluid"{% else %}"container"{% endif %}>
+    <div class="row pt-2">
+        <div class="col-md-5 col-sm-12  ">
+            <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_trattori.json" style="width: 100%"></vegachart>
+        </div>
+        <div class="col-md-2 col-sm-12  ">
+        </div>
+        <div class="col-md-5 col-sm-12 ">
+            <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_heatmap.json" style="width: 100%"></vegachart>
+        </div>
+    </div>
+</div>
 
 <div class="container py-3">
     <div class="row">

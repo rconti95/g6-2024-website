@@ -60,7 +60,7 @@ vega: true
 </div>
 
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/Produzione_Italia_smooth.json" style="width: 60%;"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/prod_tot.json" style="width: 60%;"></vegachart>
 </div>
 
 <div class="container py-3">

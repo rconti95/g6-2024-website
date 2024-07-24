@@ -262,7 +262,7 @@ Entriamo ora nel merito della SAU.</p>
 <hr>
 <br>
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/LULC_Toscana_smooth.json" style="width: 80%"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_LULC_smooth.json" style="width: 80%"></vegachart>
 </div>
 
 {% capture telerilevamento %}
@@ -274,8 +274,9 @@ Entriamo ora nel merito della SAU.</p>
 <br>
 <p style="color: #E0E0E0;">Attraverso il menù a tendina è possibile selezionare la tipologia di dato di interesse in base alla classificazione del suolo del modello:
 <ul style="color: #E0E0E0;">
+    <li>Bosco</li>
     <li>Pascolo</li>
-    <li>Lago</li>
+    <li>Laghi</li>
     <li>Vegetazione Erbacea</li>
     <li>Fiumi</li>
     <li>Strade</li>

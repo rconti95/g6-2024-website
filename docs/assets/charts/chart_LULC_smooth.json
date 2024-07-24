@@ -24,14 +24,14 @@
     }
   },
   "data": {
-    "name": "data-a98a6745abf8d7049c1cf66bf5fbc466"
+    "name": "data-1de1b8e9da45b2fa54a1769b82bc0289"
   },
   "datasets": {
-    "data-a98a6745abf8d7049c1cf66bf5fbc466": [
+    "data-1de1b8e9da45b2fa54a1769b82bc0289": [
       {
         "Anno": "2015",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 16643
       },
       {
@@ -96,8 +96,8 @@
       },
       {
         "Anno": "2016",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 23614
       },
       {
@@ -162,8 +162,8 @@
       },
       {
         "Anno": "2017",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 16142
       },
       {
@@ -228,8 +228,8 @@
       },
       {
         "Anno": "2018",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 15399
       },
       {
@@ -294,8 +294,8 @@
       },
       {
         "Anno": "2019",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 11102
       },
       {
@@ -360,8 +360,8 @@
       },
       {
         "Anno": "2020",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 15149
       },
       {
@@ -426,8 +426,8 @@
       },
       {
         "Anno": "2021",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 15365
       },
       {
@@ -492,8 +492,8 @@
       },
       {
         "Anno": "2022",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 16148
       },
       {
@@ -558,8 +558,8 @@
       },
       {
         "Anno": "2023",
-        "Tipo dato": "Foresta",
-        "Title": "Foresta - Toscana",
+        "Tipo dato": "Bosco",
+        "Title": "Bosco - Toscana",
         "Valore": 15249
       },
       {
@@ -631,10 +631,10 @@
         "name": " ",
         "options": [
           "Aree Industriali",
+          "Bosco",
           "Colture Annuali",
           "Colture Permanenti",
           "Fiumi",
-          "Foresta",
           "Lago",
           "Pascolo",
           "Strade",
@@ -652,7 +652,7 @@
       },
       "value": "Aree Industriali",
       "views": [
-        "view_11"
+        "view_1"
       ]
     }
   ],
@@ -716,7 +716,7 @@
             "interpolate": "monotone",
             "type": "line"
           },
-          "name": "view_11",
+          "name": "view_1",
           "transform": [
             {
               "filter": {

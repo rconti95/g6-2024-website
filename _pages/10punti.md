@@ -58,7 +58,7 @@ Possono essere suddivisi in macroaree di argomenti:</p>
 <br>
 <hr>
 
-<h2 style="color: #E0E0E0;">Punto 1: Il Green Deal Europeo: un difficile equilibrio:</h2>
+<h2 style="color: #E0E0E0;">Il Green Deal Europeo: un difficile equilibrio:</h2>
 <hr>
         </div>
     </div>
@@ -79,7 +79,7 @@ Possono essere suddivisi in macroaree di argomenti:</p>
         <div class="col-md-8">
             <hr>
 
-<h2 style="color: #E0E0E0;">Punto 2: Stato e agricoltori: dov’è l’Italia?</h2>
+<h2 style="color: #E0E0E0;">Stato e agricoltori: dov’è l’Italia?</h2>
 
             <hr>
         </div>
@@ -100,7 +100,7 @@ Possono essere suddivisi in macroaree di argomenti:</p>
         <div class="col-md-8">
             <hr>
 
-<h2 style="color: #E0E0E0;">Punto 3: Riqualificazione della figura dell’agricoltore</h2>
+<h2 style="color: #E0E0E0;">Riqualificazione della figura dell’agricoltore</h2>
 
             <hr>
         </div>

@@ -7,9 +7,6 @@ Il dataset contiene delle metriche relative all'Agricoltura per ogni tipologia d
 Dal dataset di partenza sono state selezionate le seguenti colonne di interesse:
 
 1. __Tipo dato.__ Contiene i nomi delle metriche:
-   - __superficie totale - ettari__, rappresenta la SAU + i territori boschivi;
-   - __superficie totale - are__, rappresenta i territori boschivi;
-   - __superficie in produzione - ettari__, rappresenta la SAU;
    - __produzione totale - quintali__;
    - __produzione raccolta - quintali__;
 

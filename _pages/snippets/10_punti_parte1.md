@@ -239,6 +239,12 @@ Entriamo ora nel merito della SAU.</p>
 </div>
 
 <div style="text-align: center;">
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/chart_istat_sup2.json" style="width: 100%"></vegachart>
+</div>
+
+<br>
+
+<div style="text-align: center;">
   <vegachart schema-url="{{site.baseurl}}/assets/charts/ISTAT_Toscana_smooth.json" style="width: 80%"></vegachart>
 </div>
 

@@ -26,7 +26,7 @@ vega: true
 </div>
 
 <div style="text-align: center;">
-    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/ISTAT_Italia_smooth.json" style="width: 100%"></vegachart>
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/chart_ric_dark_bg/chart_istat_prod2.json" style="width: 100%"></vegachart>
 </div>
 
 <!-- <vegachart schema-url='E:/Gianluca/Master Big Data Pisa/Progetto_Finale/Sito/g6-2024-website/assets/charts/chart_ric_dark_bg/chart_istat.json' style="width: 100%"></vegachart> -->
@@ -60,7 +60,7 @@ vega: true
 </div>
 
 <div style="text-align: center;">
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/Produzione_Italia_smooth.json" style="width: 60%;"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/assets/charts/prod_tot.json" style="width: 60%;"></vegachart>
 </div>
 
 <div class="container py-3">

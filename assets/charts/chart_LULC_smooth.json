@@ -650,9 +650,9 @@
         ],
         "type": "point"
       },
-      "value": "Aree Industriali",
+      "value": "Bosco",
       "views": [
-        "view_1"
+        "view_2"
       ]
     }
   ],
@@ -716,7 +716,7 @@
             "interpolate": "monotone",
             "type": "line"
           },
-          "name": "view_1",
+          "name": "view_2",
           "transform": [
             {
               "filter": {
